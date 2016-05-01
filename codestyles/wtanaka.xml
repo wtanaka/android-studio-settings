@@ -14,6 +14,7 @@
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+  <option name="LAYOUT_STATIC_IMPORTS_SEPARATELY" value="false" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -29,6 +30,8 @@
       <emptyLine />
       <package name="org" withSubpackages="true" static="false" />
       <emptyLine />
+      <package name="util" withSubpackages="true" static="false" />
+      <emptyLine />
       <package name="android" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="com" withSubpackages="true" static="false" />
@@ -36,8 +39,6 @@
       <package name="net" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="" withSubpackages="true" static="true" />
       <emptyLine />
     </value>
   </option>
@@ -90,6 +91,7 @@
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="PREFER_PARAMETERS_WRAP" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
@@ -335,6 +337,7 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
