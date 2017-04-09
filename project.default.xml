@@ -20,9 +20,6 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -33,9 +30,10 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+        <property name="android.sdk.path" value="$USER_HOME$/dl/android-sdk" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
@@ -96,7 +94,7 @@
           <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
           <option name="OUTPUT_DIRECTORY" />
           <option name="ANNOTATION_TYPE" />
           <option name="ENV_VARIABLES" />
