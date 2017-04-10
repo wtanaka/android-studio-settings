@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/home/wtanaka/Dropbox/streaming/beam/src/main/java/com/wtanaka/streaming/beam/KafkaToKafka.java'" />
-    <option name="defaultScopeName" value="File '/home/wtanaka/Dropbox/streaming/beam/src/main/java/com/wtanaka/streaming/beam/KafkaToKafka.java'" />
-    <option name="SEARCH_SCOPE" value="File '/home/wtanaka/Dropbox/streaming/beam/src/main/java/com/wtanaka/streaming/beam/KafkaToKafka.java'" />
+    <option name="customScope" value="Module 'beam'" />
+    <option name="defaultScopeName" value="Module 'beam'" />
+    <option name="SEARCH_SCOPE" value="Module 'beam'" />
   </component>
 </application>
