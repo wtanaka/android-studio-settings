@@ -122,6 +122,13 @@
         <section>
           <rule>
             <match>
+              <ENUM>true</ENUM>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
               <AND>
                 <FIELD>true</FIELD>
                 <FINAL>true</FINAL>
@@ -360,13 +367,6 @@
               <METHOD>true</METHOD>
             </match>
             <order>BY_NAME</order>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <ENUM>true</ENUM>
-            </match>
           </rule>
         </section>
         <section>
