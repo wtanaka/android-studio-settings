@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'beam'" />
-    <option name="defaultScopeName" value="Module 'beam'" />
-    <option name="SEARCH_SCOPE" value="Module 'beam'" />
+    <option name="customScope" value="File '[beam] - .../beam/src/main/java/com/wtanaka/beam/transforms/PercentMatch.java'" />
+    <option name="defaultScopeName" value="File '[beam] - .../beam/src/main/java/com/wtanaka/beam/transforms/PercentMatch.java'" />
+    <option name="SEARCH_SCOPE" value="File '[beam] - .../beam/src/main/java/com/wtanaka/beam/transforms/PercentMatch.java'" />
   </component>
 </application>
