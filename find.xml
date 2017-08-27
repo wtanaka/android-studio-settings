@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[beam] - .../beam/src/test/java/com/wtanaka/beam/transforms/ComposeTwoCombineFnTest.java'" />
-    <option name="defaultScopeName" value="File '[beam] - .../beam/src/test/java/com/wtanaka/beam/transforms/ComposeTwoCombineFnTest.java'" />
-    <option name="SEARCH_SCOPE" value="File '[beam] - .../beam/src/test/java/com/wtanaka/beam/transforms/ComposeTwoCombineFnTest.java'" />
+    <option name="customScope" value="Current File" />
+    <option name="defaultScopeName" value="Current File" />
+    <option name="SEARCH_SCOPE" value="Current File" />
   </component>
 </application>
