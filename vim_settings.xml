@@ -3,74 +3,148 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1503878685453">
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" timestamp="1503881794871">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="43" column="44" />
+        <mark key="." line="43" column="44" />
+        <mark key="^" line="43" column="44" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1503880046743">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" timestamp="1503878813409">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="33" column="6" />
-        <mark key="]" line="33" column="6" />
-        <mark key="^" line="28" column="20" />
-        <mark key="." line="33" column="6" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" timestamp="1503881173667">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/build.gradle" timestamp="1503878644930" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/build.gradle" timestamp="1503881510011">
+        <mark key="'" line="250" column="0" />
+        <mark key="^" line="227" column="7" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/CombineOrderLimit.java" timestamp="1503880335487">
+        <mark key="'" line="47" column="55" />
+      </file>
       <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/View.java" timestamp="1503865393415">
         <mark key="[" line="176" column="82" />
         <mark key="]" line="176" column="82" />
         <mark key="^" line="176" column="27" />
         <mark key="." line="176" column="82" />
       </file>
-      <file name="/fragment.java" timestamp="1503878694351">
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/ComposeTwoCombineFn.java" timestamp="1503880367182">
+        <mark key="'" line="47" column="3" />
+        <mark key="[" line="88" column="17" />
+        <mark key="]" line="88" column="22" />
+        <mark key="." line="88" column="22" />
+        <mark key="^" line="88" column="22" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" timestamp="1503881731208">
+        <mark key="[" line="28" column="3" />
+        <mark key="]" line="27" column="11" />
+        <mark key="^" line="27" column="11" />
+        <mark key="." line="28" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/Problem49.java" timestamp="1503880142567">
+        <mark key="'" line="47" column="9" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="47" column="9" />
+      </file>
+      <file name="/fragment.java" timestamp="1503881094272">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/example.proto" timestamp="1503879918254">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="57" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
       <jump line="53" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
       <jump line="40" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
       <jump line="27" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
+      <jump line="7" column="61" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/example.proto" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/example.proto" />
+      <jump line="48" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/Problem49.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/ComposeTwoCombineFn.java" />
+      <jump line="88" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/ComposeTwoCombineFn.java" />
+      <jump line="71" column="48" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/ComposeTwoCombineFn.java" />
+      <jump line="92" column="64" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/ComposeTwoCombineFn.java" />
+      <jump line="87" column="40" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/ComposeTwoCombineFn.java" />
+      <jump line="114" column="29" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/CombineOrderLimit.java" />
+      <jump line="47" column="55" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/CombineOrderLimit.java" />
+      <jump line="47" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/ComposeTwoCombineFn.java" />
+      <jump line="33" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/build.gradle" />
+      <jump line="248" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/build.gradle" />
+      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>return null;</text>
+        <text>int_field</text>
+      </register>
+      <register name="-" type="4">
+        <text>int_field</text>
+      </register>
+      <register name="/" type="4">
+        <text>mapOut</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgaW50MzIgaW50X2ZpZWxkID0gMTY7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgRXhhbXBsZSBleGFtcGxlOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgcHJpdmF0ZSBmaW5hbCBpbnQgbV9udW1CaXRzOwo=</text>
+      <register name="3" type="4">
+        <text>.build()</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgIHB1YmxpYyBQcm90b2J1ZkZsaW5rKGludCBudW1CaXRzKQogICB7CiAgICAgIG1fbnVtQml0cyA9IG51bUJpdHM7CiAgIH0K</text>
+      <register name="4" type="4">
+        <text>Example.newBuilder()</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgIHByaXZhdGUgU3RyaW5nIGNhbGN1bGF0ZUdyYXlDb2RlKGludCBudW1CaXRzLCBpbnQgc2VxdWVuY2UpCiAgIHsKICAgICAgaWYgKG51bUJpdHMgPD0gMCkKICAgICAgewogICAgICAgICByZXR1cm4gIiI7CiAgICAgIH0KICAgICAgZWxzZQogICAgICB7CiAgICAgICAgIHJldHVybiAiIjsKICAgICAgfQogICB9Cg==</text>
+        <text encoding="base64">CiAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpCiAgIHsKICAgICAgRXhhbXBsZSBleGFtcGxlID0gRXhhbXBsZS5uZXdCdWlsZGVyKCkuYnVpbGQoKTsKICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgcHVibGljIFBDb2xsZWN0aW9uPFN0cmluZz4gZXhwYW5kKFBCZWdpbiBpbnB1dCkKICAgewogICAgICByZXR1cm4gaW5wdXQKICAgICAgICAgLmFwcGx5KEdlbmVyYXRlU2VxdWVuY2UuZnJvbSgwKS50bygxIDw8IChtX251bUJpdHMpKSkKICAgICAgICAgLmFwcGx5KAogICAgICAgICAgICBNYXBFbGVtZW50cy52aWEobmV3IFNpbXBsZUZ1bmN0aW9uPExvbmcsIFN0cmluZz4oKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICBwdWJsaWMgU3RyaW5nIGFwcGx5KGZpbmFsIExvbmcgc2VxdWVuY2UpCiAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgcmV0dXJuIFN0cmluZy52YWx1ZU9mKHNlcXVlbmNlKTsKICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KSk7CiAgIH0K</text>
+        <text encoding="base64">cGFja2FnZSBjb20ud3RhbmFrYS5iZWFtLmV4YW1wbGVzOwoKaW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">QW4gbi1iaXQgR3JheSBjb2RlIGlzIGEgc2VxdWVuY2Ugb2Ygbi1iaXQgc3RyaW5ncyBjb25zdHJ1Y3RlZCBhY2NvcmRpbmcgdG8KICogY2VydGFpbiBydWxlcy4gRm9yIGV4YW1wbGUsCiAqIDxwcmU+CiAqIG4gPSAxOiBDKDEpID0gWycwJywnMSddLgogKiBuID0gMjogQygyKSA9IFsnMDAnLCcwMScsJzExJywnMTAnXS4KICogbiA9IDM6IEMoMykgPSBbJzAwMCcsJzAwMScsJzAxMScsJzAxMCcswrQxMTDCtCzCtDExMcK0LMK0MTAxwrQswrQxMDDCtF0uCiAqIDwvcHJlPgogKiBGaW5kIG91dCB0aGUgY29uc3RydWN0aW9uIHJ1bGVzIGFuZCB3cml0ZSBhIHByZWRpY2F0ZSB3aXRoIHRoZSBmb2xsb3dpbmcKICogc3BlY2lmaWNhdGlvbjoKICogPHA+CiAqIDxwcmU+CiAqICUgZ3JheShOLEMpIDotIEMgaXMgdGhlIE4tYml0IEdyYXkgY29kZQogKiA8L3ByZT4KICogPHA+CiAqIENhbiB5b3UgYXBwbHkgdGhlIG1ldGhvZCBvZiAicmVzdWx0IGNhY2hpbmciIGluIG9yZGVyIHRvIG1ha2UgdGhlIHByZWRpY2F0ZQogKiBtb3JlIGVmZmljaWVudCwgd2hlbiBpdCBpcyB0byBiZSB1c2VkIHJlcGVhdGVkbHk/CiAqIDxwPgogKiBFeGFtcGxlIGluIEhhc2tlbGw6CiAqIDxwcmU+CiAqIFA0OT4gZ3JheSAzCiAqIFsiMDAwIiwiMDAxIiwiMDExIiwiMDEwIiwiMTEwIiwiMTExIiwiMTAxIiwiMTAwIl0KICogPC9wcmU+CiAqLw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgRXhhbXBsZSBleGFtcGxlID0gRXhhbXBsZS5uZXdCdWlsZGVyKCkuYnVpbGQoKTtvCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgRXhhbXBsZVByb3RvCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgRXhhbXBsZVByb3RvLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>return null;</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>mapOut</last-search>
+      <last-offset />
+      <last-pattern>mapOut</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>mapOut</entry>
+      </history-search>
       <history-cmd>
         <entry>syn on</entry>
+        <entry encoding="base64">JzwsJz4hc29ydA==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -85,6 +159,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
