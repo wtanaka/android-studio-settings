@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" timestamp="1503881794871">
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" timestamp="1503882656412">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="51" />
-        <mark key="]" line="43" column="44" />
-        <mark key="." line="43" column="44" />
-        <mark key="^" line="43" column="44" />
+        <mark key="[" line="39" column="38" />
+        <mark key="]" line="39" column="39" />
+        <mark key="." line="39" column="39" />
+        <mark key="^" line="39" column="39" />
       </file>
       <file name="/Dummy.txt" timestamp="1503880046743">
         <mark key="[" line="0" column="0" />
@@ -89,10 +89,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int_field</text>
+        <text>set</text>
       </register>
       <register name="-" type="4">
-        <text>int_field</text>
+        <text>set</text>
       </register>
       <register name="/" type="4">
         <text>mapOut</text>
@@ -100,32 +100,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgaW50MzIgaW50X2ZpZWxkID0gMTY7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRXhhbXBsZSBleGFtcGxlOwo=</text>
+      <register name="1" type="4">
+        <text>.getDefaultInstance()</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgRXhhbXBsZSBleGFtcGxlOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>.build()</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Example.newBuilder()</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpCiAgIHsKICAgICAgRXhhbXBsZSBleGFtcGxlID0gRXhhbXBsZS5uZXdCdWlsZGVyKCkuYnVpbGQoKTsKICAgfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">cGFja2FnZSBjb20ud3RhbmFrYS5iZWFtLmV4YW1wbGVzOwoKaW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgRXhhbXBsZSBleGFtcGxlID0gRXhhbXBsZS5uZXdCdWlsZGVyKCkuYnVpbGQoKTtvCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgRXhhbXBsZVByb3RvCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRXhhbXBsZVByb3RvLgo=</text>
+        <text encoding="base64">ICAgICAgRXhhbXBsZVByb3RvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
