@@ -3,20 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" timestamp="1503882656412">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="39" column="39" />
-        <mark key="." line="39" column="39" />
-        <mark key="^" line="39" column="39" />
-      </file>
       <file name="/Dummy.txt" timestamp="1503880046743">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" timestamp="1503881173667">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" timestamp="1503883658888">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/build.gradle" timestamp="1503881510011">
         <mark key="'" line="250" column="0" />
@@ -25,11 +19,8 @@
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/CombineOrderLimit.java" timestamp="1503880335487">
         <mark key="'" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/View.java" timestamp="1503865393415">
-        <mark key="[" line="176" column="82" />
-        <mark key="]" line="176" column="82" />
-        <mark key="^" line="176" column="27" />
-        <mark key="." line="176" column="82" />
+      <file name="/a.dummy" timestamp="1503883219991">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/ComposeTwoCombineFn.java" timestamp="1503880367182">
         <mark key="'" line="47" column="3" />
@@ -38,12 +29,6 @@
         <mark key="." line="88" column="22" />
         <mark key="^" line="88" column="22" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" timestamp="1503881731208">
-        <mark key="[" line="28" column="3" />
-        <mark key="]" line="27" column="11" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="28" column="11" />
-      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/Problem49.java" timestamp="1503880142567">
         <mark key="'" line="47" column="9" />
         <mark key="[" line="38" column="0" />
@@ -51,15 +36,35 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="47" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1503881094272">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/example.proto" timestamp="1503879918254">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="15" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" timestamp="1503883332726">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="48" column="36" />
+        <mark key="]" line="48" column="37" />
+        <mark key="." line="48" column="37" />
+        <mark key="^" line="54" column="47" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/View.java" timestamp="1503865393415">
+        <mark key="[" line="176" column="82" />
+        <mark key="]" line="176" column="82" />
+        <mark key="^" line="176" column="27" />
+        <mark key="." line="176" column="82" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" timestamp="1503883531839">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="36" />
+        <mark key="^" line="34" column="30" />
+        <mark key="." line="34" column="36" />
+      </file>
+      <file name="/fragment.java" timestamp="1503881094272">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -86,65 +91,88 @@
       <jump line="24" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
       <jump line="37" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
+      <jump line="49" column="39" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
+      <jump line="30" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
+      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
+      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
+      <jump line="19" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
+      <jump line="44" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>set</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">awo=</text>
       </register>
       <register name="-" type="4">
-        <text>set</text>
+        <text>input</text>
       </register>
       <register name="/" type="4">
-        <text>mapOut</text>
+        <text>left</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgaW50MzIgaW50X2ZpZWxkID0gMTY7Cg==</text>
+        <text encoding="base64">ICAgb3B0aW9uYWwgaW50MzIgaW50X2ZpZWxkID0gMTY7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>.getDefaultInstance()</text>
+      <register name="1" type="2">
+        <text encoding="base64">awo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRXhhbXBsZSBleGFtcGxlOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.build()</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgIHB1YmxpYyBQQ29sbGVjdGlvbjxieXRlW10+IGV4cGFuZChmaW5hbCBQQ29sbGVjdGlvbjxieXRlW10+IGlucHV0KQogICB7CiAgICAgIHJldHVybiBudWxsOwogICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="5" type="4">
-        <text>Example.newBuilder()</text>
+        <text>byte[]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpCiAgIHsKICAgICAgRXhhbXBsZSBleGFtcGxlID0gRXhhbXBsZS5uZXdCdWlsZGVyKCkuYnVpbGQoKTsKICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXhhbXBsZS5uZXdCdWlsZGVyKCkuYnVpbGQoKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ud3RhbmFrYS5iZWFtLmV4YW1wbGVzOwoKaW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cgo=</text>
+      <register name="7" type="4">
+        <text>Example.getDefaultInstance()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgRXhhbXBsZSBleGFtcGxlID0gRXhhbXBsZS5uZXdCdWlsZGVyKCkuYnVpbGQoKTtvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXhhbXBsZS5nZXREZWZhdWx0SW5zdGFuY2UoKSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRXhhbXBsZVByb3RvCg==</text>
+      <register name="9" type="4">
+        <text>.getDefaultInstance()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mapOut</last-search>
+      <last-search>left</last-search>
       <last-offset />
-      <last-pattern>mapOut</last-pattern>
+      <last-pattern>left</last-pattern>
+      <last-replace>right</last-replace>
+      <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>mapOut</entry>
+        <entry>left</entry>
       </history-search>
       <history-cmd>
         <entry>syn on</entry>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
+        <entry>.,.+1s/left/right/gc</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
