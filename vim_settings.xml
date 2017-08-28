@@ -3,26 +3,64 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1503868059846">
+      <file name="/Dummy.txt" timestamp="1503878685453">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" timestamp="1503878813409">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="33" column="6" />
+        <mark key="^" line="28" column="20" />
+        <mark key="." line="33" column="6" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/build.gradle" timestamp="1503878644930" />
       <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/View.java" timestamp="1503865393415">
         <mark key="[" line="176" column="82" />
         <mark key="]" line="176" column="82" />
         <mark key="^" line="176" column="27" />
         <mark key="." line="176" column="82" />
       </file>
+      <file name="/fragment.java" timestamp="1503878694351">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="57" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
+    </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">KiA=</text>
+        <text>return null;</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgcHJpdmF0ZSBmaW5hbCBpbnQgbV9udW1CaXRzOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgIHB1YmxpYyBQcm90b2J1ZkZsaW5rKGludCBudW1CaXRzKQogICB7CiAgICAgIG1fbnVtQml0cyA9IG51bUJpdHM7CiAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgIHByaXZhdGUgU3RyaW5nIGNhbGN1bGF0ZUdyYXlDb2RlKGludCBudW1CaXRzLCBpbnQgc2VxdWVuY2UpCiAgIHsKICAgICAgaWYgKG51bUJpdHMgPD0gMCkKICAgICAgewogICAgICAgICByZXR1cm4gIiI7CiAgICAgIH0KICAgICAgZWxzZQogICAgICB7CiAgICAgICAgIHJldHVybiAiIjsKICAgICAgfQogICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgcHVibGljIFBDb2xsZWN0aW9uPFN0cmluZz4gZXhwYW5kKFBCZWdpbiBpbnB1dCkKICAgewogICAgICByZXR1cm4gaW5wdXQKICAgICAgICAgLmFwcGx5KEdlbmVyYXRlU2VxdWVuY2UuZnJvbSgwKS50bygxIDw8IChtX251bUJpdHMpKSkKICAgICAgICAgLmFwcGx5KAogICAgICAgICAgICBNYXBFbGVtZW50cy52aWEobmV3IFNpbXBsZUZ1bmN0aW9uPExvbmcsIFN0cmluZz4oKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICBwdWJsaWMgU3RyaW5nIGFwcGx5KGZpbmFsIExvbmcgc2VxdWVuY2UpCiAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgcmV0dXJuIFN0cmluZy52YWx1ZU9mKHNlcXVlbmNlKTsKICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KSk7CiAgIH0K</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">QW4gbi1iaXQgR3JheSBjb2RlIGlzIGEgc2VxdWVuY2Ugb2Ygbi1iaXQgc3RyaW5ncyBjb25zdHJ1Y3RlZCBhY2NvcmRpbmcgdG8KICogY2VydGFpbiBydWxlcy4gRm9yIGV4YW1wbGUsCiAqIDxwcmU+CiAqIG4gPSAxOiBDKDEpID0gWycwJywnMSddLgogKiBuID0gMjogQygyKSA9IFsnMDAnLCcwMScsJzExJywnMTAnXS4KICogbiA9IDM6IEMoMykgPSBbJzAwMCcsJzAwMScsJzAxMScsJzAxMCcswrQxMTDCtCzCtDExMcK0LMK0MTAxwrQswrQxMDDCtF0uCiAqIDwvcHJlPgogKiBGaW5kIG91dCB0aGUgY29uc3RydWN0aW9uIHJ1bGVzIGFuZCB3cml0ZSBhIHByZWRpY2F0ZSB3aXRoIHRoZSBmb2xsb3dpbmcKICogc3BlY2lmaWNhdGlvbjoKICogPHA+CiAqIDxwcmU+CiAqICUgZ3JheShOLEMpIDotIEMgaXMgdGhlIE4tYml0IEdyYXkgY29kZQogKiA8L3ByZT4KICogPHA+CiAqIENhbiB5b3UgYXBwbHkgdGhlIG1ldGhvZCBvZiAicmVzdWx0IGNhY2hpbmciIGluIG9yZGVyIHRvIG1ha2UgdGhlIHByZWRpY2F0ZQogKiBtb3JlIGVmZmljaWVudCwgd2hlbiBpdCBpcyB0byBiZSB1c2VkIHJlcGVhdGVkbHk/CiAqIDxwPgogKiBFeGFtcGxlIGluIEhhc2tlbGw6CiAqIDxwcmU+CiAqIFA0OT4gZ3JheSAzCiAqIFsiMDAwIiwiMDAxIiwiMDExIiwiMDEwIiwiMTEwIiwiMTExIiwiMTAxIiwiMTAwIl0KICogPC9wcmU+CiAqLw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KiA=</text>
+        <text>return null;</text>
       </register>
     </registers>
     <search>
@@ -30,10 +68,24 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
+        <entry>syn on</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
