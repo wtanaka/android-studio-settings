@@ -47,12 +47,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" timestamp="1503889897000">
-        <mark key="'" line="34" column="25" />
-        <mark key="[" line="57" column="41" />
-        <mark key="]" line="57" column="61" />
-        <mark key="." line="57" column="61" />
-        <mark key="^" line="57" column="61" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" timestamp="1503908632588">
+        <mark key="'" line="36" column="25" />
+        <mark key="[" line="60" column="65" />
+        <mark key="]" line="59" column="14" />
+        <mark key="." line="59" column="14" />
+        <mark key="^" line="59" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/View.java" timestamp="1503865393415">
         <mark key="[" line="176" column="82" />
