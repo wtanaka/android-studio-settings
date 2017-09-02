@@ -74,12 +74,12 @@
         <mark key="^" line="48" column="2" />
         <mark key="." line="48" column="2" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" timestamp="1504336944438">
-        <mark key="'" line="21" column="13" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="35" column="49" />
-        <mark key="^" line="35" column="49" />
-        <mark key="." line="35" column="49" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" timestamp="1504337548993">
+        <mark key="'" line="28" column="19" />
+        <mark key="[" line="74" column="4" />
+        <mark key="]" line="75" column="19" />
+        <mark key="^" line="75" column="19" />
+        <mark key="." line="75" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1503881094272">
         <mark key="[" line="0" column="0" />
@@ -170,55 +170,57 @@
       <jump line="59" column="27" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
       <jump line="18" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Timestamp.java" />
       <jump line="2" column="13" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" />
+      <jump line="28" column="19" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>left</text>
+        <text>getRight</text>
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text>getRight</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDT0dCS19UT19QUk9UT0JVRlw+</text>
+        <text>Left</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgcHVibGljIHN0YXRpYyA8TCwgUj4gRWl0aGVyPEwsIFI+IGxlZnQoTCBsZWZ0KQogICB7CiAgICAgIG5ldyBFaXRoZXI8TCwgUj47CiAgIH0K</text>
+        <text encoding="base64">ICAgcHVibGljIFIgZ2V0UmlnaHQoKXt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgcHJpdmF0ZSBmaW5hbCBib29sZWFuIGlzTGVmdDsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgewo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LyoKICogY29tLnd0YW5ha2EuYmVhbQogKgogKiBDb3B5cmlnaHQgKEMpIDIwMTcgV2VzbGV5IFRhbmFrYSA8aHR0cDovL3d0YW5ha2EuY29tLz4KICoKICogVGhpcyBwcm9ncmFtIGlzIGZyZWUgc29mdHdhcmU6IHlvdSBjYW4gcmVkaXN0cmlidXRlIGl0IGFuZC9vcgogKiBtb2RpZnkgaXQgdW5kZXIgdGhlIHRlcm1zIG9mIHRoZSBHTlUgR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcwogKiBwdWJsaXNoZWQgYnkgdGhlIEZyZWUgU29mdHdhcmUgRm91bmRhdGlvbiwgZWl0aGVyIHZlcnNpb24gMyBvZiB0aGUKICogTGljZW5zZSwgb3IgKGF0IHlvdXIgb3B0aW9uKSBhbnkgbGF0ZXIgdmVyc2lvbi4KICoKICogVGhpcyBwcm9ncmFtIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsIGJ1dAogKiBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUgR05VCiAqIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgZm9yIG1vcmUgZGV0YWlscy4KICoKICogWW91IHNob3VsZCBoYXZlIHJlY2VpdmVkIGEgY29weSBvZiB0aGUgR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UKICogYWxvbmcgd2l0aCB0aGlzIHByb2dyYW0uICBJZiBub3QsIHNlZQogKiA8aHR0cDovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCiAqLw==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>.getIntField()</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>input.getIntField()</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgLmFkZFN0cmluZ0ZpZWxkKGxlZnQuZ2V0U3RyaW5nRmllbGQoKSkKICAgICAgICAgICAgICAgLmFkZFN0cmluZ0ZpZWxkKHJpZ2h0LmdldFN0cmluZ0ZpZWxkKCkpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxlZnQgIT0gbnVsbCAmJiByaWdodCAhPSBudWxsKQogICAgICAgICAgICB7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgRk4pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxlZnQgIT0gbnVsbCAmJiByaWdodCAhPSBudWxsKQogICAgICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDT0dCS19UT19QUk9UT0JVRlw+</last-search>
+      <last-search>Left</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDT0dCS19UT19QUk9UT0JVRlw+</last-pattern>
+      <last-pattern>Left</last-pattern>
       <last-replace>ExampleKey</last-replace>
       <last-substitute>IntOnly</last-substitute>
       <last-dir>1</last-dir>
@@ -238,6 +240,7 @@
         <entry>IntOnly</entry>
         <entry encoding="base64">XDxjb0dia1Jlc3VsdENvbGxlY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxDT0dCS19UT19QUk9UT0JVRlw+</entry>
+        <entry>Left</entry>
       </history-search>
       <history-cmd>
         <entry>syn on</entry>
