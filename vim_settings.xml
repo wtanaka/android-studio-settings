@@ -47,6 +47,13 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Timestamp.java" timestamp="1504336552308">
+        <mark key="'" line="18" column="3" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="2" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" timestamp="1503908632588">
         <mark key="'" line="36" column="25" />
         <mark key="[" line="60" column="65" />
@@ -66,6 +73,13 @@
         <mark key="]" line="48" column="2" />
         <mark key="^" line="48" column="2" />
         <mark key="." line="48" column="2" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" timestamp="1504336944438">
+        <mark key="'" line="21" column="13" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="35" column="49" />
+        <mark key="^" line="35" column="49" />
+        <mark key="." line="35" column="49" />
       </file>
       <file name="/fragment.java" timestamp="1503881094272">
         <mark key="[" line="0" column="0" />
@@ -154,46 +168,48 @@
       <jump line="120" column="47" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
       <jump line="125" column="57" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
       <jump line="59" column="27" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
+      <jump line="18" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Timestamp.java" />
+      <jump line="2" column="13" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IntOnly</text>
+        <text>left</text>
       </register>
       <register name="-" type="4">
-        <text>IntOnly</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT0dCS19UT19QUk9UT0JVRlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5hcGFjaGUuYmVhbTpiZWFtLXNka3MtamF2YS1leHRlbnNpb25zLXNvcnRlcjoyLjAuMCcK</text>
+        <text encoding="base64">ICAgcHVibGljIHN0YXRpYyA8TCwgUj4gRWl0aGVyPEwsIFI+IGxlZnQoTCBsZWZ0KQogICB7CiAgICAgIG5ldyBFaXRoZXI8TCwgUj47CiAgIH0K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgewo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">LyoKICogY29tLnd0YW5ha2EuYmVhbQogKgogKiBDb3B5cmlnaHQgKEMpIDIwMTcgV2VzbGV5IFRhbmFrYSA8aHR0cDovL3d0YW5ha2EuY29tLz4KICoKICogVGhpcyBwcm9ncmFtIGlzIGZyZWUgc29mdHdhcmU6IHlvdSBjYW4gcmVkaXN0cmlidXRlIGl0IGFuZC9vcgogKiBtb2RpZnkgaXQgdW5kZXIgdGhlIHRlcm1zIG9mIHRoZSBHTlUgR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcwogKiBwdWJsaXNoZWQgYnkgdGhlIEZyZWUgU29mdHdhcmUgRm91bmRhdGlvbiwgZWl0aGVyIHZlcnNpb24gMyBvZiB0aGUKICogTGljZW5zZSwgb3IgKGF0IHlvdXIgb3B0aW9uKSBhbnkgbGF0ZXIgdmVyc2lvbi4KICoKICogVGhpcyBwcm9ncmFtIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsIGJ1dAogKiBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUgR05VCiAqIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgZm9yIG1vcmUgZGV0YWlscy4KICoKICogWW91IHNob3VsZCBoYXZlIHJlY2VpdmVkIGEgY29weSBvZiB0aGUgR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UKICogYWxvbmcgd2l0aCB0aGlzIHByb2dyYW0uICBJZiBub3QsIHNlZQogKiA8aHR0cDovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCiAqLw==</text>
+      </register>
+      <register name="4" type="4">
         <text>.getIntField()</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>input.getIntField()</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgLmFkZFN0cmluZ0ZpZWxkKGxlZnQuZ2V0U3RyaW5nRmllbGQoKSkKICAgICAgICAgICAgICAgLmFkZFN0cmluZ0ZpZWxkKHJpZ2h0LmdldFN0cmluZ0ZpZWxkKCkpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGxlZnQgIT0gbnVsbCAmJiByaWdodCAhPSBudWxsKQogICAgICAgICAgICB7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgRk4pKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBsdWdpbnMgewogICAgICAgIC8vIE9wdGlvbmFsOiBhbiBhcnRpZmFjdCBzcGVjIGZvciBhIHByb3RvYyBwbHVnaW4sIHdpdGggImdycGMiIGFzCiAgICAgICAgLy8gdGhlIGlkZW50aWZpZXIsIHdoaWNoIGNhbiBiZSByZWZlcnJlZCB0byBpbiB0aGUgInBsdWdpbnMiCiAgICAgICAgLy8gY29udGFpbmVyIG9mIHRoZSAiZ2VuZXJhdGVQcm90b1Rhc2tzIiBjbG9zdXJlLgogICAgICAgIGdycGMgewogICAgICAgICAgICBhcnRpZmFjdCA9ICdpby5ncnBjOnByb3RvYy1nZW4tZ3JwYy1qYXZhOjEuMC4wLXByZTInCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgRk4pKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
