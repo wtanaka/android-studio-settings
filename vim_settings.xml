@@ -61,6 +61,12 @@
         <mark key="." line="59" column="14" />
         <mark key="^" line="59" column="14" />
       </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" timestamp="1504339044653">
+        <mark key="'" line="21" column="24" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/View.java" timestamp="1503865393415">
         <mark key="[" line="176" column="82" />
         <mark key="]" line="176" column="82" />
@@ -74,10 +80,10 @@
         <mark key="^" line="48" column="2" />
         <mark key="." line="48" column="2" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" timestamp="1504337548993">
-        <mark key="'" line="28" column="19" />
-        <mark key="[" line="74" column="4" />
-        <mark key="]" line="75" column="19" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" timestamp="1504339036806">
+        <mark key="'" line="34" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="2" />
         <mark key="^" line="75" column="19" />
         <mark key="." line="75" column="19" />
       </file>
@@ -172,10 +178,12 @@
       <jump line="2" column="13" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" />
       <jump line="63" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" />
       <jump line="28" column="19" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" />
+      <jump line="34" column="2" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" />
+      <jump line="2" column="24" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getRight</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoKICogY29tLnd0YW5ha2EuYmVhbQogKgogKiBDb3B5cmlnaHQgKEMpIDIwMTcgV2VzbGV5IFRhbmFrYSA8aHR0cDovL3d0YW5ha2EuY29tLz4KICoKICogVGhpcyBwcm9ncmFtIGlzIGZyZWUgc29mdHdhcmU6IHlvdSBjYW4gcmVkaXN0cmlidXRlIGl0IGFuZC9vcgogKiBtb2RpZnkgaXQgdW5kZXIgdGhlIHRlcm1zIG9mIHRoZSBHTlUgR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcwogKiBwdWJsaXNoZWQgYnkgdGhlIEZyZWUgU29mdHdhcmUgRm91bmRhdGlvbiwgZWl0aGVyIHZlcnNpb24gMyBvZiB0aGUKICogTGljZW5zZSwgb3IgKGF0IHlvdXIgb3B0aW9uKSBhbnkgbGF0ZXIgdmVyc2lvbi4KICoKICogVGhpcyBwcm9ncmFtIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsIGJ1dAogKiBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUgR05VCiAqIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgZm9yIG1vcmUgZGV0YWlscy4KICoKICogWW91IHNob3VsZCBoYXZlIHJlY2VpdmVkIGEgY29weSBvZiB0aGUgR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UKICogYWxvbmcgd2l0aCB0aGlzIHByb2dyYW0uICBJZiBub3QsIHNlZQogKiA8aHR0cDovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCiAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>getRight</text>
@@ -184,7 +192,7 @@
         <text>Left</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgcHVibGljIFIgZ2V0UmlnaHQoKXt9Cg==</text>
+        <text encoding="base64">LyoKICogY29tLnd0YW5ha2EuYmVhbQogKgogKiBDb3B5cmlnaHQgKEMpIDIwMTcgV2VzbGV5IFRhbmFrYSA8aHR0cDovL3d0YW5ha2EuY29tLz4KICoKICogVGhpcyBwcm9ncmFtIGlzIGZyZWUgc29mdHdhcmU6IHlvdSBjYW4gcmVkaXN0cmlidXRlIGl0IGFuZC9vcgogKiBtb2RpZnkgaXQgdW5kZXIgdGhlIHRlcm1zIG9mIHRoZSBHTlUgR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcwogKiBwdWJsaXNoZWQgYnkgdGhlIEZyZWUgU29mdHdhcmUgRm91bmRhdGlvbiwgZWl0aGVyIHZlcnNpb24gMyBvZiB0aGUKICogTGljZW5zZSwgb3IgKGF0IHlvdXIgb3B0aW9uKSBhbnkgbGF0ZXIgdmVyc2lvbi4KICoKICogVGhpcyBwcm9ncmFtIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsIGJ1dAogKiBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUgR05VCiAqIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgZm9yIG1vcmUgZGV0YWlscy4KICoKICogWW91IHNob3VsZCBoYXZlIHJlY2VpdmVkIGEgY29weSBvZiB0aGUgR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UKICogYWxvbmcgd2l0aCB0aGlzIHByb2dyYW0uICBJZiBub3QsIHNlZQogKiA8aHR0cDovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCiAqLwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgcHJpdmF0ZSBmaW5hbCBib29sZWFuIGlzTGVmdDsK</text>
