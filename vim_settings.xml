@@ -13,12 +13,12 @@
         <mark key="." line="58" column="50" />
         <mark key="^" line="58" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/build.gradle" timestamp="1505597821224">
-        <mark key="'" line="243" column="4" />
-        <mark key="[" line="215" column="43" />
-        <mark key="]" line="216" column="62" />
-        <mark key="^" line="216" column="62" />
-        <mark key="." line="216" column="62" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/build.gradle" timestamp="1505603907460">
+        <mark key="'" line="242" column="4" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="^" line="215" column="62" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/CombineOrderLimit.java" timestamp="1503880335487">
         <mark key="'" line="47" column="55" />
@@ -99,15 +99,18 @@
         <mark key="^" line="176" column="27" />
         <mark key="." line="176" column="82" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" timestamp="1505595909265">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" timestamp="1505603999394">
+        <mark key="[" line="98" column="57" />
+        <mark key="]" line="99" column="11" />
+        <mark key="." line="99" column="11" />
+        <mark key="^" line="99" column="11" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" timestamp="1505600647227">
-        <mark key="'" line="110" column="6" />
-        <mark key="[" line="101" column="30" />
-        <mark key="]" line="101" column="34" />
-        <mark key="^" line="101" column="34" />
-        <mark key="." line="101" column="34" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" timestamp="1505603849744">
+        <mark key="'" line="270" column="28" />
+        <mark key="[" line="270" column="47" />
+        <mark key="]" line="270" column="33" />
+        <mark key="^" line="270" column="33" />
+        <mark key="." line="270" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" timestamp="1503907464881">
         <mark key="'" line="48" column="0" />
@@ -139,76 +142,14 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="38" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="68" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="105" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="112" column="4" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="118" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="117" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="108" column="68" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="111" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="106" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="131" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="125" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="119" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="42" column="37" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="80" column="65" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="134" column="37" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="21" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="94" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="63" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="138" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="89" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="109" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="136" column="13" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="84" column="50" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="64" column="55" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="114" column="41" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="65" column="32" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="91" column="34" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="69" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="70" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="74" column="11" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="102" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="116" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="77" column="49" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="135" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StreamingWc.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StreamingWc.java" />
-      <jump line="156" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StreamingWc.java" />
-      <jump line="161" column="21" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StreamingWc.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="58" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="89" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="122" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="113" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="120" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="128" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="135" column="11" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="75" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="41" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="47" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="60" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="48" column="1" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="71" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="104" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="68" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="85" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="87" column="5" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="83" column="40" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="84" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="95" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="49" column="33" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="50" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
@@ -217,93 +158,146 @@
       <jump line="23" column="25" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="51" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="69" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="59" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="116" column="21" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="53" column="35" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="73" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="54" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="65" column="33" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="120" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="133" column="40" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="118" column="40" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="66" column="33" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="134" column="40" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="67" column="29" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="135" column="28" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="150" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="158" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="185" column="24" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="178" column="54" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="106" column="47" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="105" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="90" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="107" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="128" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="129" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="139" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="154" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="116" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="74" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="87" column="32" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="86" column="27" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="93" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="64" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="57" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="70" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="84" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="85" column="21" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="90" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="105" column="14" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="135" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="118" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="137" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="126" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="128" column="29" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="120" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="164" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="159" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="165" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="139" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="166" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="146" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="173" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="172" column="29" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="156" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="167" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="170" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="152" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="208" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="229" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="194" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="226" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="240" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="244" column="27" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="236" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="231" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="133" column="34" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="102" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="96" column="25" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="110" column="18" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="98" column="18" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="127" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="30" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="123" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="103" column="18" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="106" column="59" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="148" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="134" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="275" column="28" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>handlers</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1qZGsxNDoxLjcuMTQnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>handlers</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
-        <text>generateSequence</text>
+        <text>internal logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJzZXQgaGFuZGxlcnMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgLmFwcGx5KExvZ2dpbmdJTy5kZWJ1Zyhsb2dOYW1lKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbV9wCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1qZGsxNDoxLjcuMTQnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJTZXR0aW5nIHVwIGxvZ2dlcjogIiArIGxvZ2dlciArICIgd2l0aCBuYW1lICIgKwogICAgICAgICBsb2dnZXIuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCItLS1pbnRlcm5hbCBsb2dnZXIgaXMgIiArIHZhbHVlICsgIiB3aXRoICIKICAgICAgICAgICAgKyB2YWx1ZS5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nLmNvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJMb2dnZXIgaW4gcHJvY2Vzc0VsZW1lbnQgaXMgIiArIGxvZ2dlcik7CiAgICAgICAgICAgIEpESzE0TG9nZ2VyQWRhcHRlciBhZGFwdGVyID0gKEpESzE0TG9nZ2VyQWRhcHRlcikgbG9nZ2VyOwogICAgICAgICAgICBmaW5hbCBGaWVsZCBmaWVsZDsKICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgZmllbGQgPSBKREsxNExvZ2dlckFkYXB0ZXIuY2xhc3MuZ2V0RGVjbGFyZWRGaWVsZCgibG9nZ2VyIik7CiAgICAgICAgICAgICAgIGZpZWxkLnNldEFjY2Vzc2libGUodHJ1ZSk7CiAgICAgICAgICAgICAgIGZpbmFsIGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlciB2YWx1ZSA9CiAgICAgICAgICAgICAgICAgIChqYXZhLnV0aWwubG9nZ2luZy5Mb2dnZXIpIGZpZWxkLmdldChhZGFwdGVyKTsKICAgICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCItLS1pbnRlcm5hbCBsb2dnZXIgaXMgIiArIHZhbHVlICsgIiB3aXRoICIKICAgICAgICAgICAgICAgICAgKyB2YWx1ZS5nZXROYW1lKCkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNhdGNoIChOb1N1Y2hGaWVsZEV4Y2VwdGlvbiB8IElsbGVnYWxBY2Nlc3NFeGNlcHRpb24gZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbV9oYW5kbGVyLgogICAgICBmb3IgKExvZ1JlY29yZCByZWNvcmQgOiBtX2hhbmRsZXIuZ2V0UmVjb3JkcygpKQogICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmFkZEhhbmRsZXIoaGFuZGxlcik7CiAgICAgIGxvZ2dlci5zZXRVc2VQYXJlbnRIYW5kbGVycyhmYWxzZSk7CiAgICAgIGxvZ2dlci5zZXRMZXZlbChMZXZlbC5BTEwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGlzdC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgbmV3IENvbXBhcmF0b3I8TG9nUmVjb3JkPigpCiAgICAgICAgIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBpbnQgY29tcGFyZShmaW5hbCBMb2dSZWNvcmQgbzEsIGZpbmFsIExvZ1JlY29yZCBvMikKICAgICAgICAgICAgewogICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgfQogICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQuc2V0QWNjZXNzaWJsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQ29sbGVjdGlvbnMuc29yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSkRLMTRMb2dnZXJBZGFwdGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgR2VuZXJhdGVTZXF1ZW5jZS5mcm9tKDBMKS50bygxMEwpKS5hcHBseShQYXJEby5vZigpKTsK</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJTZWRkaW5nIHVwIGxvZ2dlcjogIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>generateSequence</last-search>
+      <last-search>internal logger</last-search>
       <last-offset />
-      <last-pattern>generateSequence</last-pattern>
-      <last-replace>getRight</last-replace>
-      <last-substitute>getValue</last-substitute>
+      <last-pattern>internal logger</last-pattern>
+      <last-replace>String string</last-replace>
+      <last-substitute>Class clazz</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbGVtZW50XD4=</entry>
-        <entry encoding="base64">XDwrXD4=</entry>
-        <entry encoding="base64">XDxnZXRBcmd1bWVudHNcPg==</entry>
-        <entry>loggingio</entry>
-        <entry>LoggingIO</entry>
-        <entry>severe</entry>
-        <entry>De</entry>
-        <entry>debug</entry>
-        <entry>deb</entry>
         <entry>Deb</entry>
         <entry>handler</entry>
         <entry encoding="base64">XDxtX29sZExvZ0xldmVsXD4=</entry>
@@ -315,6 +309,15 @@
         <entry>testError</entry>
         <entry encoding="base64">XDxnZXRSZWNvcmRzXD4=</entry>
         <entry>generateSequence</entry>
+        <entry>Class clazz</entry>
+        <entry encoding="base64">XDxtX2hhbmRsZXJcPg==</entry>
+        <entry>Logging</entry>
+        <entry>trace</entry>
+        <entry>error</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
+        <entry>Field</entry>
+        <entry>internal logger</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
@@ -332,8 +335,9 @@
         <entry>%s/getKey/getLeft/gc</entry>
         <entry>%s/getValue/getRight/gc</entry>
         <entry>.,.+2!sort</entry>
-        <entry>syn on</entry>
+        <entry encoding="base64">JzwsJz5zL0NsYXNzIGNsYXp6L1N0cmluZyBzdHJpbmcvZ2M=</entry>
         <entry>w</entry>
+        <entry>syn on</entry>
       </history-cmd>
       <history-expr />
       <history-input />
