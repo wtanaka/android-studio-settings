@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1503907475308">
+      <file name="/Dummy.txt" timestamp="1505595204491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" timestamp="1503907935611">
@@ -26,6 +26,19 @@
       <file name="/a.dummy" timestamp="1503883219991">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" timestamp="1505593528979">
+        <mark key="[" line="141" column="32" />
+        <mark key="]" line="141" column="52" />
+        <mark key="." line="141" column="52" />
+        <mark key="^" line="141" column="52" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StreamingWc.java" timestamp="1505593470971">
+        <mark key="'" line="161" column="21" />
+        <mark key="[" line="134" column="23" />
+        <mark key="]" line="134" column="27" />
+        <mark key="." line="134" column="27" />
+        <mark key="^" line="134" column="27" />
+      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/ComposeTwoCombineFn.java" timestamp="1503880367182">
         <mark key="'" line="47" column="3" />
         <mark key="[" line="88" column="17" />
@@ -33,12 +46,24 @@
         <mark key="." line="88" column="22" />
         <mark key="^" line="88" column="22" />
       </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/SortTest.java" timestamp="1505593541816">
+        <mark key="[" line="73" column="25" />
+        <mark key="]" line="73" column="44" />
+        <mark key="." line="73" column="44" />
+        <mark key="^" line="73" column="44" />
+      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/Problem49.java" timestamp="1503880142567">
         <mark key="'" line="47" column="9" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="47" column="9" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/coders/PairCoderTest.java" timestamp="1505593802068">
+        <mark key="[" line="114" column="6" />
+        <mark key="]" line="117" column="3" />
+        <mark key="^" line="117" column="3" />
+        <mark key="." line="117" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/example.proto" timestamp="1503879918254">
         <mark key="'" line="0" column="0" />
@@ -61,18 +86,21 @@
         <mark key="." line="59" column="14" />
         <mark key="^" line="59" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" timestamp="1504344004667">
-        <mark key="'" line="86" column="35" />
-        <mark key="[" line="100" column="9" />
-        <mark key="]" line="100" column="45" />
-        <mark key="." line="100" column="45" />
-        <mark key="^" line="100" column="45" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" timestamp="1505593329114">
+        <mark key="'" line="87" column="35" />
+        <mark key="[" line="81" column="53" />
+        <mark key="]" line="83" column="7" />
+        <mark key="." line="83" column="7" />
+        <mark key="^" line="83" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/View.java" timestamp="1503865393415">
         <mark key="[" line="176" column="82" />
         <mark key="]" line="176" column="82" />
         <mark key="^" line="176" column="27" />
         <mark key="." line="176" column="82" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" timestamp="1505594458856">
+        <mark key="'" line="47" column="19" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" timestamp="1503907464881">
         <mark key="'" line="48" column="0" />
@@ -93,160 +121,167 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="144" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1503881094272">
+      <file name="/fragment.java" timestamp="1505593291908">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamIOTest.java" timestamp="1505593451002">
+        <mark key="[" line="333" column="30" />
+        <mark key="]" line="333" column="30" />
+        <mark key="." line="333" column="30" />
+        <mark key="^" line="333" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
-      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
-      <jump line="19" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
-      <jump line="44" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="80" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="78" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="238" column="4" filename="$USER_HOME$/Dropbox/streaming/beam/build.gradle" />
-      <jump line="27" column="32" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
-      <jump line="36" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
-      <jump line="30" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
-      <jump line="90" column="37" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="75" column="34" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="48" column="40" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="91" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="70" column="21" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="68" column="21" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="46" column="59" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="93" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="87" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="34" column="25" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/examples/ProtobufFlinkTest.java" />
-      <jump line="94" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="77" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="116" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="58" column="26" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
-      <jump line="41" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
-      <jump line="48" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" />
-      <jump line="52" column="39" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="114" column="39" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="102" column="41" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="111" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="119" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="115" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="122" column="30" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="66" column="30" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="57" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="71" column="61" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="120" column="47" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="125" column="57" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="59" column="27" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/examples/ProtobufFlink.java" />
-      <jump line="18" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Timestamp.java" />
-      <jump line="2" column="13" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" />
-      <jump line="28" column="19" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" />
-      <jump line="34" column="2" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/values/Either.java" />
-      <jump line="2" column="24" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="144" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/coders/KvCoder.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/coders/KvCoder.java" />
-      <jump line="21" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="35" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="37" column="42" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="60" column="21" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="173" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="172" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="157" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="169" column="13" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="88" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="102" column="16" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="87" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="67" column="11" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="64" column="52" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="62" column="26" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="58" column="13" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="48" column="42" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="46" column="54" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="181" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="167" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="150" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="147" column="68" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="159" column="24" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="71" column="40" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="78" column="40" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="129" column="51" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="137" column="16" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="164" column="61" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="103" column="13" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="84" column="61" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="31" column="34" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="47" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="53" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="145" column="38" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="143" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
       <jump line="77" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
       <jump line="89" column="10" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
       <jump line="86" column="35" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/coders/EitherCoder.java" />
+      <jump line="39" column="30" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="44" column="30" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="51" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="36" column="43" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="26" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="54" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="85" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="82" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="60" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="33" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="58" column="24" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="50" column="41" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="57" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="76" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="86" column="35" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="38" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="68" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="105" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="112" column="4" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="118" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="108" column="68" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="111" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="106" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="135" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="131" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="125" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="119" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="101" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="42" column="37" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="80" column="65" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="134" column="37" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="21" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="94" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="63" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="138" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="89" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="109" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="136" column="13" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="84" column="50" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="64" column="55" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="114" column="41" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="65" column="32" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="91" column="34" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="69" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="74" column="11" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="102" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="116" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="77" column="49" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="135" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StreamingWc.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StreamingWc.java" />
+      <jump line="156" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StreamingWc.java" />
+      <jump line="161" column="21" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StreamingWc.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="53" column="34" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="58" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="66" column="4" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="85" column="33" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="95" column="25" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="75" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="59" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="48" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="57" column="4" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="64" column="30" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="47" column="19" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
+      <jump line="122" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="113" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="120" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
+      <jump line="128" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>byteCoder.encode</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlaXRoZXJcPg==</text>
+        <text>Deb</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LyoKICogTGljZW5zZWQgdG8gdGhlIEFwYWNoZSBTb2Z0d2FyZSBGb3VuZGF0aW9uIChBU0YpIHVuZGVyIG9uZQogKiBvciBtb3JlIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIFNlZSB0aGUgTk9USUNFIGZpbGUKICogZGlzdHJpYnV0ZWQgd2l0aCB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24KICogcmVnYXJkaW5nIGNvcHlyaWdodCBvd25lcnNoaXAuICBUaGUgQVNGIGxpY2Vuc2VzIHRoaXMgZmlsZQogKiB0byB5b3UgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlCiAqICJMaWNlbnNlIik7IHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2UKICogd2l0aCB0aGUgTGljZW5zZS4gIFlvdSBtYXkgb2J0YWluIGEgY29weSBvZiB0aGUgTGljZW5zZSBhdAogKgogKiAgICAgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCiAqCiAqIFVubGVzcyByZXF1aXJlZCBieSBhcHBsaWNhYmxlIGxhdyBvciBhZ3JlZWQgdG8gaW4gd3JpdGluZywgc29mdHdhcmUKICogZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKICogV0lUSE9VVCBXQVJSQU5USUVTIE9SIENPTkRJVElPTlMgT0YgQU5ZIEtJTkQsIGVpdGhlciBleHByZXNzIG9yIGltcGxpZWQuCiAqIFNlZSB0aGUgTGljZW5zZSBmb3IgdGhlIHNwZWNpZmljIGxhbmd1YWdlIGdvdmVybmluZyBwZXJtaXNzaW9ucyBhbmQKICogbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAqLwpwYWNrYWdlIG9yZy5hcGFjaGUuYmVhbS5zZGsuY29kZXJzOwoKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CmltcG9ydCBqYXZhLmlvLklucHV0U3RyZWFtOwppbXBvcnQgamF2YS5pby5PdXRwdXRTdHJlYW07CmltcG9ydCBqYXZhLnV0aWwuQXJyYXlzOwppbXBvcnQgamF2YS51dGlsLkxpc3Q7CmltcG9ydCBvcmcuYXBhY2hlLmJlYW0uc2RrLnV0aWwuY29tbW9uLkVsZW1lbnRCeXRlU2l6ZU9ic2VydmVyOwppbXBvcnQgb3JnLmFwYWNoZS5iZWFtLnNkay52YWx1ZXMuS1Y7CmltcG9ydCBvcmcuYXBhY2hlLmJlYW0uc2RrLnZhbHVlcy5UeXBlRGVzY3JpcHRvcjsKaW1wb3J0IG9yZy5hcGFjaGUuYmVhbS5zZGsudmFsdWVzLlR5cGVQYXJhbWV0ZXI7CgovKioKICogQSB7QGNvZGUgS3ZDb2Rlcn0gZW5jb2RlcyB7QGxpbmsgS1Z9cy4KICoKICogQHBhcmFtIDxLPiB0aGUgdHlwZSBvZiB0aGUga2V5cyBvZiB0aGUgS1ZzIGJlaW5nIHRyYW5zY29kZWQKICogQHBhcmFtIDxWPiB0aGUgdHlwZSBvZiB0aGUgdmFsdWVzIG9mIHRoZSBLVnMgYmVpbmcgdHJhbnNjb2RlZAogKi8KcHVibGljIGNsYXNzIEt2Q29kZXI8SywgVj4gZXh0ZW5kcyBTdHJ1Y3R1cmVkQ29kZXI8S1Y8SywgVj4+IHsKICBwdWJsaWMgc3RhdGljIDxLLCBWPiBLdkNvZGVyPEssIFY+IG9mKENvZGVyPEs+IGtleUNvZGVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29kZXI8Vj4gdmFsdWVDb2RlcikgewogICAgcmV0dXJuIG5ldyBLdkNvZGVyPD4oa2V5Q29kZXIsIHZhbHVlQ29kZXIpOwogIH0KCiAgcHVibGljIENvZGVyPEs+IGdldEtleUNvZGVyKCkgewogICAgcmV0dXJuIGtleUNvZGVyOwogIH0KCiAgcHVibGljIENvZGVyPFY+IGdldFZhbHVlQ29kZXIoKSB7CiAgICByZXR1cm4gdmFsdWVDb2RlcjsKICB9CgogIC8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vCgogIHByaXZhdGUgZmluYWwgQ29kZXI8Sz4ga2V5Q29kZXI7CiAgcHJpdmF0ZSBmaW5hbCBDb2RlcjxWPiB2YWx1ZUNvZGVyOwoKICBwcml2YXRlIEt2Q29kZXIoQ29kZXI8Sz4ga2V5Q29kZXIsIENvZGVyPFY+IHZhbHVlQ29kZXIpIHsKICAgIHRoaXMua2V5Q29kZXIgPSBrZXlDb2RlcjsKICAgIHRoaXMudmFsdWVDb2RlciA9IHZhbHVlQ29kZXI7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBlbmNvZGUoS1Y8SywgVj4ga3YsIE91dHB1dFN0cmVhbSBvdXRTdHJlYW0pCiAgICAgIHRocm93cyBJT0V4Y2VwdGlvbiwgQ29kZXJFeGNlcHRpb24gewogICAgZW5jb2RlKGt2LCBvdXRTdHJlYW0sIENvbnRleHQuTkVTVEVEKTsKICB9CgogIEBPdmVycmlkZQogIHB1YmxpYyB2b2lkIGVuY29kZShLVjxLLCBWPiBrdiwgT3V0cHV0U3RyZWFtIG91dFN0cmVhbSwgQ29udGV4dCBjb250ZXh0KQogICAgICB0aHJvd3MgSU9FeGNlcHRpb24sIENvZGVyRXhjZXB0aW9uICB7CiAgICBpZiAoa3YgPT0gbnVsbCkgewogICAgICB0aHJvdyBuZXcgQ29kZXJFeGNlcHRpb24oImNhbm5vdCBlbmNvZGUgYSBudWxsIEtWIik7CiAgICB9CiAgICBrZXlDb2Rlci5lbmNvZGUoa3YuZ2V0S2V5KCksIG91dFN0cmVhbSk7CiAgICB2YWx1ZUNvZGVyLmVuY29kZShrdi5nZXRWYWx1ZSgpLCBvdXRTdHJlYW0sIGNvbnRleHQpOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIEtWPEssIFY+IGRlY29kZShJbnB1dFN0cmVhbSBpblN0cmVhbSkgdGhyb3dzIElPRXhjZXB0aW9uLCBDb2RlckV4Y2VwdGlvbiB7CiAgICByZXR1cm4gZGVjb2RlKGluU3RyZWFtLCBDb250ZXh0Lk5FU1RFRCk7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgS1Y8SywgVj4gZGVjb2RlKElucHV0U3RyZWFtIGluU3RyZWFtLCBDb250ZXh0IGNvbnRleHQpCiAgICAgIHRocm93cyBJT0V4Y2VwdGlvbiwgQ29kZXJFeGNlcHRpb24gewogICAgSyBrZXkgPSBrZXlDb2Rlci5kZWNvZGUoaW5TdHJlYW0pOwogICAgViB2YWx1ZSA9IHZhbHVlQ29kZXIuZGVjb2RlKGluU3RyZWFtLCBjb250ZXh0KTsKICAgIHJldHVybiBLVi5vZihrZXksIHZhbHVlKTsKICB9CgogIEBPdmVycmlkZQogIHB1YmxpYyBMaXN0PD8gZXh0ZW5kcyBDb2Rlcjw/Pj4gZ2V0Q29kZXJBcmd1bWVudHMoKSB7CiAgICByZXR1cm4gQXJyYXlzLmFzTGlzdChrZXlDb2RlciwgdmFsdWVDb2Rlcik7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCB2ZXJpZnlEZXRlcm1pbmlzdGljKCkgdGhyb3dzIE5vbkRldGVybWluaXN0aWNFeGNlcHRpb24gewogICAgdmVyaWZ5RGV0ZXJtaW5pc3RpYyh0aGlzLCAiS2V5IGNvZGVyIG11c3QgYmUgZGV0ZXJtaW5pc3RpYyIsIGdldEtleUNvZGVyKCkpOwogICAgdmVyaWZ5RGV0ZXJtaW5pc3RpYyh0aGlzLCAiVmFsdWUgY29kZXIgbXVzdCBiZSBkZXRlcm1pbmlzdGljIiwgZ2V0VmFsdWVDb2RlcigpKTsKICB9CgogIEBPdmVycmlkZQogIHB1YmxpYyBib29sZWFuIGNvbnNpc3RlbnRXaXRoRXF1YWxzKCkgewogICAgcmV0dXJuIGtleUNvZGVyLmNvbnNpc3RlbnRXaXRoRXF1YWxzKCkgJiYgdmFsdWVDb2Rlci5jb25zaXN0ZW50V2l0aEVxdWFscygpOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIE9iamVjdCBzdHJ1Y3R1cmFsVmFsdWUoS1Y8SywgVj4ga3YpIHsKICAgIGlmIChjb25zaXN0ZW50V2l0aEVxdWFscygpKSB7CiAgICAgIHJldHVybiBrdjsKICAgIH0gZWxzZSB7CiAgICAgIHJldHVybiBLVi5vZihnZXRLZXlDb2RlcigpLnN0cnVjdHVyYWxWYWx1ZShrdi5nZXRLZXkoKSksCiAgICAgICAgICAgICAgICAgICBnZXRWYWx1ZUNvZGVyKCkuc3RydWN0dXJhbFZhbHVlKGt2LmdldFZhbHVlKCkpKTsKICAgIH0KICB9CgogIC8qKgogICAqIFJldHVybnMgd2hldGhlciBib3RoIGtleUNvZGVyIGFuZCB2YWx1ZUNvZGVyIGFyZSBjb25zaWRlcmVkIG5vdCBleHBlbnNpdmUuCiAgICovCiAgQE92ZXJyaWRlCiAgcHVibGljIGJvb2xlYW4gaXNSZWdpc3RlckJ5dGVTaXplT2JzZXJ2ZXJDaGVhcChLVjxLLCBWPiBrdikgewogICAgcmV0dXJuIGtleUNvZGVyLmlzUmVnaXN0ZXJCeXRlU2l6ZU9ic2VydmVyQ2hlYXAoa3YuZ2V0S2V5KCkpCiAgICAgICAgJiYgdmFsdWVDb2Rlci5pc1JlZ2lzdGVyQnl0ZVNpemVPYnNlcnZlckNoZWFwKGt2LmdldFZhbHVlKCkpOwogIH0KCiAgLyoqCiAgICogTm90aWZpZXMgRWxlbWVudEJ5dGVTaXplT2JzZXJ2ZXIgYWJvdXQgdGhlIGJ5dGUgc2l6ZSBvZiB0aGUKICAgKiBlbmNvZGVkIHZhbHVlIHVzaW5nIHRoaXMgY29kZXIuCiAgICovCiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgcmVnaXN0ZXJCeXRlU2l6ZU9ic2VydmVyKAogICAgICBLVjxLLCBWPiBrdiwgRWxlbWVudEJ5dGVTaXplT2JzZXJ2ZXIgb2JzZXJ2ZXIpCiAgICAgIHRocm93cyBFeGNlcHRpb24gewogICAgaWYgKGt2ID09IG51bGwpIHsKICAgICAgdGhyb3cgbmV3IENvZGVyRXhjZXB0aW9uKCJjYW5ub3QgZW5jb2RlIGEgbnVsbCBLViIpOwogICAgfQogICAga2V5Q29kZXIucmVnaXN0ZXJCeXRlU2l6ZU9ic2VydmVyKGt2LmdldEtleSgpLCBvYnNlcnZlcik7CiAgICB2YWx1ZUNvZGVyLnJlZ2lzdGVyQnl0ZVNpemVPYnNlcnZlcihrdi5nZXRWYWx1ZSgpLCBvYnNlcnZlcik7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgVHlwZURlc2NyaXB0b3I8S1Y8SywgVj4+IGdldEVuY29kZWRUeXBlRGVzY3JpcHRvcigpIHsKICAgIHJldHVybiBuZXcgVHlwZURlc2NyaXB0b3I8S1Y8SywgVj4+KCkge30ud2hlcmUoCiAgICAgICAgICAgIG5ldyBUeXBlUGFyYW1ldGVyPEs+KCkge30sIGtleUNvZGVyLmdldEVuY29kZWRUeXBlRGVzY3JpcHRvcigpKQogICAgICAgIC53aGVyZShuZXcgVHlwZVBhcmFtZXRlcjxWPigpIHt9LCB2YWx1ZUNvZGVyLmdldEVuY29kZWRUeXBlRGVzY3JpcHRvcigpKTsKICB9Cn0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgIEBUZXN0CiAgIHB1YmxpYyB2b2lkIHRlc3REZWJ1ZygpCiAgIHsKICAgICAgZmluYWwgUENvbGxlY3Rpb248TG9uZz4gbG9uZ3MgPSBtX3BpcGVsaW5lLmFwcGx5KAogICAgICAgICBHZW5lcmF0ZVNlcXVlbmNlLmZyb20oMEwpLnRvKDEwTCkpOwogICAgICBmaW5hbCBQQ29sbGVjdGlvbjxTdHJpbmc+IHN0cmluZ3MgPSBsb25ncy5hcHBseSgKICAgICAgICAgbmV3IFN0cmluZ1ZhbHVlT2Y8PigpKTsKICAgICAgc3RyaW5ncy5hcHBseShMb2dnaW5nSU8uZGVidWcoTG9nZ2luZ0lPVGVzdC5jbGFzcykpOwogICAgICBtX3BpcGVsaW5lLnJ1bigpOwogICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZW5jb2RlKGVpdGhlciwgb3V0U3RyZWFtLCBDb250ZXh0Lk5FU1RFRCk7CiAgIH0KCiAgIEBPdmVycmlkZQogICBwdWJsaWMgdm9pZCBlbmNvZGUoRWl0aGVyPEwsIFI+IGVpdGhlciwgT3V0cHV0U3RyZWFtIG91dFN0cmVhbSwKICAgICAgICAgICAgICAgICAgICAgIENvbnRleHQgY29udGV4dCkKICAgICAgdGhyb3dzIElPRXhjZXB0aW9uLCBDb2RlckV4Y2VwdGlvbgogICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgICJJbnRlcm5hbCBlcnJvcjogdW5yZWNvZ25pemVkIiArIG1fbGV2ZWwpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgIEA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgQE92ZXJyaWRlCiAgIHB1YmxpYyB2b2lkIGVuY29kZShFaXRoZXI8TCwgUj4gZWl0aGVyLCBPdXRwdXRTdHJlYW0gb3V0U3RyZWFtLAogICAgICAgICAgICAgICAgICAgICAgQ29udGV4dCBjb250ZXh0KQogICAgICB0aHJvd3MgSU9FeGNlcHRpb24sIENvZGVyRXhjZXB0aW9uCiAgIHsKICAgICAgaWYgKGVpdGhlciA9PSBudWxsKQogICAgICB7CiAgICAgICAgIHRocm93IG5ldyBDb2RlckV4Y2VwdGlvbigiY2Fubm90IGVuY29kZSBhIG51bGwgRWl0aGVyIik7CiAgICAgIH0KICAgICAgYnl0ZUNvZGVyLmVuY29kZShlaXRoZXIuaXNMZWZ0KCkgPyAoYnl0ZSkgMSA6IChieXRlKSAwLCBvdXRTdHJlYW0sCiAgICAgICAgIGNvbnRleHQpOwogICAgICBpZiAoZWl0aGVyLmlzTGVmdCgpKQogICAgICB7CgogICAgICB9CiAgICAgIGxlZnRDb2Rlci5lbmNvZGUoZWl0aGVyLmdldExlZnQoKSwgb3V0U3RyZWFtKTsKICAgICAgcmlnaHRDb2Rlci5lbmNvZGUoZWl0aGVyLmdldFJpZ2h0KCksIG91dFN0cmVhbSwgY29udGV4dCk7CiAgIH0K</text>
+      <register name="4" type="4">
+        <text>.readwrite(&quot;SortTest&quot;, Level.WARNING)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYnl0ZSB4ID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgZmluYWwgVCBlbGVtZW50ID0gKFQpIGMuZWxlbWVudCgpOwogICAgICAgICBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihtX2xvZ2dlckNsYXNzKS5sb2cobV9sZXZlbCwKICAgICAgICAgICAgIjwiICsgYy50aW1lc3RhbXAoKSArICI+ICIgKyBlbGVtZW50CiAgICAgICAgICAgICAgICspOwogICAgICAgICBjLm91dHB1dFdpdGhUaW1lc3RhbXAoZWxlbWVudCwgYy50aW1lc3RhbXAoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgIC8qKgogICAgKiBSZXR1cm5zIHdoZXRoZXIgYm90aCBsZWZ0Q29kZXIgYW5kIHJpZ2h0Q29kZXIgYXJlIGNvbnNpZGVyZWQgbm90CiAgICAqIGV4cGVuc2l2ZS4KICAgICovCiAgIEBPdmVycmlkZQogICBwdWJsaWMgYm9vbGVhbiBpc1JlZ2lzdGVyQnl0ZVNpemVPYnNlcnZlckNoZWFwKEVpdGhlcjxMLCBSPiBlaXRoZXIpCiAgIHsKICAgICAgcmV0dXJuIGxlZnRDb2Rlci5pc1JlZ2lzdGVyQnl0ZVNpemVPYnNlcnZlckNoZWFwKGVpdGhlci5nZXRMZWZ0KCkpCiAgICAgICAgICYmIHJpZ2h0Q29kZXIuaXNSZWdpc3RlckJ5dGVTaXplT2JzZXJ2ZXJDaGVhcChlaXRoZXIuZ2V0UmlnaHQoKSk7CiAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgcmV0dXJuIEVNUFRZX0FSUkFZOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgIC8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vCg==</text>
+      <register name="7" type="4">
+        <text>(c.pane() == PaneInfo.NO_FIRING ? &quot;&quot; :
+               &quot; [pane: &quot; + c.pane() + &quot;]&quot;)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEVpdGhlckNvZGVyCnsKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgUGFuZUluZm8gcGFuZSA9IGMucGFuZSgpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgIGltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwogICBpbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbTsKICAgaW1wb3J0IGphdmEuaW8uT3V0cHV0U3RyZWFtOwogICBpbXBvcnQgamF2YS51dGlsLkFycmF5czsKICAgaW1wb3J0IGphdmEudXRpbC5MaXN0OwogICBpbXBvcnQgb3JnLmFwYWNoZS5iZWFtLnNkay51dGlsLmNvbW1vbi5FbGVtZW50Qnl0ZVNpemVPYnNlcnZlcjsKICAgaW1wb3J0IG9yZy5hcGFjaGUuYmVhbS5zZGsudmFsdWVzLktWOwogICBpbXBvcnQgb3JnLmFwYWNoZS5iZWFtLnNkay52YWx1ZXMuVHlwZURlc2NyaXB0b3I7CiAgIGltcG9ydCBvcmcuYXBhY2hlLmJlYW0uc2RrLnZhbHVlcy5UeXBlUGFyYW1ldGVyOwo=</text>
+      <register name="9" type="4">
+        <text>c.pane()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlaXRoZXJcPg==</last-search>
+      <last-search>Deb</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlaXRoZXJcPg==</last-pattern>
+      <last-pattern>Deb</last-pattern>
       <last-replace>getRight</last-replace>
       <last-substitute>getValue</last-substitute>
       <last-dir>1</last-dir>
@@ -254,29 +289,28 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aW5kb3dTdHJhdGVneVw+</entry>
-        <entry>intonly</entry>
-        <entry>IntOnly</entry>
-        <entry encoding="base64">XDxjb0dia1Jlc3VsdENvbGxlY3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxDT0dCS19UT19QUk9UT0JVRlw+</entry>
-        <entry>Left</entry>
-        <entry>K</entry>
-        <entry>V</entry>
-        <entry encoding="base64">S1Y8SywgVj4=</entry>
-        <entry>keyCoder</entry>
-        <entry>valueCoder</entry>
-        <entry encoding="base64">XDxLXD4=</entry>
-        <entry encoding="base64">XDxWXD4=</entry>
-        <entry>getKey</entry>
-        <entry>getValue</entry>
-        <entry encoding="base64">XDxyaWdodENvZGVyXD4=</entry>
-        <entry>kv</entry>
-        <entry>KV</entry>
         <entry encoding="base64">XDxLVlw+</entry>
         <entry encoding="base64">XDxlaXRoZXJcPg==</entry>
+        <entry encoding="base64">XDxtX2xvZ2dlclN0cmluZ1w+</entry>
+        <entry encoding="base64">XDxMb2dEb0ZuXD4=</entry>
+        <entry>readwrite</entry>
+        <entry encoding="base64">XDxyZWFkd3JpdGVcPg==</entry>
+        <entry>ReadWrite</entry>
+        <entry encoding="base64">XDxSZWFkV3JpdGVcPg==</entry>
+        <entry encoding="base64">XDxTZXJpYWxpemFibGVcPg==</entry>
+        <entry encoding="base64">XDxDb252ZXJ0VG9Mb2dcPg==</entry>
+        <entry encoding="base64">XDxlbGVtZW50XD4=</entry>
+        <entry encoding="base64">XDwrXD4=</entry>
+        <entry encoding="base64">XDxnZXRBcmd1bWVudHNcPg==</entry>
+        <entry>loggingio</entry>
+        <entry>LoggingIO</entry>
+        <entry>severe</entry>
+        <entry>De</entry>
+        <entry>debug</entry>
+        <entry>deb</entry>
+        <entry>Deb</entry>
       </history-search>
       <history-cmd>
-        <entry>syn on</entry>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
         <entry>.,.+1s/left/right/gc</entry>
         <entry>W</entry>
@@ -291,6 +325,8 @@
         <entry encoding="base64">JXMvXDxWXD4vUi9nYw==</entry>
         <entry>%s/getKey/getLeft/gc</entry>
         <entry>%s/getValue/getRight/gc</entry>
+        <entry>syn on</entry>
+        <entry>.,.+2!sort</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -323,6 +359,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
