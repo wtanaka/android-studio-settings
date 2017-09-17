@@ -51,6 +51,13 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/streaming/flink-beam/src/main/resources/log4j-local.properties" timestamp="1505610853648">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" timestamp="1503907464881">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="47" column="4" />
@@ -159,12 +166,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="144" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1505610288702">
+      <file name="/fragment.java" timestamp="1505610747400">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
       <jump line="139" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
       <jump line="154" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
       <jump line="116" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
@@ -264,13 +270,14 @@
       <jump line="21" column="3" filename="$USER_HOME$/Dropbox/streaming/flink-beam/src/main/java/com/wtanaka/beam/flink/Main.java" />
       <jump line="60" column="6" filename="$USER_HOME$/Dropbox/streaming/flink-beam/src/main/java/com/wtanaka/beam/flink/Main.java" />
       <jump line="34" column="3" filename="$USER_HOME$/Dropbox/streaming/flink-beam/src/main/java/com/wtanaka/beam/flink/Main.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Dropbox/streaming/flink-beam/src/main/resources/log4j-local.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DEBUG</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncm91cFw+</text>
@@ -279,31 +286,31 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmJlYW0nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nNGoucm9vdExvZ2dlciA9IERFQlVHLCBQUk9QRVJUWQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1sb2c0ajEyOjEuNy4yNScK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNsZjRqL3NsZjRqLWxvZzRqMTIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFBpcGVsaW5lLmNyZWF0ZShvcHRpb25zKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1sb2c0ajEyOjEuNy4yNScK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNsZjRqL3NsZjRqLWxvZzRqMTIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIFBpcGVsaW5lLmNyZWF0ZShvcHRpb25zKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmJlYW0nKQo=</text>
+        <text encoding="base64">CiAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmJlYW0nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgcHVibGljIHN0YXRpYyBQaXBlbGluZSBjcmVhdGVQaXBlbGluZShmaW5hbCBTdHJpbmdbXSBhcmdzKQogICB7CgogICB9Cgo=</text>
+        <text encoding="base64">ICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
