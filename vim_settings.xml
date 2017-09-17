@@ -128,18 +128,24 @@
         <mark key="." line="83" column="7" />
         <mark key="^" line="83" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/flink-beam/src/main/java/com/wtanaka/beam/flink/Main.java" timestamp="1505609500895">
-        <mark key="'" line="34" column="3" />
-        <mark key="[" line="37" column="47" />
-        <mark key="]" line="37" column="47" />
-        <mark key="." line="37" column="47" />
-        <mark key="^" line="37" column="47" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.10/1.1.2-hadoop1/1c0fda47eb7eb411159ea7aae5ae289756fc41ff/flink-runtime_2.10-1.1.2-hadoop1-sources.jar!/org/apache/flink/runtime/executiongraph/ExecutionGraph.java" timestamp="1505621589681">
+        <mark key="'" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam-examples/src/main/java/com/wtanaka/beam/examples/LogSomeOutput.java" timestamp="1505609517446">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="^" line="15" column="32" />
-        <mark key="." line="15" column="32" />
+      <file name="$USER_HOME$/Dropbox/streaming/flink-beam/src/main/java/com/wtanaka/beam/flink/Main.java" timestamp="1505621324408">
+        <mark key="'" line="37" column="3" />
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="46" column="46" />
+        <mark key="." line="46" column="46" />
+        <mark key="^" line="46" column="46" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.10/1.2.1/5d1271905649c13085ad693e3ff4979f54b8cfce/flink-runtime_2.10-1.2.1-sources.jar!/org/apache/flink/runtime/executiongraph/ExecutionGraph.java" timestamp="1505621611511">
+        <mark key="'" line="1112" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam-examples/src/main/java/com/wtanaka/beam/examples/LogSomeOutput.java" timestamp="1505621244511">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="15" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" timestamp="1505603999394">
         <mark key="[" line="98" column="57" />
@@ -174,14 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="154" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="116" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="74" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="87" column="32" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="86" column="27" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/LoggingIO.java" />
-      <jump line="93" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="56" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="64" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="57" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
@@ -274,16 +272,24 @@
       <jump line="60" column="6" filename="$USER_HOME$/Dropbox/streaming/flink-beam/src/main/java/com/wtanaka/beam/flink/Main.java" />
       <jump line="34" column="3" filename="$USER_HOME$/Dropbox/streaming/flink-beam/src/main/java/com/wtanaka/beam/flink/Main.java" />
       <jump line="4" column="0" filename="$USER_HOME$/Dropbox/streaming/flink-beam/src/main/resources/log4j-local.properties" />
+      <jump line="136" column="56" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.10/1.2.1/5d1271905649c13085ad693e3ff4979f54b8cfce/flink-runtime_2.10-1.2.1-sources.jar!/org/apache/flink/runtime/executiongraph/ExecutionGraph.java" />
+      <jump line="14" column="37" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.10/1.1.2-hadoop1/1c0fda47eb7eb411159ea7aae5ae289756fc41ff/flink-runtime_2.10-1.1.2-hadoop1-sources.jar!/org/apache/flink/runtime/executiongraph/ExecutionGraph.java" />
+      <jump line="1126" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.10/1.2.1/5d1271905649c13085ad693e3ff4979f54b8cfce/flink-runtime_2.10-1.2.1-sources.jar!/org/apache/flink/runtime/executiongraph/ExecutionGraph.java" />
+      <jump line="1124" column="53" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.10/1.2.1/5d1271905649c13085ad693e3ff4979f54b8cfce/flink-runtime_2.10-1.2.1-sources.jar!/org/apache/flink/runtime/executiongraph/ExecutionGraph.java" />
+      <jump line="1119" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.10/1.2.1/5d1271905649c13085ad693e3ff4979f54b8cfce/flink-runtime_2.10-1.2.1-sources.jar!/org/apache/flink/runtime/executiongraph/ExecutionGraph.java" />
+      <jump line="1116" column="53" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.10/1.2.1/5d1271905649c13085ad693e3ff4979f54b8cfce/flink-runtime_2.10-1.2.1-sources.jar!/org/apache/flink/runtime/executiongraph/ExecutionGraph.java" />
+      <jump line="1115" column="49" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.10/1.2.1/5d1271905649c13085ad693e3ff4979f54b8cfce/flink-runtime_2.10-1.2.1-sources.jar!/org/apache/flink/runtime/executiongraph/ExecutionGraph.java" />
+      <jump line="1112" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.10/1.2.1/5d1271905649c13085ad693e3ff4979f54b8cfce/flink-runtime_2.10-1.2.1-sources.jar!/org/apache/flink/runtime/executiongraph/ExecutionGraph.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DEBUG</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncm91cFw+</text>
+        <text encoding="base64">XDxzdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmJlYW0nKQo=</text>
@@ -320,9 +326,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncm91cFw+</last-search>
+      <last-search encoding="base64">XDxzdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncm91cFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0ZVw+</last-pattern>
       <last-replace>String string</last-replace>
       <last-substitute>Class clazz</last-substitute>
       <last-dir>1</last-dir>
@@ -330,9 +336,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handler</entry>
-        <entry encoding="base64">XDxtX29sZExvZ0xldmVsXD4=</entry>
-        <entry encoding="base64">XDxtX21vY2tTeXN0ZW1FcnJcPg==</entry>
         <entry encoding="base64">XDxtX29sZFN5c3RlbUVyclw+</entry>
         <entry>LogRecord</entry>
         <entry encoding="base64">XDxtX3JlY29yZHNcPg==</entry>
@@ -350,6 +353,9 @@
         <entry>Field</entry>
         <entry>internal logger</entry>
         <entry encoding="base64">XDxncm91cFw+</entry>
+        <entry>updateSate</entry>
+        <entry encoding="base64">XDxhY2N1bXVsYXRvcnNcPg==</entry>
+        <entry encoding="base64">XDxzdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1s/left/right/gc</entry>
