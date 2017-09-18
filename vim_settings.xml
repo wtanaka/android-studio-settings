@@ -134,13 +134,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.10/1.2.1/5d1271905649c13085ad693e3ff4979f54b8cfce/flink-runtime_2.10-1.2.1-sources.jar!/org/apache/flink/runtime/jobmanager/JobManager.scala" timestamp="1505695249439">
         <mark key="'" line="683" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/flink-beam/src/main/java/com/wtanaka/beam/flink/Main.java" timestamp="1505703502912">
-        <mark key="'" line="38" column="3" />
-        <mark key="[" line="38" column="49" />
-        <mark key="]" line="38" column="47" />
-        <mark key="." line="38" column="47" />
-        <mark key="^" line="38" column="47" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.10/1.2.1/5d1271905649c13085ad693e3ff4979f54b8cfce/flink-runtime_2.10-1.2.1-sources.jar!/org/apache/flink/runtime/executiongraph/ExecutionGraph.java" timestamp="1505695189803">
         <mark key="'" line="1116" column="53" />
       </file>
@@ -286,10 +279,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Create</text>
+        <text>super.apply(input);</text>
       </register>
       <register name="-" type="4">
-        <text>Create</text>
+        <text>super.apply(input);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrRXhlY3V0aW9uU3RhdGVcPg==</text>
@@ -297,32 +290,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmJlYW0nKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Create</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgUGFyRG8ub2YobmV3IERvRm48SW50ZWdlciwgVm9pZD4oKQogICAgICAgICB7CiAgICAgICAgICAgIEBQcm9jZXNzRWxlbWVudAogICAgICAgICAgICBwdWJsaWMgdm9pZCBwcm9jZXNzRWxlbWVudChQcm9jZXNzQ29udGV4dCBjKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRsbihjLmVsZW1lbnQoKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgfSkpOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>empty(StringUtf8Coder.of())</text>
+        <text>LoggingIO.error
+         (Main.class)</text>
       </register>
       <register name="3" type="4">
+        <text>Create</text>
+      </register>
+      <register name="4" type="4">
+        <text>empty(StringUtf8Coder.of())</text>
+      </register>
+      <register name="5" type="4">
         <text>LogSomeOutput.of(options)</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">bG9nNGoucm9vdExvZ2dlciA9IERFQlVHLCBQUk9QRVJUWQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1sb2c0ajEyOjEuNy4yNScK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNsZjRqL3NsZjRqLWxvZzRqMTIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFBpcGVsaW5lLmNyZWF0ZShvcHRpb25zKTsK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zbGY0ajpzbGY0ai1sb2c0ajEyOjEuNy4yNScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNsZjRqL3NsZjRqLWxvZzRqMTIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
