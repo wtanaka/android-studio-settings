@@ -100,11 +100,9 @@
         <mark key="^" line="141" column="52" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StreamingWc.java" timestamp="1505897386107">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="56" column="43" />
-        <mark key="." line="63" column="31" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/ComposeTwoCombineFn.java" timestamp="1503880367182">
         <mark key="'" line="47" column="3" />
