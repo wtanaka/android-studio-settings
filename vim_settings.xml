@@ -63,6 +63,12 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/MainRunner.java" timestamp="1505900491738">
+        <mark key="[" line="72" column="24" />
+        <mark key="]" line="72" column="28" />
+        <mark key="." line="72" column="28" />
+        <mark key="^" line="72" column="28" />
+      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" timestamp="1503907464881">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="47" column="4" />
@@ -87,11 +93,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/build.gradle" timestamp="1505896552818">
-        <mark key="'" line="222" column="0" />
-        <mark key="[" line="212" column="4" />
-        <mark key="]" line="212" column="4" />
-        <mark key="^" line="213" column="0" />
-        <mark key="." line="212" column="4" />
+        <mark key="'" line="224" column="0" />
+        <mark key="[" line="214" column="4" />
+        <mark key="]" line="214" column="4" />
+        <mark key="^" line="215" column="0" />
+        <mark key="." line="214" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" timestamp="1505593528979">
         <mark key="[" line="141" column="32" />
@@ -182,7 +188,7 @@
         <mark key="^" line="75" column="19" />
         <mark key="." line="75" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1505895091526">
+      <file name="/fragment.java" timestamp="1505900493298">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -292,11 +298,11 @@
       <jump line="49" column="28" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/SlidingWc.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogd2hpbGUgOjsgZG8gZWNobyBoZWxsbyB3b3JsZDsgc2xlZXAgMjsgZG9uZSB8IGphdmEgLWNwCiAqIGJlYW0vYnVpbGQvbGlicy9iZWFtLWFsbC5qYXIgY29tLnd0YW5ha2EuYmVhbS5TbGlkaW5nV2MK</text>
+      <register name="&quot;" type="4">
+        <text>DirectRunner</text>
       </register>
       <register name="-" type="4">
-        <text>StandardCharsets</text>
+        <text>DirectRunner</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
