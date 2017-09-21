@@ -64,10 +64,10 @@
         <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/MainRunner.java" timestamp="1505900491738">
-        <mark key="[" line="72" column="24" />
-        <mark key="]" line="72" column="28" />
-        <mark key="." line="72" column="28" />
-        <mark key="^" line="72" column="28" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="21" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/proto/com/wtanaka/beam/examples/example.proto" timestamp="1503907464881">
         <mark key="'" line="48" column="0" />
@@ -99,10 +99,11 @@
         <mark key="^" line="215" column="0" />
         <mark key="." line="214" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" timestamp="1505593528979">
-        <mark key="[" line="141" column="32" />
-        <mark key="]" line="141" column="52" />
-        <mark key="." line="141" column="52" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" timestamp="1505974429047">
+        <mark key="'" line="54" column="12" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="58" />
+        <mark key="." line="56" column="17" />
         <mark key="^" line="141" column="52" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StreamingWc.java" timestamp="1505897386107">
@@ -196,9 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="139" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="166" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="146" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="121" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="173" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
@@ -296,19 +294,22 @@
       <jump line="109" column="29" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/Wc.java" />
       <jump line="87" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/Wc.java" />
       <jump line="49" column="28" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/SlidingWc.java" />
+      <jump line="52" column="27" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" />
+      <jump line="54" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DirectRunner</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZmluYWwgV2MuU3RhdHMgcmVzdWx0ID0gZm4ubWVyZ2VBY2N1bXVsYXRvcnMoc3RhdHMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>DirectRunner</text>
+        <text>StreamingWc</text>
       </register>
       <register name="/" type="4">
-        <text>^</text>
+        <text>StreamingWc.WcStats</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogd2hpbGUgOjsgZG8gZWNobyBoZWxsbyB3b3JsZDsgc2xlZXAgMjsgZG9uZSB8IGphdmEgLWNwCiAqIGJlYW0vYnVpbGQvbGlicy9iZWFtLWFsbC5qYXIgY29tLnd0YW5ha2EuYmVhbS5TbGlkaW5nV2MK</text>
+        <text encoding="base64">ICAgICAgZmluYWwgV2MuU3RhdHMgcmVzdWx0ID0gZm4ubWVyZ2VBY2N1bXVsYXRvcnMoc3RhdHMpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICBpbnB1dC5hcHBseShCeXRlQXJyYXlUb1N0cmluZy5vZigiVVRGLTgiKSkuYXBwbHkKLy8gICAgICAgICAgICAoTG9nZ2luZ0lPLmluZm8oVHJhbnNmb3JtLmNsYXNzKSk7Cg==</text>
@@ -338,21 +339,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>.,.+1s/^/\/\//g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>^</last-search>
+      <last-search>StreamingWc.WcStats</last-search>
       <last-offset />
-      <last-pattern>^</last-pattern>
-      <last-replace>\/\/</last-replace>
-      <last-substitute>^</last-substitute>
+      <last-pattern>StreamingWc.WcStats</last-pattern>
+      <last-replace>Wc.Stats</last-replace>
+      <last-substitute>StreamingWc.WcStats</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtX3JlY29yZHNcPg==</entry>
         <entry>getRec</entry>
         <entry>testError</entry>
         <entry encoding="base64">XDxnZXRSZWNvcmRzXD4=</entry>
@@ -372,6 +372,7 @@
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry encoding="base64">XDx0YXNrRXhlY3V0aW9uU3RhdGVcPg==</entry>
         <entry>^</entry>
+        <entry>StreamingWc.WcStats</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1s/left/right/gc</entry>
@@ -391,8 +392,9 @@
         <entry encoding="base64">JzwsJz5zL0NsYXNzIGNsYXp6L1N0cmluZyBzdHJpbmcvZ2M=</entry>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
         <entry>syn on</entry>
-        <entry>w</entry>
         <entry>.,.+1s/^/\/\//g</entry>
+        <entry>%s/StreamingWc.WcStats/Wc.Stats/gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
