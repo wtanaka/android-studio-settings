@@ -99,12 +99,12 @@
         <mark key="^" line="215" column="0" />
         <mark key="." line="214" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" timestamp="1505974429047">
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" timestamp="1506066315280">
         <mark key="'" line="54" column="12" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="58" />
-        <mark key="." line="56" column="17" />
-        <mark key="^" line="141" column="52" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="^" line="139" column="52" />
+        <mark key="." line="138" column="48" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StreamingWc.java" timestamp="1505897386107">
         <mark key="[" line="21" column="0" />
@@ -300,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZmluYWwgV2MuU3RhdHMgcmVzdWx0ID0gZm4ubWVyZ2VBY2N1bXVsYXRvcnMoc3RhdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKFNlcmlhbGl6YWJsZUZ1bmN0aW9uPGJ5dGVbXSwgU3RyaW5nPikK</text>
       </register>
       <register name="-" type="4">
-        <text>StreamingWc</text>
+        <text encoding="base64">U2VyaWFsaXphYmxlRnVuY3Rpb248Ynl0ZVtdLCBTdHJpbmc+</text>
       </register>
       <register name="/" type="4">
         <text>StreamingWc.WcStats</text>
@@ -312,31 +312,31 @@
         <text encoding="base64">ICAgICAgZmluYWwgV2MuU3RhdHMgcmVzdWx0ID0gZm4ubWVyZ2VBY2N1bXVsYXRvcnMoc3RhdHMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICBpbnB1dC5hcHBseShCeXRlQXJyYXlUb1N0cmluZy5vZigiVVRGLTgiKSkuYXBwbHkKLy8gICAgICAgICAgICAoTG9nZ2luZ0lPLmluZm8oVHJhbnNmb3JtLmNsYXNzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKFNlcmlhbGl6YWJsZUZ1bmN0aW9uPGJ5dGVbXSwgU3RyaW5nPikK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgU3RyZWFtSU8uc3RkaW5VbmJvdW5kZWQoKSwKICAgICAgICAgU2VxdWVudGlhbC5vZihTZXF1ZW50aWFsLm9mKAogICAgICAgICAgICBCeXRlQXJyYXlUb1N0cmluZy5vZigiVVRGLTgiKSwKICAgICAgICAgICAgTG9nZ2luZ0lPLndhcm4oU3RyZWFtaW5nV2MuY2xhc3MpKSwKICAgICAgICAgICAgVGVybWluYXRlLm9mKCkpLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">U2VyaWFsaXphYmxlRnVuY3Rpb248Ynl0ZVtdLCBTdHJpbmc+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgU3RyZWFtSU8uc3RkaW5VbmJvdW5kZWQoKSwKICAgICAgICAgICAgU3RyZWFtSU8uc3Rkb3V0KCksCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICBpbnB1dC5hcHBseShCeXRlQXJyYXlUb1N0cmluZy5vZigiVVRGLTgiKSkuYXBwbHkKLy8gICAgICAgICAgICAoTG9nZ2luZ0lPLmluZm8oVHJhbnNmb3JtLmNsYXNzKSk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgU3RyZWFtSU8uc3RkaW5VbmJvdW5kZWQoKSwKICAgICAgICAgU2VxdWVudGlhbC5vZihTZXF1ZW50aWFsLm9mKAogICAgICAgICAgICBCeXRlQXJyYXlUb1N0cmluZy5vZigiVVRGLTgiKSwKICAgICAgICAgICAgTG9nZ2luZ0lPLndhcm4oU3RyZWFtaW5nV2MuY2xhc3MpKSwKICAgICAgICAgICAgVGVybWluYXRlLm9mKCkpLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgU3RyZWFtSU8uc3RkaW5VbmJvdW5kZWQoKSwKICAgICAgICAgICAgU3RyZWFtSU8uc3Rkb3V0KCksCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgU2VxdWVudGlhbC5vZigKICAgICAgICAgICAgQnl0ZUFycmF5VG9TdHJpbmcub2YoIlVURi04IiksCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>Terminate.of()</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>LoggingIO.warn(SlidingWc.class)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgaW5wdXQuYXBwbHkoQnl0ZUFycmF5VG9TdHJpbmcub2YoIlVURi04IikpLmFwcGx5CiAgICAgICAgICAgIChMb2dnaW5nSU8uaW5mbyhUcmFuc2Zvcm0uY2xhc3MpKTsK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIHNlcmlhbFZlcnNpb25VSUQgPSAxTDsKCiAgICAgICAgICAgICAgIHB1YmxpYyBieXRlW10gYXBwbHkoV2MuU3RhdHMgcykKICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICByZXR1cm4gcy50b1N0cmluZygpLmdldEJ5dGVzKCk7CiAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgaW5wdXQuYXBwbHkoQnl0ZUFycmF5VG9TdHJpbmcub2YoIlVURi04IikpLmFwcGx5CiAgICAgICAgICAgIChMb2dnaW5nSU8uaW5mbyhUcmFuc2Zvcm0uY2xhc3MpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
