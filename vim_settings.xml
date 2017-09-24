@@ -35,10 +35,6 @@
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/StringToByteArray.java" timestamp="1506267171650">
         <mark key="'" line="3" column="1" />
-        <mark key="[" line="51" column="20" />
-        <mark key="]" line="51" column="11" />
-        <mark key="." line="51" column="11" />
-        <mark key="^" line="51" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/MainRunnerTest.java" timestamp="1506261952349">
         <mark key="'" line="72" column="0" />
@@ -84,10 +80,7 @@
         <mark key="." line="37" column="73" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamIOTest.java" timestamp="1506267308189">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="321" column="11" />
-        <mark key="." line="65" column="0" />
+        <mark key="^" line="24" column="11" />
       </file>
     </filemarks>
     <jumps>
