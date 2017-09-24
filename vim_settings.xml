@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/MainRunnerTest.java" timestamp="1506261952349">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="90" column="4" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/WcTest.java" timestamp="1506232846771">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="30" column="0" />
@@ -41,6 +47,11 @@
         <mark key="]" line="18" column="2" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/comparators/KVComparatorTest.java" timestamp="1506261109474">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/MainRunner.java" timestamp="1506262086143">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -84,10 +95,17 @@
       <jump line="37" column="16" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/SlidingWc.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/SlidingWcTest.java" />
       <jump line="87" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/MainRunnerTest.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/MainRunnerTest.java" />
+      <jump line="43" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/MainRunnerTest.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/MainRunnerTest.java" />
+      <jump line="90" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/MainRunnerTest.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/MainRunnerTest.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/MainRunnerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBzZXJpYWxWZXJzaW9uVUlEID0gLTg2MTIyNTgyODk5MTc4ODEyMjJMOwoK</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIldlYWtlckFjY2VzcyIpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICIg</text>
@@ -99,28 +117,28 @@
         <text>2 2 4\n</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBzZXJpYWxWZXJzaW9uVUlEID0gLTg2MTIyNTgyODk5MTc4ODEyMjJMOwoK</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIldlYWtlckFjY2VzcyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgIEBUZXN0CiAgIHB1YmxpYyB2b2lkIHRlc3RDb25zdHJ1Y3QoKQogICB7CiAgICAgIG5ldyBNYWluUnVubmVyKCk7CiAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBzZXJpYWxWZXJzaW9uVUlEID0gLTg2MTIyNTgyODk5MTc4ODEyMjJMOwoK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CiAgICAgIG91dHB1dAogICAgICAgICAuYXBwbHkoTG9nZ2luZ0lPLmVycm9yKFN0cmVhbWluZ1djVGVzdC5jbGFzcykpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>.apply(ByteArrayToString.of(&quot;UTF-8&quot;))</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLmFwcGx5KE1hcEVsZW1lbnRzLmludG8oVHlwZURlc2NyaXB0b3JzLnN0cmluZ3MoKSkudmlhKEFycmF5czo6dG9TdHJpbmcpKQ==</text>
-      </register>
-      <register name="7" type="4">
-        <text>.getBytes()</text>
-      </register>
       <register name="8" type="4">
-        <text>.getBytes()</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFwcGx5KE1hcEVsZW1lbnRzLmludG8oVHlwZURlc2NyaXB0b3JzLnN0cmluZ3MoKSkudmlhKEFycmF5czo6dG9TdHJpbmcpKQ==</text>
       </register>
       <register name="9" type="4">
         <text>.getBytes()</text>
@@ -158,6 +176,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
