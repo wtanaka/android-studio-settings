@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1506299703959">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" timestamp="1506233318918">
         <mark key="'" line="87" column="3" />
         <mark key="[" line="87" column="0" />
@@ -38,6 +41,17 @@
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/MainRunnerTest.java" timestamp="1506261952349">
         <mark key="'" line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" timestamp="1506299679567">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="56" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/CoderRegistryBehaviorTest.java" timestamp="1506298037062">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="2" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/WcTest.java" timestamp="1506232846771">
         <mark key="'" line="21" column="0" />
@@ -134,55 +148,76 @@
       <jump line="189" column="30" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/PercentMatch.java" />
       <jump line="62" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/PercentMatch.java" />
       <jump line="103" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/PercentMatch.java" />
+      <jump line="5" column="4" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="64" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="68" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="69" column="29" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="76" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="70" column="18" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogPHA+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>m_function</text>
+        <text>@</text>
       </register>
-      <register name="0" type="4">
-        <text>2 2 4\n</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICoge0Bjb2RlIGh0dHBzOi8vbGlzdHMuYXBhY2hlLm9yZy90aHJlYWQuaHRtbAogKiAvOGZhMWI4NGYzOGVjOWI0MmQzMGI2ZWQ4MmMyNGNjM2IxOGVkZDdmYjlhMzA5ZDkxZWVjNjUwNTBACiAqIDx1c2VyLmJlYW0uYXBhY2hlLm9yZz59Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogPHA+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgIHByaXZhdGUgZmluYWwgU2VyaWFsaXphYmxlRnVuY3Rpb248ViwgQm9vbGVhbj4gbV9mdW5jdGlvbjsK</text>
+        <text encoding="base64">ICAgICogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZSBmaW5hbCBTZXJpYWxpemFibGVGdW5jdGlvbjxULCBCb29sZWFuPiBtX2Z1bmN0aW9uOwoK</text>
+        <text encoding="base64">ICogLzhmYTFiODRmMzhlYzliNDJkMzBiNmVkODJjMjRjYzNiMThlZGQ3ZmI5YTMwOWQ5MWVlYzY1MDUwQAogKiA8dXNlci5iZWFtLmFwYWNoZS5vcmc+fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgcHVibGljIHN0YXRpYyBjbGFzcyBJbnRlZ2VyUGFyc2VJbnQgZXh0ZW5kcyBTaW1wbGVGdW5jdGlvbjxTdHJpbmcsIEludGVnZXI+CiAgICAgIGltcGxlbWVudHMgU2VyaWFsaXphYmxlCiAgIHsKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBJbnRlZ2VyIGFwcGx5KGZpbmFsIFN0cmluZyBpbnB1dCkKICAgICAgewogICAgICAgICByZXR1cm4gSW50ZWdlci5wYXJzZUludChpbnB1dCk7CiAgICAgIH0KICAgfQoK</text>
+        <text encoding="base64">ICAgICoK</text>
       </register>
-      <register name="5" type="4">
-        <text>new IntegerParseInt()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgLmFwcGx5KExvZ2dpbmdJTy53YXJuKEdyb3VwQnlLZXlCZWhhdmlvclRlc3QuY2xhc3MpKQo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PEtWPEtWPEssIEludGVnZXI+LAogICAgICAgICAgICAgICAgICBMb25nPiwKICAgICAgICAgICAgICAgICAgS1Y8SywgS1Y8SW50ZWdlciwKICAgICAgICAgICAgICAgICAgTG9uZz4+Pg==</text>
+        <text>, Collections.reverseOrder()</text>
       </register>
-      <register name="7" type="4">
-        <text>TypeDescriptor.of()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIExpc3RzCgogICAgICAgICAgICAgICAgICAgICAgICAubmV3QXJyYXlMaXN0KGl0ZXJhYmxlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKFNlcmlhbGl6YWJsZUZ1bmN0aW9uPFQsIFN0cmluZz4pIGlucHV0MSAtPiBTdHJpbmcuPFQ+dmFsdWVPZigKICAgICAgICAgICAgICAgaW5wdXQxKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIFN0cmluZyBhcHBseShmaW5hbCBUIGlucHV0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>m_function</last-search>
+      <last-search>@</last-search>
       <last-offset />
-      <last-pattern>m_function</last-pattern>
+      <last-pattern>@</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -198,10 +233,13 @@
         <entry>MapElements</entry>
         <entry encoding="base64">XDxJbnRlZ2VyUGFyc2VJbnRcPg==</entry>
         <entry>m_function</entry>
+        <entry>@</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -215,6 +253,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
