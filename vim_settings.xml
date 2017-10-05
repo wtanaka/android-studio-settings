@@ -39,10 +39,12 @@
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/StringToByteArray.java" timestamp="1506267171650">
         <mark key="'" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" timestamp="1507177318114">
-        <mark key="]" line="32" column="21" />
-        <mark key="^" line="32" column="21" />
-        <mark key="." line="32" column="21" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" timestamp="1507178720382">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="47" column="40" />
+        <mark key="]" line="46" column="30" />
+        <mark key="^" line="46" column="30" />
+        <mark key="." line="46" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/MainRunnerTest.java" timestamp="1506261952349">
         <mark key="'" line="72" column="0" />
@@ -81,6 +83,13 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/FlattenKVTest.java" timestamp="1507178550175">
+        <mark key="'" line="67" column="4" />
+        <mark key="[" line="79" column="32" />
+        <mark key="]" line="79" column="32" />
+        <mark key="^" line="79" column="29" />
+        <mark key="." line="79" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/Wc.java" timestamp="1506233030775">
         <mark key="'" line="26" column="13" />
@@ -179,55 +188,60 @@
       <jump line="27" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
       <jump line="38" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
       <jump line="52" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/FlattenKVTest.java" />
+      <jump line="62" column="67" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/FlattenKVTest.java" />
+      <jump line="67" column="4" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/FlattenKVTest.java" />
+      <jump line="43" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ByKey</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>ByKey</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>@</text>
+        <text>One</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICoge0Bjb2RlIGh0dHBzOi8vbGlzdHMuYXBhY2hlLm9yZy90aHJlYWQuaHRtbAogKiAvOGZhMWI4NGYzOGVjOWI0MmQzMGI2ZWQ4MmMyNGNjM2IxOGVkZDdmYjlhMzA5ZDkxZWVjNjUwNTBACiAqIDx1c2VyLmJlYW0uYXBhY2hlLm9yZz59Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgIHB1YmxpYyBzdGF0aWMgPEssIFY+IFBUcmFuc2Zvcm08UENvbGxlY3Rpb248S1Y8SywgSXRlcmFibGU8Vj4+PiwKICAgICAgICAgUENvbGxlY3Rpb248S1Y8SywgVj4+PiBpdGVyYWJsZXMoKQogICB7CiAgICAgIHJldHVybiBuZXcgRmxhdHRlbktWPD4oKTsKICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogPHA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICogLzhmYTFiODRmMzhlYzliNDJkMzBiNmVkODJjMjRjYzNiMThlZGQ3ZmI5YTMwOWQ5MWVlYzY1MDUwQAogKiA8dXNlci5iZWFtLmFwYWNoZS5vcmc+fQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IC5hZHZhbmNlV2F0ZXJtYXJrVG9JbmZpbml0eSgp</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICoK</text>
+      <register name="4" type="4">
+        <text>TestStream.create(VarIntCoder.of())</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgLmFwcGx5KExvZ2dpbmdJTy53YXJuKEdyb3VwQnlLZXlCZWhhdmlvclRlc3QuY2xhc3MpKQo=</text>
+        <text encoding="base64">ICAgICogPHA+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>, Collections.reverseOrder()</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIExpc3RzCgogICAgICAgICAgICAgICAgICAgICAgICAubmV3QXJyYXlMaXN0KGl0ZXJhYmxlKTsK</text>
+        <text encoding="base64">ICogLzhmYTFiODRmMzhlYzliNDJkMzBiNmVkODJjMjRjYzNiMThlZGQ3ZmI5YTMwOWQ5MWVlYzY1MDUwQAogKiA8dXNlci5iZWFtLmFwYWNoZS5vcmc+fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgLmFwcGx5KExvZ2dpbmdJTy53YXJuKEdyb3VwQnlLZXlCZWhhdmlvclRlc3QuY2xhc3MpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>@</last-search>
+      <last-search>One</last-search>
       <last-offset />
-      <last-pattern>@</last-pattern>
+      <last-pattern>One</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -244,6 +258,7 @@
         <entry encoding="base64">XDxJbnRlZ2VyUGFyc2VJbnRcPg==</entry>
         <entry>m_function</entry>
         <entry>@</entry>
+        <entry>One</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
