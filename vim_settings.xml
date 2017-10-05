@@ -83,9 +83,10 @@
         <mark key="." line="110" column="48" />
         <mark key="^" line="110" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamIOTest.java" timestamp="1505593451002">
-        <mark key="[" line="333" column="30" />
-        <mark key="]" line="333" column="30" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamIOTest.java" timestamp="1507172139051">
+        <mark key="'" line="55" column="24" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="2" />
         <mark key="." line="333" column="30" />
         <mark key="^" line="333" column="30" />
       </file>
@@ -195,10 +196,15 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenByKey.java" timestamp="1507172503933">
+        <mark key="'" line="32" column="25" />
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="12" />
+        <mark key="^" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
-      <jump line="121" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="173" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="172" column="29" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
       <jump line="156" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/LoggingIOTest.java" />
@@ -297,46 +303,48 @@
       <jump line="52" column="27" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" />
       <jump line="54" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" />
+      <jump line="55" column="24" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamIOTest.java" />
+      <jump line="2" column="25" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenByKey.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKFNlcmlhbGl6YWJsZUZ1bmN0aW9uPGJ5dGVbXSwgU3RyaW5nPikK</text>
+      <register name="&quot;" type="4">
+        <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2VyaWFsaXphYmxlRnVuY3Rpb248Ynl0ZVtdLCBTdHJpbmc+</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text>StreamingWc.WcStats</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZmluYWwgV2MuU3RhdHMgcmVzdWx0ID0gZm4ubWVyZ2VBY2N1bXVsYXRvcnMoc3RhdHMpOwo=</text>
+        <text encoding="base64">LyoKICogY29tLnd0YW5ha2EuYmVhbQogKgogKiBDb3B5cmlnaHQgKEMpIDIwMTcgV2VzbGV5IFRhbmFrYSA8aHR0cDovL3d0YW5ha2EuY29tLz4KICoKICogVGhpcyBwcm9ncmFtIGlzIGZyZWUgc29mdHdhcmU6IHlvdSBjYW4gcmVkaXN0cmlidXRlIGl0IGFuZC9vcgogKiBtb2RpZnkgaXQgdW5kZXIgdGhlIHRlcm1zIG9mIHRoZSBHTlUgR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcwogKiBwdWJsaXNoZWQgYnkgdGhlIEZyZWUgU29mdHdhcmUgRm91bmRhdGlvbiwgZWl0aGVyIHZlcnNpb24gMyBvZiB0aGUKICogTGljZW5zZSwgb3IgKGF0IHlvdXIgb3B0aW9uKSBhbnkgbGF0ZXIgdmVyc2lvbi4KICoKICogVGhpcyBwcm9ncmFtIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsIGJ1dAogKiBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUgR05VCiAqIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgZm9yIG1vcmUgZGV0YWlscy4KICoKICogWW91IHNob3VsZCBoYXZlIHJlY2VpdmVkIGEgY29weSBvZiB0aGUgR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UKICogYWxvbmcgd2l0aCB0aGlzIHByb2dyYW0uICBJZiBub3QsIHNlZQogKiA8aHR0cDovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCiAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKFNlcmlhbGl6YWJsZUZ1bmN0aW9uPGJ5dGVbXSwgU3RyaW5nPikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">U2VyaWFsaXphYmxlRnVuY3Rpb248Ynl0ZVtdLCBTdHJpbmc+</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICBpbnB1dC5hcHBseShCeXRlQXJyYXlUb1N0cmluZy5vZigiVVRGLTgiKSkuYXBwbHkKLy8gICAgICAgICAgICAoTG9nZ2luZ0lPLmluZm8oVHJhbnNmb3JtLmNsYXNzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKFNlcmlhbGl6YWJsZUZ1bmN0aW9uPGJ5dGVbXSwgU3RyaW5nPikK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgU3RyZWFtSU8uc3RkaW5VbmJvdW5kZWQoKSwKICAgICAgICAgU2VxdWVudGlhbC5vZihTZXF1ZW50aWFsLm9mKAogICAgICAgICAgICBCeXRlQXJyYXlUb1N0cmluZy5vZigiVVRGLTgiKSwKICAgICAgICAgICAgTG9nZ2luZ0lPLndhcm4oU3RyZWFtaW5nV2MuY2xhc3MpKSwKICAgICAgICAgICAgVGVybWluYXRlLm9mKCkpLAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">U2VyaWFsaXphYmxlRnVuY3Rpb248Ynl0ZVtdLCBTdHJpbmc+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgU3RyZWFtSU8uc3RkaW5VbmJvdW5kZWQoKSwKICAgICAgICAgICAgU3RyZWFtSU8uc3Rkb3V0KCksCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICBpbnB1dC5hcHBseShCeXRlQXJyYXlUb1N0cmluZy5vZigiVVRGLTgiKSkuYXBwbHkKLy8gICAgICAgICAgICAoTG9nZ2luZ0lPLmluZm8oVHJhbnNmb3JtLmNsYXNzKSk7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgU3RyZWFtSU8uc3RkaW5VbmJvdW5kZWQoKSwKICAgICAgICAgU2VxdWVudGlhbC5vZihTZXF1ZW50aWFsLm9mKAogICAgICAgICAgICBCeXRlQXJyYXlUb1N0cmluZy5vZigiVVRGLTgiKSwKICAgICAgICAgICAgTG9nZ2luZ0lPLndhcm4oU3RyZWFtaW5nV2MuY2xhc3MpKSwKICAgICAgICAgICAgVGVybWluYXRlLm9mKCkpLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgU3RyZWFtSU8uc3RkaW5VbmJvdW5kZWQoKSwKICAgICAgICAgICAgU3RyZWFtSU8uc3Rkb3V0KCksCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgU2VxdWVudGlhbC5vZigKICAgICAgICAgICAgQnl0ZUFycmF5VG9TdHJpbmcub2YoIlVURi04IiksCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>Terminate.of()</text>
-      </register>
-      <register name="8" type="4">
-        <text>LoggingIO.warn(SlidingWc.class)</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgaW5wdXQuYXBwbHkoQnl0ZUFycmF5VG9TdHJpbmcub2YoIlVURi04IikpLmFwcGx5CiAgICAgICAgICAgIChMb2dnaW5nSU8uaW5mbyhUcmFuc2Zvcm0uY2xhc3MpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
