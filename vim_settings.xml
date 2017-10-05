@@ -39,6 +39,11 @@
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/StringToByteArray.java" timestamp="1506267171650">
         <mark key="'" line="3" column="1" />
       </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" timestamp="1507177318114">
+        <mark key="]" line="32" column="21" />
+        <mark key="^" line="32" column="21" />
+        <mark key="." line="32" column="21" />
+      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/MainRunnerTest.java" timestamp="1506261952349">
         <mark key="'" line="72" column="0" />
       </file>
@@ -86,6 +91,11 @@
       </file>
       <file name="/fragment.java" timestamp="1506261038512">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenByKey.java" timestamp="1507177296227">
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StringValueOf.java" timestamp="1506265881830">
         <mark key="[" line="37" column="73" />
@@ -171,11 +181,11 @@
       <jump line="52" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/GroupByKeyBehaviorTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICogPHA+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ByKey</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>ByKey</text>
       </register>
       <register name="/" type="4">
         <text>@</text>
