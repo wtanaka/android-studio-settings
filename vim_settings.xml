@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1506299703959">
+      <file name="/Dummy.txt" timestamp="1507182082419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamingWcTest.java" timestamp="1506233318918">
@@ -39,12 +39,11 @@
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/StringToByteArray.java" timestamp="1506267171650">
         <mark key="'" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" timestamp="1507178720382">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="47" column="40" />
-        <mark key="]" line="46" column="30" />
-        <mark key="^" line="46" column="30" />
-        <mark key="." line="46" column="30" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" timestamp="1507182165823">
+        <mark key="'" line="77" column="45" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/MainRunnerTest.java" timestamp="1506261952349">
         <mark key="'" line="72" column="0" />
@@ -98,13 +97,19 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1506261038512">
+      <file name="/fragment.java" timestamp="1507182082433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenByKey.java" timestamp="1507177296227">
         <mark key="[" line="32" column="20" />
         <mark key="]" line="32" column="20" />
         <mark key="." line="32" column="20" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/functions/Identity.java" timestamp="1507181949994">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="52" />
+        <mark key="^" line="25" column="52" />
+        <mark key="." line="25" column="52" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StringValueOf.java" timestamp="1506265881830">
         <mark key="[" line="37" column="73" />
@@ -193,55 +198,71 @@
       <jump line="67" column="4" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/FlattenKVTest.java" />
       <jump line="43" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
       <jump line="38" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="33" column="2" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="82" column="11" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="40" column="60" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="61" column="35" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="44" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="62" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="37" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="57" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="73" column="41" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="70" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="52" column="14" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="84" column="37" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="49" column="28" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
+      <jump line="77" column="45" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenKV.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgS1YK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>new TypeDesc</text>
       </register>
       <register name="/" type="4">
-        <text>One</text>
+        <text encoding="base64">XDx0eXBlRGVzY3JpcHRvclw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgIHB1YmxpYyBzdGF0aWMgPEssIFY+IFBUcmFuc2Zvcm08UENvbGxlY3Rpb248S1Y8SywgSXRlcmFibGU8Vj4+PiwKICAgICAgICAgUENvbGxlY3Rpb248S1Y8SywgVj4+PiBpdGVyYWJsZXMoKQogICB7CiAgICAgIHJldHVybiBuZXcgRmxhdHRlbktWPD4oKTsKICAgfQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGlucHV0LmFwcGx5KFBhckRvLm9mKG5ldyBEb0ZuPEtWPEssIEl0ZXJhYmxlPFY+PiwgS1Y8SywgVj4+KCkKICAgICAgewogICAgICAgICBAUHJvY2Vzc0VsZW1lbnQKICAgICAgICAgcHVibGljIHZvaWQgcHJvY2Vzc0VsZW1lbnQoUHJvY2Vzc0NvbnRleHQgYykKICAgICAgICAgewogICAgICAgICAgICBLIGtleSA9IGMuZWxlbWVudCgpLmdldEtleSgpOwogICAgICAgICAgICBmb3IgKFYgdiA6IGMuZWxlbWVudCgpLmdldFZhbHVlKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgYy5vdXRwdXRXaXRoVGltZXN0YW1wKEtWLm9mKGtleSwgdiksIGMudGltZXN0YW1wKCkpOwogICAgICAgICAgICB9CiAgICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgS1YK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcHJpdmF0ZSBmaW5hbCBDbGFzczxPdXRwdXRUPiBtX2NsYXp6Owo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgcHJpdmF0ZSBmaW5hbCBjbGFzcyBEZWZhdWx0TWFwcGVyPEssVj4gZXh0ZW5kcyBTaW1wbGVGdW5jdGlvbjxLVjxLLFY+LCAKICAgICAgICAgS1Y8SyxWPj4KICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU2ltcGxlRnVuY3Rpb248SyxWPjxLVjxLLCBWPiwgS1Y8SywgVj4+CiAgICAgICAgIERFRkFVTFRfTUFQUEVSID0KICAgICAgICAgbmV3IFNpbXBsZUZ1bmN0aW9uPEssVj48S1Y8SyxWPiwgS1Y8SyxWPj47Cgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IC5hZHZhbmNlV2F0ZXJtYXJrVG9JbmZpbml0eSgp</text>
-      </register>
-      <register name="4" type="4">
-        <text>TestStream.create(VarIntCoder.of())</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICogPHA+Cg==</text>
+        <text encoding="base64">ICAgQE92ZXJyaWRlCiAgIHB1YmxpYyBQQ29sbGVjdGlvbjxLVjxLLCBWPj4gZXhwYW5kKFBDb2xsZWN0aW9uPEtWPEssIEl0ZXJhYmxlPFY+Pj4gaW5wdXQpCiAgIHsKICAgICAgcmV0dXJuIGlucHV0LmFwcGx5KFBhckRvLm9mKG5ldyBEb0ZuPEtWPEssIEl0ZXJhYmxlPFY+PiwgS1Y8SywgVj4+KCkKICAgICAgewogICAgICAgICBAUHJvY2Vzc0VsZW1lbnQKICAgICAgICAgcHVibGljIHZvaWQgcHJvY2Vzc0VsZW1lbnQoUHJvY2Vzc0NvbnRleHQgYykKICAgICAgICAgewogICAgICAgICAgICBLIGtleSA9IGMuZWxlbWVudCgpLmdldEtleSgpOwogICAgICAgICAgICBmb3IgKFYgdiA6IGMuZWxlbWVudCgpLmdldFZhbHVlKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgYy5vdXRwdXRXaXRoVGltZXN0YW1wKEtWLm9mKGtleSwgdiksIGMudGltZXN0YW1wKCkpOwogICAgICAgICAgICB9CiAgICAgICAgIH0KICAgICAgfSkpOwogICB9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICogCg==</text>
+      <register name="6" type="4">
+        <text>.into(OutputT)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogLzhmYTFiODRmMzhlYzliNDJkMzBiNmVkODJjMjRjYzNiMThlZGQ3ZmI5YTMwOWQ5MWVlYzY1MDUwQAogKiA8dXNlci5iZWFtLmFwYWNoZS5vcmc+fQo=</text>
+        <text encoding="base64">ICAgICAgICAgbV9tYXBwZXIKICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICoK</text>
+        <text encoding="base64">ICAgICAgICAgaW5wdXQuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgLmFwcGx5KExvZ2dpbmdJTy53YXJuKEdyb3VwQnlLZXlCZWhhdmlvclRlc3QuY2xhc3MpKQo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>One</last-search>
+      <last-search encoding="base64">XDx0eXBlRGVzY3JpcHRvclw+</last-search>
       <last-offset />
-      <last-pattern>One</last-pattern>
+      <last-pattern encoding="base64">XDx0eXBlRGVzY3JpcHRvclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -259,6 +280,8 @@
         <entry>m_function</entry>
         <entry>@</entry>
         <entry>One</entry>
+        <entry encoding="base64">XDxtX21hcHBlclw+</entry>
+        <entry encoding="base64">XDx0eXBlRGVzY3JpcHRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
