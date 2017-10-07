@@ -1,9 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1507363013386">
+      <file name="/a.dummy" timestamp="1507364427255">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/SlidingWc.java" timestamp="1506265759936">
@@ -76,12 +76,12 @@
       <file name="/Dummy.txt" timestamp="1507361172666">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" timestamp="1507363422107">
-        <mark key="'" line="148" column="34" />
-        <mark key="[" line="168" column="28" />
-        <mark key="]" line="168" column="34" />
-        <mark key="^" line="168" column="34" />
-        <mark key="." line="168" column="34" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" timestamp="1507364956992">
+        <mark key="'" line="62" column="3" />
+        <mark key="[" line="118" column="5" />
+        <mark key="]" line="118" column="28" />
+        <mark key="^" line="118" column="28" />
+        <mark key="." line="118" column="28" />
       </file>
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Hashtable.java" timestamp="1507284985936">
         <mark key="'" line="909" column="26" />
@@ -153,45 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="21" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="37" column="44" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="70" column="19" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="41" column="2" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="2" column="21" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
-      <jump line="48" column="44" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
-      <jump line="41" column="65" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="80" column="59" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="38" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="85" column="59" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="31" column="13" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
-      <jump line="83" column="10" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="909" column="26" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Hashtable.java" />
-      <jump line="337" column="31" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/security/Provider.java" />
-      <jump line="50" column="30" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
-      <jump line="58" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
-      <jump line="63" column="13" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
-      <jump line="46" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="49" column="53" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="70" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="61" column="29" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="112" column="50" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="103" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="107" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="96" column="59" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="81" column="29" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
       <jump line="171" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
       <jump line="101" column="29" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
       <jump line="62" column="29" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
@@ -222,86 +183,125 @@
       <jump line="128" column="41" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
       <jump line="138" column="69" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
       <jump line="167" column="40" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="86" column="70" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="47" column="13" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="42" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="91" column="22" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="90" column="31" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="74" column="19" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="105" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="119" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="96" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="109" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="137" column="42" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="103" column="52" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="144" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="104" column="21" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="76" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="175" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="143" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="113" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="156" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="43" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="165" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="150" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="147" column="63" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="196" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="177" column="63" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="81" column="64" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="117" column="64" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="155" column="18" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="157" column="10" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="148" column="34" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="104" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="185" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="217" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="121" column="56" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="76" column="56" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="102" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="128" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="81" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="109" column="51" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="73" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="97" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="125" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="87" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="149" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="164" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="78" column="51" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="130" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="96" column="44" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="122" column="44" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="53" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="148" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="147" column="35" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="158" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="176" column="41" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="203" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="186" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="178" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="193" column="38" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="169" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="198" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="204" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="162" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="188" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="181" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="192" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="172" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="165" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="156" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="180" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="183" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="182" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="119" column="25" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="155" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="112" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="137" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="62" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>testStreamBuilder</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>testStreamBuilder</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxMDAwMDBcPg==</text>
+        <text>kvInt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydFRydWUoT3JkZXJpbmcubmF0dXJhbCgpLnJldmVyc2UoKS5pc09yZGVyZWQoemVyb2VzKSk7CiAgICAgIEFzc2VydC5hc3NlcnRUcnVlKE9yZGVyaW5nLm5hdHVyYWwoKS5yZXZlcnNlKCkuaXNPcmRlcmVkKG9uZXMpKTsK</text>
+        <text encoding="base64">ICAgICAgZmluYWwgaW50IHVuaXF1ZUtleUNvdW50ID0gMTA7CiAgICAgIFRlc3RTdHJlYW0uQnVpbGRlcjxLVjxJbnRlZ2VyLCBJbnRlZ2VyPj4gc3RyZWFtID0gcG9wdWxhdGVFbGVtZW50cygKICAgICAgICAgICAga3ZJbnRJbnRTdHJlYW0oKSwgbmV3IFJhbmRvbSgwKSwgdW5pcXVlS2V5Q291bnQsIDEwMCwKICAgICAgICAgICAgMTApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydEZhbHNlKE9yZGVyaW5nLm5hdHVyYWwoKS5yZXZlcnNlKCkuaXNTdHJpY3RseU9yZGVyZWQob25lcykpOwo=</text>
+        <text encoding="base64">CiAgIEBSdWxlCiAgIHB1YmxpYyB0cmFuc2llbnQgVGVzdFBpcGVsaW5lIG1fcGlwZWxpbmUgPSBUZXN0UGlwZWxpbmUuY3JlYXRlKCkKICAgICAgICAgLmVuYWJsZUFiYW5kb25lZE5vZGVFbmZvcmNlbWVudCh0cnVlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydFRydWUoT3JkZXJpbmcubmF0dXJhbCgpLnJldmVyc2UoKS5pc09yZGVyZWQob25lcykpOwo=</text>
+        <text encoding="base64">ICAgICAgc3RyZWFtID0gcG9wdWxhdGVFbGVtZW50cyhzdHJlYW0sIG5ldyBSYW5kb20oMCksIDIsIDEwMCwgMTApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKHplcm9lcyk7CiAgICAgIFN5c3RlbS5lcnIucHJpbnRsbihvbmVzKTsK</text>
+        <text encoding="base64">ICAgICAgVGVzdFN0cmVhbS5CdWlsZGVyPEtWPEludGVnZXIsIEludGVnZXI+PiBzdHJlYW0gPSBrdkludEludFN0cmVhbSgpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxJbnRlZ2VyPiBvbmVzID0gcmVzdWx0LnN0cmVhbSgpCiAgICAgICAgICAgIC5maWx0ZXIoeCAtPiAxID09IHguZ2V0S2V5KCkpCiAgICAgICAgICAgIC5tYXAoeCAtPiB4LmdldFZhbHVlKCkpCiAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+      <register name="4" type="4">
+        <text>.natural()</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKHplcm9lcyk7CiAgICAgIFN5c3RlbS5lcnIucHJpbnRsbihvbmVzKTsK</text>
+        <text encoding="base64">ICAgICAgVmVjdG9yPEtWPEludGVnZXIsIEludGVnZXI+PiByZXN1bHQgPSByZWNvcmRlci5nZXQoKTsKICAgICAgTGlzdDxJbnRlZ2VyPiB6ZXJvZXMgPSByZXN1bHQuc3RyZWFtKCkKICAgICAgICAgICAgLmZpbHRlcih4IC0+IDAgPT0geC5nZXRLZXkoKSkKICAgICAgICAgICAgLm1hcCh4IC0+IHguZ2V0VmFsdWUoKSkKICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICAgIExpc3Q8SW50ZWdlcj4gb25lcyA9IHJlc3VsdC5zdHJlYW0oKQogICAgICAgICAgICAuZmlsdGVyKHggLT4gMSA9PSB4LmdldEtleSgpKQogICAgICAgICAgICAubWFwKHggLT4geC5nZXRWYWx1ZSgpKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgQXNzZXJ0LmFzc2VydFRydWUoCiAgICAgICAgICAgIE9yZGVyaW5nLm5hdHVyYWwoKS5yZXZlcnNlKCkuaXNTdHJpY3RseU9yZGVyZWQoemVyb2VzKSk7CiAgICAgIEFzc2VydC5hc3NlcnRUcnVlKE9yZGVyaW5nLm5hdHVyYWwoKS5yZXZlcnNlKCkuaXNTdHJpY3RseU9yZGVyZWQob25lcykpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>.reverse()</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.reversbe()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgVmVjdG9yPEtWPEludGVnZXIsIEludGVnZXI+PiByZXN1bHQgPSByZWNvcmRlci5nZXQoKTsKICAgICAgTGlzdDxJbnRlZ2VyPiB6ZXJvZXMgPSByZXN1bHQuc3RyZWFtKCkKICAgICAgICAgICAgLmZpbHRlcih4IC0+IDAgPT0geC5nZXRLZXkoKSkKICAgICAgICAgICAgLm1hcCh4IC0+IHguZ2V0VmFsdWUoKSkKICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICAgIExpc3Q8SW50ZWdlcj4gb25lcyA9IHJlc3VsdC5zdHJlYW0oKQogICAgICAgICAgICAuZmlsdGVyKHggLT4gMSA9PSB4LmdldEtleSgpKQogICAgICAgICAgICAubWFwKHggLT4geC5nZXRWYWx1ZSgpKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgQXNzZXJ0LmFzc2VydFRydWUoT3JkZXJpbmcubmF0dXJhbCgpLmlzU3RyaWN0bHlPcmRlcmVkKHplcm9lcykpOwogICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShPcmRlcmluZy5uYXR1cmFsKCkuaXNTdHJpY3RseU9yZGVyZWQob25lcykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgcHVibGljIHZvaWQgdGVzdEluY3JlYXNpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgQXNzZXJ0LmFzc2VydFRydWUoT3JkZXJpbmcubmF0dXJhbCgpLmlzT3JkZXJlZChmaWx0ZXJlZCkpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CgogICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKEtWLm9mKDAsIDQxMzYwKSwgcmVjb3JkZXIuZ2V0KCkuZ2V0KDApKTsKICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhLVi5vZigxLCA1OTQ4KSwgcmVjb3JkZXIuZ2V0KCkuZ2V0KDEpKTsKICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhLVi5vZigwLCA0ODAyOSksIHJlY29yZGVyLmdldCgpLmdldCgyKSk7CiAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoS1Yub2YoMCwgOTgyOTApLCByZWNvcmRlci5nZXQoKS5nZXQoMTUpKTsK</text>
+      <register name="9" type="4">
+        <text>.reverse()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxMDAwMDBcPg==</last-search>
+      <last-search>kvInt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxMDAwMDBcPg==</last-pattern>
+      <last-pattern>kvInt</last-pattern>
       <last-replace>Strictly</last-replace>
       <last-substitute>Strongly</last-substitute>
       <last-dir>1</last-dir>
@@ -309,12 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">LT4=</entry>
-        <entry encoding="base64">XDxjb21wYXJlVG9cPg==</entry>
-        <entry encoding="base64">XDxNeURvRm5cPg==</entry>
-        <entry encoding="base64">XDxzX3Jlc3VsdHNcPg==</entry>
-        <entry>WEAK</entry>
-        <entry encoding="base64">XDxtX3ByZWRpY2F0ZVw+</entry>
         <entry encoding="base64">XDxtX3ZhbHVlQ29kZXJcPg==</entry>
         <entry encoding="base64">XDxUcmFuc2Zvcm1cPg==</entry>
         <entry>INC</entry>
@@ -329,6 +323,12 @@
         <entry>Inc</entry>
         <entry encoding="base64">XDwxMFw+</entry>
         <entry encoding="base64">XDwxMDAwMDBcPg==</entry>
+        <entry encoding="base64">XDxrdkludEludFN0cmVhbVw+</entry>
+        <entry encoding="base64">XDxwb3B1bGF0ZVN0cmVhbVw+</entry>
+        <entry encoding="base64">XDxwb3B1bGF0ZUVsZW1lbnRzXD4=</entry>
+        <entry>populateElements</entry>
+        <entry>Random</entry>
+        <entry>kvInt</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFQ+LzxLVjxLLFY+Pi9nYw==</entry>
