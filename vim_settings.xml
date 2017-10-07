@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/io/google-cloud-platform/src/test/java/org/apache/beam/sdk/io/gcp/bigquery/BigQueryIOTest.java" timestamp="1507404250372">
+        <mark key="'" line="664" column="19" />
+        <mark key="[" line="664" column="16" />
+        <mark key="]" line="664" column="19" />
+        <mark key="." line="670" column="27" />
+        <mark key="^" line="664" column="19" />
+      </file>
       <file name="/a.dummy" timestamp="1507364427255">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,10 +31,6 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="56" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/CoderRegistryBehaviorTest.java" timestamp="1506298037062">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="2" />
-      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/WcTest.java" timestamp="1506232846771">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="30" column="0" />
@@ -42,11 +45,6 @@
         <mark key="." line="67" column="73" />
         <mark key="^" line="36" column="60" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/MainRunner.java" timestamp="1506262086143">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/Wc.java" timestamp="1506233030775">
         <mark key="'" line="26" column="13" />
         <mark key="[" line="27" column="1" />
@@ -60,14 +58,17 @@
         <mark key="^" line="24" column="53" />
         <mark key="." line="24" column="53" />
       </file>
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/io/mongodb/src/test/java/org/apache/beam/sdk/io/mongodb/MongoDBGridFSIOTest.java" timestamp="1507404281141">
+        <mark key="[" line="354" column="20" />
+        <mark key="]" line="354" column="24" />
+        <mark key="." line="354" column="30" />
+        <mark key="^" line="354" column="24" />
+      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StringValueOf.java" timestamp="1506265881830">
         <mark key="[" line="37" column="73" />
         <mark key="]" line="37" column="73" />
         <mark key="^" line="37" column="73" />
         <mark key="." line="37" column="73" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/StreamIOTest.java" timestamp="1506267308189">
-        <mark key="^" line="24" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1507361172666">
         <mark key="[" line="0" column="0" />
@@ -81,6 +82,9 @@
       </file>
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Hashtable.java" timestamp="1507284985936">
         <mark key="'" line="909" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/util/MovingFunction.java" timestamp="1507404207966">
+        <mark key="." line="125" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/BufferingTest.java" timestamp="1506232744258">
         <mark key="[" line="33" column="45" />
@@ -108,11 +112,6 @@
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" timestamp="1507394938922">
         <mark key="'" line="216" column="55" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/comparators/KVComparatorTest.java" timestamp="1506261109474">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/FlattenKVTest.java" timestamp="1507184165724">
         <mark key="'" line="109" column="46" />
         <mark key="[" line="52" column="21" />
@@ -134,14 +133,11 @@
       <file name="/fragment.java" timestamp="1507401916235">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/FlattenByKey.java" timestamp="1507177296227">
-        <mark key="[" line="32" column="20" />
-        <mark key="]" line="32" column="20" />
-        <mark key="." line="32" column="20" />
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/io/google-cloud-platform/src/test/java/org/apache/beam/sdk/io/gcp/bigquery/FakeJobService.java" timestamp="1507404263238">
+        <mark key="." line="412" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="90" column="31" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="103" column="52" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="175" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
@@ -241,13 +237,14 @@
       <jump line="185" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
       <jump line="216" column="55" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
       <jump line="143" column="4" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
+      <jump line="664" column="19" filename="$USER_HOME$/Dropbox/beam/sdks/java/io/google-cloud-platform/src/test/java/org/apache/beam/sdk/io/gcp/bigquery/BigQueryIOTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UmVpZnlUaW1lc3RhbXBzCg==</text>
+      <register name="&quot;" type="4">
+        <text>aB</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>aB</text>
       </register>
       <register name="/" type="4">
         <text>final</text>
