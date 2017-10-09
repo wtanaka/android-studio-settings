@@ -55,12 +55,12 @@
         <mark key="." line="67" column="73" />
         <mark key="^" line="36" column="60" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" timestamp="1507532311514">
-        <mark key="'" line="57" column="7" />
-        <mark key="[" line="93" column="57" />
-        <mark key="]" line="73" column="62" />
-        <mark key="." line="73" column="62" />
-        <mark key="^" line="73" column="62" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" timestamp="1507533221870">
+        <mark key="'" line="58" column="15" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="58" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/Wc.java" timestamp="1506233030775">
         <mark key="'" line="26" column="13" />
@@ -178,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="180" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="182" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="119" column="25" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
@@ -270,7 +269,6 @@
       <jump line="69" column="38" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="57" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
-      <jump line="77" column="62" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="62" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="59" column="25" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="73" column="63" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
@@ -278,65 +276,64 @@
       <jump line="75" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="87" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="55" column="7" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="77" column="39" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="58" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>Keys</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbGVtZW50VGltZXN0YW1wXD4=</text>
+        <text>Key</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IEludGVydmFsV2luZG93KG5ldyBJbnN0YW50KDEyMEwpLCBuZXcgSW5zdGFudCgxMzBMKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QKICAgICAgICAgICAgKENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QKICAgICAgICAgICAgKENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJveGVkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.boxed()</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gICAgICBQQ29sbGVjdGlvbjxWYWx1ZUluU2luZ2xlV2luZG93PFZhbHVlSW5TaW5nbGVXaW5kb3c8U3RyaW5nPj4+CiAgICAgIC8vIGRvdWJsZXJlaWZ5CiAgICAgIC8vICAgICAgICAgICAgPSByZXN1bHQuYXBwbHkoIkNoZWNrIHRoYXQgaW1wbGljaXQgdmFsdWVzIGFyZSBwcmVzZXJ2ZWQiLAogICAgICAvLyAgICAgICAgICAgIFJlaWZ5VGltZXN0YW1wQW5kV2luZG93Lm9mKCkpOwogICAgICAvLyAgICAgIFBBc3NlcnQudGhhdChkb3VibGVyZWlmeSkuY29udGFpbnNJbkFueU9yZGVyCiAgICAgIC8vIChWYWx1ZUluU2luZ2xlV2luZG93Lm9mCiAgICAgIC8vICAgICAgICAgICAgKFZhbHVlSW5TaW5nbGVXaW5kb3cub2YoInYwIiwgbmV3IEluc3RhbnQoMTIzTCksCiAgICAgIC8vICAgICAgICAgICAgICAgICAgbmV3IEludGVydmFsV2luZG93KG5ldyBJbnN0YW50KDEyMkwpLCBuZXcgSW5zdGFudAogICAgICAvLyAoMTMyTCkpLAogICAgICAvLyAgICAgICAgICAgICAgICAgIFBhbmVJbmZvLk5PX0ZJUklORyksIG5ldyBJbnN0YW50KDEyM0wpLAogICAgICAvLyAgICAgICAgICAgICAgICAgIG5ldyBJbnRlcnZhbFdpbmRvdyhuZXcgSW5zdGFudCgxMjJMKSwgbmV3IEluc3RhbnQKICAgICAgLy8gKDEzMkwpKSwKICAgICAgLy8gICAgICAgICAgICAgICAgICBQYW5lSW5mby5OT19GSVJJTkcpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgSW1tdQo=</text>
+        <text encoding="base64">ICAgICAgcHJlQ29tYmluZVJlc3VsdC5hcHBseShXaW5kb3cuaW50bykK</text>
       </register>
-      <register name="6" type="4">
-        <text>new IntervalWindow(new Instant(120L), new Instant(130L))</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QKICAgICAgICAgICAgKENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>ValueInSingleWindow.of(&quot;v0&quot;, new Instant(123L),
-                  new IntervalWindow(new Instant(120L), new Instant(130L)),
-                  PaneInfo.NO_FIRING)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QKICAgICAgICAgICAgKENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>.ofMillis(2)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmJveGVkKCkK</text>
       </register>
       <register name="9" type="4">
-        <text>Duration.ofMillis(10L)</text>
+        <text>.boxed()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbGVtZW50VGltZXN0YW1wXD4=</last-search>
+      <last-search>Key</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbGVtZW50VGltZXN0YW1wXD4=</last-pattern>
+      <last-pattern>Key</last-pattern>
       <last-replace>Strictly</last-replace>
       <last-substitute>Strongly</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>WE</entry>
         <entry encoding="base64">XDxLVkNhbGxiYWNrXD4=</entry>
         <entry>Strong</entry>
         <entry>Strongly</entry>
@@ -356,6 +353,7 @@
         <entry>final</entry>
         <entry encoding="base64">XDxSZWlmeVRpbWVzdGFtcHNBbmRXaW5kb3dzRm5cPg==</entry>
         <entry encoding="base64">XDxlbGVtZW50VGltZXN0YW1wXD4=</entry>
+        <entry>Key</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFQ+LzxLVjxLLFY+Pi9nYw==</entry>
