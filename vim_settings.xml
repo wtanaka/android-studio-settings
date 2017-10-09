@@ -150,12 +150,12 @@
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/StringToByteArray.java" timestamp="1506267171650">
         <mark key="'" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/TriggerBehaviorTest.java" timestamp="1507584882771">
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/TriggerBehaviorTest.java" timestamp="1507586015392">
         <mark key="'" line="45" column="5" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="43" column="45" />
-        <mark key="." line="43" column="45" />
-        <mark key="^" line="43" column="45" />
+        <mark key="[" line="59" column="19" />
+        <mark key="]" line="59" column="26" />
+        <mark key="." line="59" column="26" />
+        <mark key="^" line="59" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/FlattenKVTest.java" timestamp="1507184165724">
         <mark key="'" line="109" column="46" />
@@ -293,17 +293,17 @@
       <jump line="45" column="5" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/TriggerBehaviorTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>MonotonicTest.class</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>MonotonicTest.class</text>
       </register>
       <register name="/" type="4">
         <text>m_pipeline</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgQFJ1bGUKICAgcHVibGljIHRyYW5zaWVudCBUZXN0UGlwZWxpbmUgbV9waXBlbGluZSA9IFRlc3RQaXBlbGluZS5jcmVhdGUoKQogICAgICAgICAuZW5hYmxlQWJhbmRvbmVkTm9kZUVuZm9yY2VtZW50KHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgdHJpZ2dlcmVkTG9uZ3MKICAgICAgICAgICAgLmFwcGx5KCJTdW0gdHJpYWwgMSIsIFN1bS5sb25nc0dsb2JhbGx5KCkpCiAgICAgICAgICAgIC5hcHBseShMb2dnaW5nSU8uaW5mbyhNb25vdG9uaWNUZXN0LmNsYXNzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
