@@ -109,11 +109,11 @@
       <file name="/Dummy.txt" timestamp="1507546508894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" timestamp="1507572393926">
-        <mark key="[" line="225" column="30" />
-        <mark key="]" line="213" column="40" />
-        <mark key="^" line="213" column="40" />
-        <mark key="." line="213" column="40" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" timestamp="1507583195544">
+        <mark key="[" line="214" column="70" />
+        <mark key="]" line="214" column="11" />
+        <mark key="^" line="214" column="11" />
+        <mark key="." line="214" column="11" />
       </file>
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Hashtable.java" timestamp="1507284985936">
         <mark key="'" line="909" column="26" />
