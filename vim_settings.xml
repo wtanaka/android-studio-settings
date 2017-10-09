@@ -55,12 +55,12 @@
         <mark key="." line="67" column="73" />
         <mark key="^" line="36" column="60" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" timestamp="1507526483042">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="70" column="68" />
-        <mark key="]" line="70" column="68" />
-        <mark key="." line="70" column="68" />
-        <mark key="^" line="70" column="11" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" timestamp="1507528616002">
+        <mark key="'" line="57" column="7" />
+        <mark key="[" line="93" column="57" />
+        <mark key="]" line="93" column="56" />
+        <mark key="." line="93" column="56" />
+        <mark key="^" line="93" column="56" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/Wc.java" timestamp="1506233030775">
         <mark key="'" line="26" column="13" />
@@ -178,14 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="38" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="169" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="198" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="204" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="188" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="181" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="172" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="165" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="156" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="180" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="182" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
@@ -278,79 +270,72 @@
       <jump line="69" column="38" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="57" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="77" column="62" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="62" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="59" column="25" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="73" column="63" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="83" column="24" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="75" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="87" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="55" column="7" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWlmeVRpbWVzdGFtcHNBbmRXaW5kb3dzRm5cPg==</text>
+        <text encoding="base64">XDxlbGVtZW50VGltZXN0YW1wXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IEludGVydmFsV2luZG93KG5ldyBJbnN0YW50KDEyMEwpLCBuZXcgSW5zdGFudCgxMzBMKSksCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QKICAgICAgICAgICAgKENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QKICAgICAgICAgICAgKENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmJveGVkKCkK</text>
+      </register>
+      <register name="4" type="4">
+        <text>.boxed()</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgSW1tdQo=</text>
+      </register>
+      <register name="6" type="4">
         <text>new IntervalWindow(new Instant(120L), new Instant(130L))</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>ValueInSingleWindow.of(&quot;v0&quot;, new Instant(123L),
                   new IntervalWindow(new Instant(120L), new Instant(130L)),
                   PaneInfo.NO_FIRING)</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>.ofMillis(2)</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>Duration.ofMillis(10L)</text>
-      </register>
-      <register name="5" type="4">
-        <text>Duration.ofMillis(10)</text>
-      </register>
-      <register name="6" type="4">
-        <text>builder
-                  .addElements(TimestampedValue.of(&quot;dei&quot;, new Instant(123L)))</text>
-      </register>
-      <register name="7" type="8">
-        <text>+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPSBuZXcgRG9GbjxULCBWYWx1ZUluU2luZ2xlV2luZG93PFQ+PigpCiAgICAgICAgIHsKICAgICAgICAgICAgQFByb2Nlc3NFbGVtZW50CiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHByb2Nlc3NFbGVtZW50KFByb2Nlc3NDb250ZXh0IGMsCiAgICAgICAgICAgICAgICAgIEJvdW5kZWRXaW5kb3cgd2luZG93KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgIGMub3V0cHV0KAogICAgICAgICAgICAgICAgICAgICBWYWx1ZUluU2luZ2xlV2luZG93Lm9mKGMuZWxlbWVudCgpLCBjLnRpbWVzdGFtcCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICB3aW5kb3csIGMucGFuZSgpKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgfTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWlmeVRpbWVzdGFtcHNBbmRXaW5kb3dzRm5cPg==</last-search>
+      <last-search encoding="base64">XDxlbGVtZW50VGltZXN0YW1wXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWlmeVRpbWVzdGFtcHNBbmRXaW5kb3dzRm5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlbGVtZW50VGltZXN0YW1wXD4=</last-pattern>
       <last-replace>Strictly</last-replace>
       <last-substitute>Strongly</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>strong</entry>
         <entry>WE</entry>
         <entry encoding="base64">XDxLVkNhbGxiYWNrXD4=</entry>
         <entry>Strong</entry>
@@ -370,6 +355,7 @@
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
         <entry>final</entry>
         <entry encoding="base64">XDxSZWlmeVRpbWVzdGFtcHNBbmRXaW5kb3dzRm5cPg==</entry>
+        <entry encoding="base64">XDxlbGVtZW50VGltZXN0YW1wXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFQ+LzxLVjxLLFY+Pi9nYw==</entry>
