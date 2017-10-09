@@ -123,9 +123,6 @@
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Hashtable.java" timestamp="1507284985936">
         <mark key="'" line="909" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/util/MovingFunction.java" timestamp="1507404207966">
-        <mark key="." line="125" column="31" />
-      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/BufferingTest.java" timestamp="1506232744258">
         <mark key="[" line="33" column="45" />
         <mark key="]" line="33" column="56" />
@@ -164,13 +161,6 @@
         <mark key="^" line="52" column="21" />
         <mark key="." line="52" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" timestamp="1507285324753">
-        <mark key="'" line="63" column="13" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="34" column="17" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/security/Provider.java" timestamp="1507285014227">
         <mark key="'" line="337" column="31" />
       </file>
@@ -186,15 +176,8 @@
       <file name="/fragment.java" timestamp="1507546508900">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/io/google-cloud-platform/src/test/java/org/apache/beam/sdk/io/gcp/bigquery/FakeJobService.java" timestamp="1507404263238">
-        <mark key="." line="412" column="34" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
-      <jump line="169" column="31" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
-      <jump line="180" column="18" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="68" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="179" column="18" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="57" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="186" column="45" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
@@ -291,13 +274,17 @@
       <jump line="266" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="39" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/TriggerBehaviorTest.java" />
       <jump line="45" column="5" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/TriggerBehaviorTest.java" />
+      <jump line="45" column="5" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MonotonicTest.class</text>
+        <text>V)</text>
       </register>
       <register name="-" type="4">
-        <text>MonotonicTest.class</text>
+        <text>V)</text>
       </register>
       <register name="/" type="4">
         <text>m_pipeline</text>
@@ -306,31 +293,31 @@
         <text encoding="base64">ICAgICAgdHJpZ2dlcmVkTG9uZ3MKICAgICAgICAgICAgLmFwcGx5KCJTdW0gdHJpYWwgMSIsIFN1bS5sb25nc0dsb2JhbGx5KCkpCiAgICAgICAgICAgIC5hcHBseShMb2dnaW5nSU8uaW5mbyhNb25vdG9uaWNUZXN0LmNsYXNzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgUmVjb3JkZXI8VmFsdWVJblNpbmdsZVdpbmRvdzxUPj4gbV9yZWNvcmRlcjsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgIEBUZXN0CiAgIHB1YmxpYyB2b2lkIHRlc3RFdmVudFRpbWUoKQogICB7CiAgICAgIG1fcGlwZWxpbmUKICAgICAgICAgICAgLmFwcGx5KEdlbmVyYXRlU2VxdWVuY2UuZnJvbSgwTCkudG8oMTAwMDBMKSkKICAgICAgICAgICAgLmFwcGx5KFdpbmRvdwogICAgICAgICAgICAgICAgICAuPExvbmc+Y29uZmlndXJlKCkKICAgICAgICAgICAgICAgICAgLnRyaWdnZXJpbmcoUmVwZWF0ZWRseS5mb3JldmVyKEFmdGVyRmlyc3Qub2YoCiAgICAgICAgICAgICAgICAgICAgICAgIEFmdGVyUGFuZS5lbGVtZW50Q291bnRBdExlYXN0KDEpLAogICAgICAgICAgICAgICAgICAgICAgICBBZnRlclByb2Nlc3NpbmdUaW1lLnBhc3RGaXJzdEVsZW1lbnRJblBhbmUoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYWxpZ25lZFRvKER1cmF0aW9uLm1pbGxpcygxTCkpKSkpCiAgICAgICAgICAgICAgICAgIC5hY2N1bXVsYXRpbmdGaXJlZFBhbmVzKCkpCiAgICAgICAgICAgIC5hcHBseShTdW0ubG9uZ3NHbG9iYWxseSgpKQogICAgICAgICAgICAuYXBwbHkoTG9nZ2luZ0lPLmluZm8oTW9ub3RvbmljVGVzdC5jbGFzcykpOwogICAgICBtX3BpcGVsaW5lLnJ1bigpOwogICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtb3JlIHRlc3RzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCAwNzNmYTgwNWJjYThkN2NjZGIxOWQ5OTlhMmNmNDhiZjRiYWQ5MzdjCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">b3V0cHV0IGFsbCBpbnB1dCBlbGVtZW50cyB3aXRoIHRoZQogICAgKiB0aW1lc3RhbXAsIHdpbmRvdyBhbmQgUGFuZUluZm8gcmVpZmllZCBpbnRvIGEge0BsaW5rIFZhbHVlSW5TaW5nbGVXaW5kb3d9CiAgICAqIG9iamVjdC4KICAgICogPHA+CiAgICAqIEEge0BsaW5rIERvRm59IHRoYXQ=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgIEBUZXN0CiAgIHB1YmxpYyB2b2lkIHRlc3RFdmVudFRpbWUoKQogICB7CiAgICAgIG1fcGlwZWxpbmUKICAgICAgICAgICAgLmFwcGx5KEdlbmVyYXRlU2VxdWVuY2UuZnJvbSgwTCkudG8oMTAwMDBMKSkKICAgICAgICAgICAgLmFwcGx5KFdpbmRvdwogICAgICAgICAgICAgICAgICAuPExvbmc+Y29uZmlndXJlKCkKICAgICAgICAgICAgICAgICAgLnRyaWdnZXJpbmcoUmVwZWF0ZWRseS5mb3JldmVyKEFmdGVyRmlyc3Qub2YoCiAgICAgICAgICAgICAgICAgICAgICAgIEFmdGVyUGFuZS5lbGVtZW50Q291bnRBdExlYXN0KDEpLAogICAgICAgICAgICAgICAgICAgICAgICBBZnRlclByb2Nlc3NpbmdUaW1lLnBhc3RGaXJzdEVsZW1lbnRJblBhbmUoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYWxpZ25lZFRvKER1cmF0aW9uLm1pbGxpcygxTCkpKSkpCiAgICAgICAgICAgICAgICAgIC5hY2N1bXVsYXRpbmdGaXJlZFBhbmVzKCkpCiAgICAgICAgICAgIC5hcHBseShTdW0ubG9uZ3NHbG9iYWxseSgpKQogICAgICAgICAgICAuYXBwbHkoTG9nZ2luZ0lPLmluZm8oTW9ub3RvbmljVGVzdC5jbGFzcykpOwogICAgICBtX3BpcGVsaW5lLnJ1bigpOwogICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtb3JlIHRlc3RzCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PDw8PDw8PCAwNzNmYTgwNWJjYThkN2NjZGIxOWQ5OTlhMmNmNDhiZjRiYWQ5MzdjCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
