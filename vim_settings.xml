@@ -56,12 +56,11 @@
         <mark key="." line="67" column="73" />
         <mark key="^" line="36" column="60" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" timestamp="1507536544732">
-        <mark key="'" line="117" column="3" />
-        <mark key="[" line="134" column="43" />
-        <mark key="]" line="135" column="17" />
-        <mark key="." line="135" column="17" />
-        <mark key="^" line="135" column="17" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" timestamp="1507538636526">
+        <mark key="[" line="135" column="12" />
+        <mark key="]" line="135" column="13" />
+        <mark key="." line="135" column="13" />
+        <mark key="^" line="135" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/Wc.java" timestamp="1506233030775">
         <mark key="'" line="26" column="13" />
@@ -179,18 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="62" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="139" column="18" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="122" column="32" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="144" column="21" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="123" column="18" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="152" column="18" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="91" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="192" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="203" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="48" column="11" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="226" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="202" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
@@ -262,7 +249,6 @@
       <jump line="57" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="62" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
-      <jump line="59" column="25" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="73" column="63" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="83" column="24" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="75" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
@@ -277,57 +263,71 @@
       <jump line="61" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="95" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="97" column="4" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
-      <jump line="108" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="113" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="148" column="28" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="123" column="28" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="59" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="136" column="43" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="40" column="37" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="41" column="36" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="108" column="43" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="157" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="150" column="40" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="141" column="48" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="164" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="163" column="19" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="142" column="39" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.accumulatingFiredPanes()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ewogICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgcHVibGljIE9iamVjdCBhZGRJbnB1dChPYmplY3QgYWNjdW11bGF0b3IsIE9iamVjdCBpbnB1dCkKICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgIHB1YmxpYyBPYmplY3QgY3JlYXRlQWNjdW11bGF0b3IoKQogICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgcHVibGljIE9iamVjdCBleHRyYWN0T3V0cHV0KE9iamVjdCBhY2N1bXVsYXRvcikKICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgIHB1YmxpYyBPYmplY3QgbWVyZ2VBY2N1bXVsYXRvcnMoSXRlcmFibGUgYWNjdW11bGF0b3JzKQogICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>.accumulatingFiredPanes()</text>
+        <text encoding="base64">U2VyaWFsaXphYmxlRnVuY3Rpb248SXRlcmFibGU8Pz4sID8+</text>
       </register>
       <register name="/" type="4">
-        <text>No</text>
+        <text encoding="base64">XDxwcmVDb21iaW5lUmVzdWx0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgIEBUZXN0CiAgIHB1YmxpYyB2b2lkIHNsaWRpbmdXaW5kb3dOb1RyaWdnZXIoKQogICB7CiAgICAgIFRlc3RTdHJlYW0uQnVpbGRlcjxTdHJpbmc+IGJ1aWxkZXIgPSBUZXN0U3RyZWFtLmNyZWF0ZSgKICAgICAgICAgICAgU3RyaW5nVXRmOENvZGVyLm9mKCkpOwogICAgICBmaW5hbCBpbnQgZWxlbWVudENvdW50ID0gMTAwMDsKICAgICAgZmluYWwgbG9uZyBldmVudFRpbWUgPSAxMjNMOwogICAgICBMaXN0PFN0cmluZz4gdmFsdWVzID0gbWFrZVN0cmluZ3MoZWxlbWVudENvdW50KTsKICAgICAgZm9yIChTdHJpbmcgdmFsdWUgOiB2YWx1ZXMpCiAgICAgIHsKICAgICAgICAgYnVpbGRlciA9IGJ1aWxkZXIuYWRkRWxlbWVudHMoCiAgICAgICAgICAgICAgIFRpbWVzdGFtcGVkVmFsdWUub2YodmFsdWUsIG5ldyBJbnN0YW50KGV2ZW50VGltZSkpKTsKICAgICAgfQogICAgICBQQ29sbGVjdGlvbjxWYWx1ZUluU2luZ2xlV2luZG93PFN0cmluZz4+IHByZUNvbWJpbmVSZXN1bHQgPSBtX3BpcGVsaW5lCiAgICAgICAgICAgIC5hcHBseShidWlsZGVyLmFkdmFuY2VXYXRlcm1hcmtUb0luZmluaXR5KCkpCiAgICAgICAgICAgIC5hcHBseShXaW5kb3cuaW50byhTbGlkaW5nV2luZG93cy5vZihEdXJhdGlvbi5taWxsaXMoMTBMKSkKICAgICAgICAgICAgICAgICAgLmV2ZXJ5KER1cmF0aW9uLm1pbGxpcyg1TCkpKSkKICAgICAgICAgICAgLmFwcGx5KFJlaWZ5VGltZXN0YW1wQW5kV2luZG93Lm9mKCkpOwogICAgICBIYXNoU2V0PFZhbHVlSW5TaW5nbGVXaW5kb3c8U3RyaW5nPj4gZXhwZWN0ZWQgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgIGZvciAoSW50ZXJ2YWxXaW5kb3cgd2luZG93IDogQXJyYXlzLmFzTGlzdCgKICAgICAgICAgICAgbmV3IEludGVydmFsV2luZG93KG5ldyBJbnN0YW50KDEyMEwpLCBuZXcgSW5zdGFudCgxMzBMKSksCiAgICAgICAgICAgIG5ldyBJbnRlcnZhbFdpbmRvdyhuZXcgSW5zdGFudCgxMTVMKSwgbmV3IEluc3RhbnQoMTI1TCkpKSkKICAgICAgewogICAgICAgICBmb3IgKFN0cmluZyB2YWx1ZSA6IHZhbHVlcykKICAgICAgICAgewogICAgICAgICAgICBleHBlY3RlZC5hZGQoCiAgICAgICAgICAgICAgICAgIFZhbHVlSW5TaW5nbGVXaW5kb3cub2YodmFsdWUsIG5ldyBJbnN0YW50KGV2ZW50VGltZSksIHdpbmRvdywKICAgICAgICAgICAgICAgICAgICAgICAgUGFuZUluZm8uTk9fRklSSU5HKSk7CiAgICAgICAgIH0KICAgICAgfQogICAgICBQQXNzZXJ0LnRoYXQocHJlQ29tYmluZVJlc3VsdCkuY29udGFpbnNJbkFueU9yZGVyKGV4cGVjdGVkKTsKICAgICAgbV9waXBlbGluZS5ydW4oKTsKICAgfQo=</text>
+        <text encoding="base64">PEludGVnZXIsIExpc3Q8SW50ZWdlcj4sIExpc3Q8SW50ZWdlcj4+IA==</text>
       </register>
-      <register name="1" type="4">
-        <text>.accumulatingFiredPanes()</text>
+      <register name="1" type="2">
+        <text encoding="base64">ewogICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgcHVibGljIE9iamVjdCBhZGRJbnB1dChPYmplY3QgYWNjdW11bGF0b3IsIE9iamVjdCBpbnB1dCkKICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgIHB1YmxpYyBPYmplY3QgY3JlYXRlQWNjdW11bGF0b3IoKQogICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgcHVibGljIE9iamVjdCBleHRyYWN0T3V0cHV0KE9iamVjdCBhY2N1bXVsYXRvcikKICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgIHB1YmxpYyBPYmplY3QgbWVyZ2VBY2N1bXVsYXRvcnMoSXRlcmFibGUgYWNjdW11bGF0b3JzKQogICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFwcGx5KFJlaWZ5VGltZXN0YW1wQW5kV2luZG93Lm9mKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgU2VyaWFsaXphYmxlRnVuY3Rpb248SXRlcmFibGU8Pz4sID8+Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxTdHJpbmc+IHZhbHVlcyA9IG1ha2VTdHJpbmdzKGVsZW1lbnRDb3VudCk7Cg==</text>
+      <register name="3" type="4">
+        <text>Sum.integersGlobally()</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxTdHJpbmc+IHZhbHVlcyA9IG1ha2VTdHJpbmdzKGVsZW1lbnRDb3VudCk7Cg==</text>
+      <register name="4" type="4">
+        <text>.withAllowedLateness(Duration.ZERO)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZmluYWwgaW50IGVsZW1lbnRDb3VudCA9IDEwMDA7CiAgICAgIGZpbmFsIGxvbmcgZXZlbnRUaW1lID0gMTIzTDsK</text>
+      <register name="5" type="4">
+        <text>into(SlidingWindows.of(Duration.millis(10L))
+                        .every(Duration.millis(5L)))</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZmluYWwgaW50IGVsZW1lbnRDb3VudCA9IDEwMDA7CiAgICAgIGZpbmFsIGxvbmcgZXZlbnRUaW1lID0gMTIzTDsK</text>
+        <text encoding="base64">ICAgICAgZmluYWwgU3RyaW5nVXRmOENvZGVyIGNvZGVyID0gU3RyaW5nVXRmOENvZGVyLm9mKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJlQ29tYmluZVJlc3VsdC5hcHBseSgKICAgICAgICAgICAgTG9nZ2luZ0lPLndhcm4oUmVpZnlUaW1lc3RhbXBBbmRXaW5kb3dUZXN0LmNsYXNzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcFRvT2JqKGkgLT4gKCJ2IiArIGkpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJlQ29tYmluZVJlc3VsdC5hcHBseShMb2dnaW5nSU8ud2FybihSZWlmeVRpbWVzdGFtcEFuZFdpbmRvd1Rlc3QKICAgICAgICAgICAgLmNsYXNzKSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>.accumulatingFiredPanes()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>No</last-search>
+      <last-search encoding="base64">XDxwcmVDb21iaW5lUmVzdWx0XD4=</last-search>
       <last-offset />
-      <last-pattern>No</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVDb21iaW5lUmVzdWx0XD4=</last-pattern>
       <last-replace>Strictly</last-replace>
       <last-substitute>Strongly</last-substitute>
       <last-dir>1</last-dir>
@@ -335,10 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Strong</entry>
-        <entry>Strongly</entry>
-        <entry>test</entry>
-        <entry encoding="base64">XDxCdWlsZGVyXD4=</entry>
         <entry>Inc</entry>
         <entry encoding="base64">XDwxMFw+</entry>
         <entry encoding="base64">XDwxMDAwMDBcPg==</entry>
@@ -355,6 +351,10 @@
         <entry encoding="base64">XDxlbGVtZW50VGltZXN0YW1wXD4=</entry>
         <entry>Key</entry>
         <entry>No</entry>
+        <entry encoding="base64">XDxtYWtlU3RyaW5nc1w+</entry>
+        <entry encoding="base64">XDxtYWtlQnVpbGRlclw+</entry>
+        <entry encoding="base64">XDxleHBlY3RlZFw+</entry>
+        <entry encoding="base64">XDxwcmVDb21iaW5lUmVzdWx0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFQ+LzxLVjxLLFY+Pi9nYw==</entry>
