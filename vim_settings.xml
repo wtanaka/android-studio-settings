@@ -109,11 +109,11 @@
       <file name="/Dummy.txt" timestamp="1507546508894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" timestamp="1507568765869">
-        <mark key="[" line="209" column="51" />
-        <mark key="]" line="209" column="51" />
-        <mark key="." line="209" column="51" />
-        <mark key="^" line="209" column="51" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" timestamp="1507569560711">
+        <mark key="[" line="211" column="67" />
+        <mark key="]" line="211" column="67" />
+        <mark key="." line="211" column="67" />
+        <mark key="^" line="211" column="67" />
       </file>
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Hashtable.java" timestamp="1507284985936">
         <mark key="'" line="909" column="26" />
@@ -145,8 +145,12 @@
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/StringToByteArray.java" timestamp="1506267171650">
         <mark key="'" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" timestamp="1507394938922">
-        <mark key="'" line="216" column="55" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" timestamp="1507569488000">
+        <mark key="'" line="202" column="5" />
+        <mark key="[" line="100" column="24" />
+        <mark key="]" line="100" column="34" />
+        <mark key="^" line="100" column="34" />
+        <mark key="." line="100" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/FlattenKVTest.java" timestamp="1507184165724">
         <mark key="'" line="109" column="46" />
@@ -182,10 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
-      <jump line="69" column="38" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="62" column="23" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="73" column="63" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
@@ -282,16 +282,20 @@
       <jump line="228" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" />
       <jump line="248" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" />
       <jump line="294" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" />
+      <jump line="178" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
+      <jump line="147" column="17" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
+      <jump line="90" column="14" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
+      <jump line="202" column="5" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">U2VyaWFsaXphYmxlQ29tcGFyYXRvcjxWPg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">U2VyaWFsaXphYmxlQ29tcGFyYXRvcjxWPg==</text>
       </register>
       <register name="/" type="4">
-        <text>natural</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU2VyaWFsaXphYmxlQ29tcGFyYXRvcjxMaXN0PFN0cmluZz4+CiAgICAgICAgIENPTVBBUkVfU0VDT05EX0lURU0gPSBuZXcgU2VyaWFsaXphYmxlQ29tcGFyYXRvcjxMaXN0PFN0cmluZz4+KCkKICAgewogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIGludCBjb21wYXJlKExpc3Q8U3RyaW5nPiBvMSwgTGlzdDxTdHJpbmc+IG8yKQogICAgICB7CiAgICAgICAgIHJldHVybiBvMS5nZXQoMSkuY29tcGFyZVRvKG8yLmdldCgxKSk7CiAgICAgIH0KICAgfTsK</text>
@@ -328,9 +332,9 @@
       </register>
     </registers>
     <search>
-      <last-search>natural</last-search>
+      <last-search encoding="base64">Pg==</last-search>
       <last-offset />
-      <last-pattern>natural</last-pattern>
+      <last-pattern encoding="base64">Pg==</last-pattern>
       <last-replace>Strictly</last-replace>
       <last-substitute>Strongly</last-substitute>
       <last-dir>1</last-dir>
@@ -338,8 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZWlmeVRpbWVzdGFtcHNBbmRXaW5kb3dzRm5cPg==</entry>
-        <entry encoding="base64">XDxlbGVtZW50VGltZXN0YW1wXD4=</entry>
         <entry>Key</entry>
         <entry>No</entry>
         <entry encoding="base64">XDxtYWtlU3RyaW5nc1w+</entry>
@@ -358,6 +360,8 @@
         <entry>Comparator</entry>
         <entry>Natural</entry>
         <entry>natural</entry>
+        <entry encoding="base64">XDxUcmFuc2Zvcm1cPg==</entry>
+        <entry encoding="base64">Pg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFQ+LzxLVjxLLFY+Pi9nYw==</entry>
