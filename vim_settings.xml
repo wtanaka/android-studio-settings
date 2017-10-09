@@ -55,12 +55,12 @@
         <mark key="." line="67" column="73" />
         <mark key="^" line="36" column="60" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" timestamp="1507528616002">
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" timestamp="1507532311514">
         <mark key="'" line="57" column="7" />
         <mark key="[" line="93" column="57" />
-        <mark key="]" line="93" column="56" />
-        <mark key="." line="93" column="56" />
-        <mark key="^" line="93" column="56" />
+        <mark key="]" line="73" column="62" />
+        <mark key="." line="73" column="62" />
+        <mark key="^" line="73" column="62" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/Wc.java" timestamp="1506233030775">
         <mark key="'" line="26" column="13" />
