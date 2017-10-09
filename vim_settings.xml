@@ -56,12 +56,11 @@
         <mark key="." line="67" column="73" />
         <mark key="^" line="36" column="60" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" timestamp="1507541321114">
-        <mark key="'" line="153" column="12" />
-        <mark key="[" line="111" column="32" />
-        <mark key="]" line="111" column="32" />
-        <mark key="^" line="111" column="32" />
-        <mark key="." line="111" column="32" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" timestamp="1507543065982">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="181" column="111" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/Wc.java" timestamp="1506233030775">
         <mark key="'" line="26" column="13" />
@@ -171,7 +170,7 @@
         <mark key="^" line="61" column="47" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1507535171965">
+      <file name="/fragment.java" timestamp="1507543075670">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/beam/sdks/java/io/google-cloud-platform/src/test/java/org/apache/beam/sdk/io/gcp/bigquery/FakeJobService.java" timestamp="1507404263238">
@@ -179,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
       <jump line="143" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
       <jump line="132" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
       <jump line="121" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
@@ -279,13 +277,14 @@
       <jump line="115" column="30" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="175" column="50" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="153" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="165" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgIHB1YmxpYyBPdXRwdXRUIGFwcGx5KElucHV0VCBpbnB1dCkKICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICByZXR1cm4gc3VwZXIuYXBwbHkoaW5wdXQpOwogICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>OutputT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVDb21iaW5lUmVzdWx0XD4=</text>
@@ -294,31 +293,31 @@
         <text encoding="base64">ICAgICAgQ29tYmluZUZuPFZhbHVlSW5TaW5nbGVXaW5kb3c8SW50ZWdlcj4sCiAgICAgICAgICAgIEFycmF5TGlzdDxWYWx1ZUluU2luZ2xlV2luZG93PEludGVnZXI+PiwKICAgICAgICAgICAgTGlzdDxWYWx1ZUluU2luZ2xlV2luZG93PEludGVnZXI+Pj4KICAgICAgICAgICAgY29tYmluZUZuID0gbmV3IENvbWJpbmVGbjxWYWx1ZUluU2luZ2xlV2luZG93PEludGVnZXI+LAogICAgICAgICAgICBBcnJheUxpc3Q8VmFsdWVJblNpbmdsZVdpbmRvdzxJbnRlZ2VyPj4sCiAgICAgICAgICAgIExpc3Q8VmFsdWVJblNpbmdsZVdpbmRvdzxJbnRlZ2VyPj4+KCkKICAgICAgewogICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgcHVibGljIEFycmF5TGlzdDxWYWx1ZUluU2luZ2xlV2luZG93PEludGVnZXI+PiBhZGRJbnB1dCgKICAgICAgICAgICAgICAgQXJyYXlMaXN0PFZhbHVlSW5TaW5nbGVXaW5kb3c8SW50ZWdlcj4+IGFjY3VtdWxhdG9yLAogICAgICAgICAgICAgICBWYWx1ZUluU2luZ2xlV2luZG93PEludGVnZXI+IGlucHV0KQogICAgICAgICB7CiAgICAgICAgICAgIGFjY3VtdWxhdG9yLmFkZChpbnB1dCk7CiAgICAgICAgICAgIHJldHVybiBhY2N1bXVsYXRvcjsKICAgICAgICAgfQoKICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgIHB1YmxpYyBBcnJheUxpc3Q8VmFsdWVJblNpbmdsZVdpbmRvdzxJbnRlZ2VyPj4gY3JlYXRlQWNjdW11bGF0b3IoKQogICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgfQoKICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgIHB1YmxpYyBMaXN0PFZhbHVlSW5TaW5nbGVXaW5kb3c8SW50ZWdlcj4+IGV4dHJhY3RPdXRwdXQoCiAgICAgICAgICAgICAgIEFycmF5TGlzdDxWYWx1ZUluU2luZ2xlV2luZG93PEludGVnZXI+PiBhY2N1bXVsYXRvcikKICAgICAgICAgewogICAgICAgICAgICByZXR1cm4gYWNjdW11bGF0b3I7CiAgICAgICAgIH0KCiAgICAgICAgIEBPdmVycmlkZQogICAgICAgICBwdWJsaWMgQXJyYXlMaXN0PFZhbHVlSW5TaW5nbGVXaW5kb3c8SW50ZWdlcj4+IG1lcmdlQWNjdW11bGF0b3JzKAogICAgICAgICAgICAgICBJdGVyYWJsZTxBcnJheUxpc3Q8VmFsdWVJblNpbmdsZVdpbmRvdzxJbnRlZ2VyPj4+IGFjY3VtdWxhdG9ycykKICAgICAgICAgewogICAgICAgICAgICBBcnJheUxpc3Q8VmFsdWVJblNpbmdsZVdpbmRvdzxJbnRlZ2VyPj4gbWVyZ2VkID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIGZvciAoQXJyYXlMaXN0PFZhbHVlSW5TaW5nbGVXaW5kb3c8SW50ZWdlcj4+IGFjY3VtIDogYWNjdW11bGF0b3JzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgIG1lcmdlZC5hZGRBbGwoYWNjdW0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBtZXJnZWQ7CiAgICAgICAgIH0KICAgICAgfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgIHB1YmxpYyBPdXRwdXRUIGFwcGx5KElucHV0VCBpbnB1dCkKICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICByZXR1cm4gc3VwZXIuYXBwbHkoaW5wdXQpOwogICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFwcGx5KE1hcEVsZW1lbnRzLnZpYShuZXcgU2ltcGxlRnVuY3Rpb248SW5wdXRULCBPdXRwdXRUPigpIHt9ID4gKCkgewogICB9KSk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlMaXN0PFZhbHVlSW5TaW5nbGVXaW5kb3c8SW50ZWdlcj4+LAogICAgICAgICAgICBMaXN0PFZhbHVlSW5TaW5nbGVXaW5kb3c8SW50ZWdlcj4+PigpCiAgICAgIHsKICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgIHB1YmxpYyBBcnJheUxpc3Q8VmFsdWVJblNpbmdsZVdpbmRvdzxJbnRlZ2VyPj4gYWRkSW5wdXQoCiAgICAgICAgICAgICAgIEFycmF5TGlzdDxWYWx1ZUluU2luZ2xlV2luZG93PEludGVnZXI+PiBhY2N1bXVsYXRvciwKICAgICAgICAgICAgICAgVmFsdWVJblNpbmdsZVdpbmRvdzxJbnRlZ2VyPiBpbnB1dCkKICAgICAgICAgewogICAgICAgICAgICBhY2N1bXVsYXRvci5hZGQoaW5wdXQpOwogICAgICAgICAgICByZXR1cm4gYWNjdW11bGF0b3I7CiAgICAgICAgIH0KCiAgICAgICAgIEBPdmVycmlkZQogICAgICAgICBwdWJsaWMgQXJyYXlMaXN0PFZhbHVlSW5TaW5nbGVXaW5kb3c8SW50ZWdlcj4+IGNyZWF0ZUFjY3VtdWxhdG9yKCkKICAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgIH0KCiAgICAgICAgIEBPdmVycmlkZQogICAgICAgICBwdWJsaWMgTGlzdDxWYWx1ZUluU2luZ2xlV2luZG93PEludGVnZXI+PiBleHRyYWN0T3V0cHV0KAogICAgICAgICAgICAgICBBcnJheUxpc3Q8VmFsdWVJblNpbmdsZVdpbmRvdzxJbnRlZ2VyPj4gYWNjdW11bGF0b3IpCiAgICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIGFjY3VtdWxhdG9yOwogICAgICAgICB9CgogICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgcHVibGljIEFycmF5TGlzdDxWYWx1ZUluU2luZ2xlV2luZG93PEludGVnZXI+PiBtZXJnZUFjY3VtdWxhdG9ycygKICAgICAgICAgICAgICAgSXRlcmFibGU8QXJyYXlMaXN0PFZhbHVlSW5TaW5nbGVXaW5kb3c8SW50ZWdlcj4+PiBhY2N1bXVsYXRvcnMpCiAgICAgICAgIHsKICAgICAgICAgICAgQXJyYXlMaXN0PFZhbHVlSW5TaW5nbGVXaW5kb3c8SW50ZWdlcj4+IG1lcmdlZCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICBmb3IgKEFycmF5TGlzdDxWYWx1ZUluU2luZ2xlV2luZG93PEludGVnZXI+PiBhY2N1bSA6IGFjY3VtdWxhdG9ycykKICAgICAgICAgICAgewogICAgICAgICAgICAgICBtZXJnZWQuYWRkQWxsKGFjY3VtKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gbWVyZ2VkOwogICAgICAgICB9CiAgICAgIH07Cg==</text>
+      <register name="3" type="4">
+        <text>.into(TypeDescriptors.integers())</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgQXJyYXlMaXN0PFZhbHVlSW5TaW5nbGVXaW5kb3c8SW50ZWdlcj4+LAogICAgICAgICBMaXN0PFZhbHVlSW5TaW5nbGVXaW5kb3c8SW50ZWdlcj4+Pgo=</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="5" type="4">
+        <text>.apply(LoggingIO.warn(ReifyTimestampAndWindowTest.class))</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChJbnRlcnZhbFdpbmRvdyB3aW5kb3cgOiBBcnJheXMuYXNMaXN0KAogICAgICAgICAgICBuZXcgSW50ZXJ2YWxXaW5kb3cobmV3IEluc3RhbnQoMTIwTCksIG5ldyBJbnN0YW50KDEzMEwpKSwKICAgICAgICAgICAgbmV3IEludGVydmFsV2luZG93KG5ldyBJbnN0YW50KDExNUwpLCBuZXcgSW5zdGFudCgxMjVMKSkpKQogICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgSGFzaFNldDxWYWx1ZUluU2luZ2xlV2luZG93PEludGVnZXI+PiBleHBlY3RlZCA9IG5ldyBIYXNoU2V0PD4oKTsKICAgICAgUEFzc2VydC50aGF0KHByZUNvbWJpbmVSZXN1bHQpLmNvbnRhaW5zSW5BbnlPcmRlcihleHBlY3RlZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgZm9yIChJbnRlZ2VyIHZhbHVlIDogdmFsdWVzKQogICAgICB7CiAgICAgICAgIGV4cGVjdGVkLmFkZChWYWx1ZUluU2luZ2xlV2luZG93Lm9mKHZhbHVlLCBuZXcgSW5zdGFudChldmVudFRpbWUpLAogICAgICAgICAgICAgICBHbG9iYWxXaW5kb3cuSU5TVEFOQ0UsIFBhbmVJbmZvLk5PX0ZJUklORykpOwogICAgICB9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ewogICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgcHVibGljIExpc3Q8SW50ZWdlcj4gYWRkSW5wdXQoTGlzdDxJbnRlZ2VyPiBhY2N1bXVsYXRvciwKICAgICAgICAgICAgICAgVmFsdWVJblNpbmdsZVdpbmRvdzxJbnRlZ2VyPiBpbnB1dCkKICAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgfQoKICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgIHB1YmxpYyBMaXN0PEludGVnZXI+IGNyZWF0ZUFjY3VtdWxhdG9yKCkKICAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgfQoKICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgIHB1YmxpYyBMaXN0PEludGVnZXI+IGV4dHJhY3RPdXRwdXQoTGlzdDxJbnRlZ2VyPiBhY2N1bXVsYXRvcikKICAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgfQoKICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgIHB1YmxpYyBMaXN0PEludGVnZXI+IG1lcmdlQWNjdW11bGF0b3JzKAogICAgICAgICAgICAgICBJdGVyYWJsZTxMaXN0PEludGVnZXI+PiBhY2N1bXVsYXRvcnMpCiAgICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgIH0KICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text>TypeDescriptors.integers()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
