@@ -10,12 +10,11 @@
         <mark key="." line="670" column="27" />
         <mark key="^" line="664" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindow.java" timestamp="1507568499822">
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindow.java" timestamp="1507619685029">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="70" column="33" />
-        <mark key="]" line="70" column="48" />
-        <mark key="." line="70" column="48" />
-        <mark key="^" line="70" column="48" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1507546357881">
         <mark key="[" line="0" column="0" />
@@ -63,12 +62,8 @@
         <mark key="." line="67" column="73" />
         <mark key="^" line="36" column="60" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" timestamp="1507619040476">
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" timestamp="1507619651418">
         <mark key="'" line="120" column="2" />
-        <mark key="[" line="271" column="64" />
-        <mark key="]" line="271" column="65" />
-        <mark key="." line="271" column="65" />
-        <mark key="^" line="271" column="65" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/Wc.java" timestamp="1506233030775">
         <mark key="'" line="26" column="13" />
@@ -291,10 +286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>public v</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRLdnNcPg==</text>
@@ -303,31 +298,31 @@
         <text encoding="base64">ICAgICAgZm9yIChpbnQgaSA9IDE7IGkgPCBwcmVNb25vdG9uaWNSZXN1bHQuc2l6ZSgpOyArK2kpCiAgICAgIHsKICAgICAgICAgbG9uZyBkaWZmID0gcHJlTW9ub3RvbmljUmVzdWx0LmdldChpKSAtIHByZU1vbm90b25pY1Jlc3VsdC5nZXQoaSAtIDEpOwogICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oZGlmZik7CiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgTE9HLmUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaXNBbGxQb3NpdGl2ZSA9IHRydWU7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKGRpZmYpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKHJlc3VsdCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKHByZU1vbm90b25pY1Jlc3VsdCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgTE9HLmUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaXNBbGxQb3NpdGl2ZSA9IHRydWU7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKGRpZmYpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKHJlc3VsdCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKHByZU1vbm90b25pY1Jlc3VsdCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgcHJlTW9ub3RvbmljUmVzdWx0LmdldChpLTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
