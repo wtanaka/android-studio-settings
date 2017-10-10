@@ -145,12 +145,12 @@
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/StringToByteArray.java" timestamp="1506267171650">
         <mark key="'" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/TriggerBehaviorTest.java" timestamp="1507586015392">
-        <mark key="'" line="45" column="5" />
-        <mark key="[" line="59" column="19" />
-        <mark key="]" line="59" column="26" />
-        <mark key="." line="59" column="26" />
-        <mark key="^" line="59" column="26" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/TriggerBehaviorTest.java" timestamp="1507621955228">
+        <mark key="'" line="46" column="5" />
+        <mark key="[" line="64" column="25" />
+        <mark key="]" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+        <mark key="^" line="60" column="56" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" timestamp="1507592974860">
         <mark key="'" line="73" column="0" />
@@ -165,6 +165,11 @@
         <mark key="]" line="52" column="21" />
         <mark key="^" line="52" column="21" />
         <mark key="." line="52" column="21" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" timestamp="1507621992806">
+        <mark key="[" line="58" column="15" />
+        <mark key="]" line="58" column="15" />
+        <mark key="." line="58" column="15" />
       </file>
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/security/Provider.java" timestamp="1507285014227">
         <mark key="'" line="337" column="31" />
@@ -285,44 +290,44 @@
       <jump line="120" column="2" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRLdnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChpbnQgaSA9IDE7IGkgPCBwcmVNb25vdG9uaWNSZXN1bHQuc2l6ZSgpOyArK2kpCiAgICAgIHsKICAgICAgICAgbG9uZyBkaWZmID0gcHJlTW9ub3RvbmljUmVzdWx0LmdldChpKSAtIHByZU1vbm90b25pY1Jlc3VsdC5nZXQoaSAtIDEpOwogICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oZGlmZik7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFwcGx5KCJSZWlmeTEiLCBSZWlmeVRpbWVzdGFtcEFuZFdpbmRvdy5vZigpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="1" type="4">
+        <text>LoggingIO.info(&quot;TRIAL1&quot;)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>LoggingIO.info(&quot;TRIAL2&quot;)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>LoggingIO.info(&quot;TRIAL1&quot;)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgTE9HLmUK</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaXNBbGxQb3NpdGl2ZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKGRpZmYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgTE9HLmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKHByZU1vbm90b25pY1Jlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgaXNBbGxQb3NpdGl2ZSA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKGRpZmYpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
