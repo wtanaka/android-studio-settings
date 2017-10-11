@@ -166,10 +166,11 @@
         <mark key="^" line="52" column="21" />
         <mark key="." line="52" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" timestamp="1507621992806">
-        <mark key="[" line="58" column="15" />
-        <mark key="]" line="58" column="15" />
-        <mark key="." line="58" column="15" />
+      <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" timestamp="1507711188095">
+        <mark key="[" line="64" column="53" />
+        <mark key="]" line="65" column="20" />
+        <mark key="." line="65" column="20" />
+        <mark key="^" line="65" column="20" />
       </file>
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/security/Provider.java" timestamp="1507285014227">
         <mark key="'" line="337" column="31" />
@@ -291,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>windo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>windo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRLdnNcPg==</text>
@@ -302,32 +303,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmFwcGx5KCJSZWlmeTEiLCBSZWlmeVRpbWVzdGFtcEFuZFdpbmRvdy5vZigpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>LoggingIO.info(&quot;TRIAL1&quot;)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>LoggingIO.info(&quot;TRIAL2&quot;)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
         <text>LoggingIO.info(&quot;TRIAL1&quot;)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="4" type="4">
+        <text>LoggingIO.info(&quot;TRIAL2&quot;)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>LoggingIO.info(&quot;TRIAL1&quot;)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgTE9HLmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaXNBbGxQb3NpdGl2ZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKGRpZmYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgTE9HLmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
