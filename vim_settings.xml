@@ -72,12 +72,12 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/ReifyTimestampsAndWindows.java" timestamp="1507422916816">
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/ReifyTimestampsAndWindows.java" timestamp="1507876526612">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="54" column="82" />
-        <mark key="]" line="54" column="82" />
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="13" />
         <mark key="^" line="54" column="82" />
-        <mark key="." line="54" column="82" />
+        <mark key="." line="27" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/functions/Identity.java" timestamp="1507183864544">
         <mark key="[" line="24" column="53" />
@@ -103,10 +103,6 @@
         <mark key="]" line="37" column="73" />
         <mark key="^" line="37" column="73" />
         <mark key="." line="37" column="73" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/transforms/ReifyTimestampsTest.java" timestamp="1507422979017">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="70" />
       </file>
       <file name="/Dummy.txt" timestamp="1507546508894">
         <mark key="[" line="0" column="0" />
@@ -292,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VGltZXN0YW1wc0FuZFdpbmRvd3NUZXN0IA==</text>
+        <text>ReifyTimestampsAndWindows</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGltZXN0YW1wc0FuZFdpbmRvd3NUZXN0IA==</text>
+        <text>ReifyTimestampsAndWindows</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRLdnNcPg==</text>
