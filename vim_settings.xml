@@ -16,7 +16,7 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1507546357881">
+      <file name="/a.dummy" timestamp="1507875912565">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="17" />
       </file>
@@ -91,11 +91,11 @@
         <mark key="." line="354" column="30" />
         <mark key="^" line="354" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/transforms/ReifyTimestampsAndWindowsTest.java" timestamp="1507423492211">
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/transforms/ReifyTimestampsAndWindowsTest.java" timestamp="1507876256117">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="39" column="7" />
-        <mark key="]" line="41" column="3" />
-        <mark key="." line="41" column="3" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
         <mark key="^" line="41" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StringValueOf.java" timestamp="1506265881830">
@@ -184,7 +184,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" timestamp="1507568718774">
         <mark key="'" line="294" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1507546508900">
+      <file name="/fragment.java" timestamp="1507875896827">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -292,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>windo</text>
+        <text encoding="base64">VGltZXN0YW1wc0FuZFdpbmRvd3NUZXN0IA==</text>
       </register>
       <register name="-" type="4">
-        <text>windo</text>
+        <text encoding="base64">VGltZXN0YW1wc0FuZFdpbmRvd3NUZXN0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRLdnNcPg==</text>
