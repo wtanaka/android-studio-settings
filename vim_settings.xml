@@ -107,7 +107,7 @@
         <mark key="^" line="37" column="73" />
         <mark key="." line="37" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507546508894">
+      <file name="/Dummy.txt" timestamp="1508006399272">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" timestamp="1507584808969">
@@ -202,7 +202,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" timestamp="1507568718774">
         <mark key="'" line="294" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1508002577520">
+      <file name="/fragment.java" timestamp="1508006399321">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
