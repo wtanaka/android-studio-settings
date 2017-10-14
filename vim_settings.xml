@@ -117,6 +117,13 @@
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Hashtable.java" timestamp="1507284985936">
         <mark key="'" line="909" column="26" />
       </file>
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/ReifyTimestamps.java" timestamp="1507998970637">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
+        <mark key="^" line="36" column="23" />
+      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/BufferingTest.java" timestamp="1506232744258">
         <mark key="[" line="33" column="45" />
         <mark key="]" line="33" column="56" />
@@ -130,10 +137,12 @@
         <mark key="." line="52" column="14" />
         <mark key="^" line="52" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" timestamp="1507996412422">
-        <mark key="[" line="53" column="84" />
-        <mark key="]" line="53" column="84" />
-        <mark key="." line="53" column="84" />
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" timestamp="1507998923506">
+        <mark key="'" line="69" column="2" />
+        <mark key="[" line="69" column="2" />
+        <mark key="]" line="65" column="14" />
+        <mark key="^" line="65" column="14" />
+        <mark key="." line="65" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/PercentMatch.java" timestamp="1507432731020">
         <mark key="'" line="44" column="13" />
@@ -184,17 +193,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" timestamp="1507568718774">
         <mark key="'" line="294" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1507875896827">
+      <file name="/fragment.java" timestamp="1507998830084">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" />
-      <jump line="386" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" />
-      <jump line="374" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" />
-      <jump line="372" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" />
-      <jump line="368" column="54" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" />
-      <jump line="367" column="38" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" />
       <jump line="94" column="45" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" />
       <jump line="110" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" />
       <jump line="154" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" />
@@ -289,55 +292,61 @@
       <jump line="258" column="34" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="254" column="26" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="120" column="2" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
+      <jump line="49" column="15" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/ReifyTimestamps.java" />
+      <jump line="70" column="24" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="69" column="2" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>of</text>
+        <text>moved</text>
       </register>
       <register name="-" type="4">
-        <text>of</text>
+        <text>moved</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWNvcmRLdnNcPg==</text>
+        <text encoding="base64">XDx0aW1lc3RhbXBlZFZhbHVlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFwcGx5KCJSZWlmeTEiLCBSZWlmeVRpbWVzdGFtcEFuZFdpbmRvdy5vZigpKQo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBDcmVhdGUgYSB7QGxpbmsgUFRyYW5zZm9ybX0gdGhhdCB3aWxsIG91dHB1dCBhbGwgaW5wdXQge0BsaW5rIEtWIEtWc30gd2l0aCB0aGUgdGltZXN0YW1wIGluc2lkZQogICAqIHRoZSB2YWx1ZS4KICAgKi8KICBwdWJsaWMgc3RhdGljIDxLLCBWPgogICAgICBQVHJhbnNmb3JtPFBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBLVjxLLCBWPj4sIFBDb2xsZWN0aW9uPEtWPEssIFRpbWVzdGFtcGVkVmFsdWU8Vj4+Pj4KICAgICAgICAgIGluVmFsdWVzKCkgewogICAgcmV0dXJuIFBhckRvLm9mKG5ldyBSZWlmeS5SZWlmeVZhbHVlVGltZXN0YW1wRG9GbjxLLCBWPigpKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="4">
-        <text>LoggingIO.info(&quot;TRIAL1&quot;)</text>
+        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyA8SywgVj4KICBQVHJhbnNmb3JtPFBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBLVjxLLCBWPj4sIFBDb2xsZWN0aW9uPEtWPEssIFRpbWVzdGFtcGVkVmFsdWU8Vj4+Pj4KICB0aW1lc3RhbXBlZFZhbHVlcygpIHsKICAgIHJldHVybiBSZWlmeVRpbWVzdGFtcHMuaW5WYWx1ZXMoKTsKICA=</text>
       </register>
-      <register name="4" type="4">
-        <text>LoggingIO.info(&quot;TRIAL2&quot;)</text>
-      </register>
-      <register name="5" type="4">
-        <text>LoggingIO.info(&quot;TRIAL1&quot;)</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgTE9HLmUK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="7" type="4">
+        <text>LoggingIO.info(&quot;TRIAL1&quot;)</text>
+      </register>
+      <register name="8" type="4">
+        <text>LoggingIO.info(&quot;TRIAL2&quot;)</text>
+      </register>
+      <register name="9" type="4">
+        <text>LoggingIO.info(&quot;TRIAL1&quot;)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWNvcmRLdnNcPg==</last-search>
+      <last-search encoding="base64">XDx0aW1lc3RhbXBlZFZhbHVlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWNvcmRLdnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0aW1lc3RhbXBlZFZhbHVlc1w+</last-pattern>
       <last-replace>Strictly</last-replace>
       <last-substitute>In</last-substitute>
       <last-dir>-1</last-dir>
@@ -345,8 +354,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Natural</entry>
-        <entry>natural</entry>
         <entry encoding="base64">XDxUcmFuc2Zvcm1cPg==</entry>
         <entry encoding="base64">Pg==</entry>
         <entry>In</entry>
@@ -365,6 +372,8 @@
         <entry>RecordKvs</entry>
         <entry>MakeKvs</entry>
         <entry encoding="base64">XDxSZWNvcmRLdnNcPg==</entry>
+        <entry encoding="base64">XDxSZWlmeVZhbHVlVGltZXN0YW1wRG9Gblw+</entry>
+        <entry encoding="base64">XDx0aW1lc3RhbXBlZFZhbHVlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFQ+LzxLVjxLLFY+Pi9nYw==</entry>
