@@ -124,10 +124,11 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/transforms/ReifyTest.java" timestamp="1508001012388">
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/transforms/ReifyTest.java" timestamp="1508003532432">
         <mark key="[" line="50" column="29" />
-        <mark key="]" line="50" column="29" />
-        <mark key="." line="50" column="29" />
+        <mark key="]" line="38" column="6" />
+        <mark key="." line="38" column="6" />
+        <mark key="^" line="38" column="6" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/BufferingTest.java" timestamp="1506232744258">
         <mark key="[" line="33" column="45" />
@@ -142,12 +143,12 @@
         <mark key="." line="52" column="14" />
         <mark key="^" line="52" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" timestamp="1508001174161">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="81" column="27" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" timestamp="1508003371325">
+        <mark key="'" line="42" column="17" />
+        <mark key="[" line="55" column="55" />
+        <mark key="]" line="55" column="55" />
+        <mark key="." line="55" column="55" />
+        <mark key="^" line="55" column="55" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/PercentMatch.java" timestamp="1507432731020">
         <mark key="'" line="44" column="13" />
@@ -189,41 +190,20 @@
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/security/Provider.java" timestamp="1507285014227">
         <mark key="'" line="337" column="31" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/testing/GatherAllPanes.java" timestamp="1507423214323">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/testing/GatherAllPanes.java" timestamp="1508003550160">
+        <mark key="[" line="60" column="24" />
+        <mark key="]" line="60" column="24" />
         <mark key="^" line="61" column="47" />
-        <mark key="." line="62" column="0" />
+        <mark key="." line="60" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" timestamp="1507568718774">
         <mark key="'" line="294" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1507998830084">
+      <file name="/fragment.java" timestamp="1508002577520">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="63" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="65" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="66" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="64" column="12" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="59" column="20" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="57" column="20" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="142" column="66" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="174" column="66" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="205" column="66" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="236" column="66" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="21" column="15" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="91" column="25" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/Monotonic.java" />
-      <jump line="2" column="32" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/TriggerBehaviorTest.java" />
-      <jump line="150" column="3" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/TriggerBehaviorTest.java" />
-      <jump line="142" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="74" column="51" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="78" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="84" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="99" column="33" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
       <jump line="146" column="35" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
@@ -284,74 +264,96 @@
       <jump line="258" column="34" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="254" column="26" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="120" column="2" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
-      <jump line="49" column="15" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="32" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/ReifyTimestamps.java" />
       <jump line="70" column="24" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="80" column="39" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="72" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="62" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
-      <jump line="66" column="4" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="100" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="99" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="58" column="2" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
-      <jump line="88" column="2" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="98" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="97" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="89" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="85" column="3" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="103" column="2" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="104" column="10" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="94" column="15" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="38" column="23" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="60" column="5" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="67" column="4" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="49" column="23" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="52" column="82" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="42" column="17" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgKiBpbnB1dHMgd2l0aCAge0BsaW5rIEtWIEtWc30gd2l0aCAKICAgKiB0aGUgdGltZXN0YW1wIGluc2lkZQogICAqIHRoZSB2YWx1ZS4K</text>
+      <register name="&quot;" type="4">
+        <text>of</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGltZXN0YW1wZW91dHB1dCBhbGwg</text>
+        <text>of</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lc3RhbXBlZFZhbHVlc1w+</text>
+        <text encoding="base64">XDxXaW5kb3dJblZhbHVlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSBzdGF0aWMgY2xhc3MgUmVpZnlWYWx1ZVRpbWVzdGFtcERvRm48SywgVj4KICAgICAgZXh0ZW5kcyBEb0ZuPEtWPEssIFY+LCBLVjxLLCBUaW1lc3RhbXBlZFZhbHVlPFY+Pj4gewogICAgQFByb2Nlc3NFbGVtZW50CiAgICBwdWJsaWMgdm9pZCBwcm9jZXNzRWxlbWVudChQcm9jZXNzQ29udGV4dCBjb250ZXh0KSB7CiAgICAgIGNvbnRleHQub3V0cHV0KAogICAgICAgICAgS1Yub2YoCiAgICAgICAgICAgICAgY29udGV4dC5lbGVtZW50KCkuZ2V0S2V5KCksCiAgICAgICAgICAgICAgVGltZXN0YW1wZWRWYWx1ZS5vZihjb250ZXh0LmVsZW1lbnQoKS5nZXRWYWx1ZSgpLCBjb250ZXh0LnRpbWVzdGFtcCgpKSkpOwogICAgfQogIH0K</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBQcm9jZXNzRWxlbWVudAogICAgcHVibGljIHZvaWQgcHJvY2Vzc0VsZW1lbnQoUHJvY2Vzc0NvbnRleHQgYywgQm91bmRlZFdpbmRvdyB3aW5kb3cpIHsKICAgICAgYy5vdXRwdXRXaXRoVGltZXN0YW1wKFZhbHVlSW5TaW5nbGVXaW5kb3cub2YoYy5lbGVtZW50KCksIGMudGltZXN0YW1wKCksIHdpbmRvdywgYy5wYW5lKCkpLAogICAgICAgICAgYy50aW1lc3RhbXAoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBpbnB1dHMgd2l0aCAge0BsaW5rIEtWIEtWc30gd2l0aCAKICAgKiB0aGUgdGltZXN0YW1wIGluc2lkZQogICAqIHRoZSB2YWx1ZS4K</text>
+        <text encoding="base64">ICAgICAgICAgIC5zZXRDb2RlcigpOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>.getValue()</text>
+        <text>ValueInSingleWindow.Coder.of(input.getCoder(),
+              input.getWindowingStrategy().getWindowFn().windowCoder())</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEtWLm9mKAogICAgICAgICAgICAgIGNvbnRleHQuZWxlbWVudCgpLmdldEtleSgpLAo=</text>
+      <register name="3" type="4">
+        <text>, c.timestamp()</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyA8SywgVj4KICBQVHJhbnNmb3JtPFBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBLVjxLLCBWPj4sIFBDb2xsZWN0aW9uPEtWPEssIFRpbWVzdGFtcGVkVmFsdWU8Vj4+Pj4KICB0aW1lc3RhbXBlZFZhbHVlcygpIHsKICAgIHJldHVybiBSZWlmeVRpbWVzdGFtcHMuaW5WYWx1ZXMoKTsKICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgLyoqCiAgICogQ3JlYXRlIGEge0BsaW5rIFBUcmFuc2Zvcm19IHRoYXQgd2lsbCBvdXRwdXQgYWxsIGlucHV0IHtAbGluayBLViBLVnN9IHdpdGggdGhlIHRpbWVzdGFtcCBpbnNpZGUKICAgKiB0aGUgdmFsdWUuCiAgICovCiAgcHVibGljIHN0YXRpYyA8SywgVj4KICBQVHJhbnNmb3JtPFBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBLVjxLLCBWPj4sIFBDb2xsZWN0aW9uPEtWPEssIFRpbWVzdGFtcGVkVmFsdWU8Vj4+Pj4KICB0aW1lc3RhbXBlZFZhbHVlcygpIHsKICAgIHJldHVybiBQYXJEby5vZihuZXcgUmVpZnlWYWx1ZVRpbWVzdGFtcERvRm48SywgVj4oKSk7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBpbnB1dHMgd2l0aCAge0BsaW5rIEtWIEtWc30gd2l0aCAKICAgKiB0aGUgdGltZXN0YW1wIGluc2lkZQogICAqIHRoZSB2YWx1ZS4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>.getValue()</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIEtWLm9mKAogICAgICAgICAgICAgIGNvbnRleHQuZWxlbWVudCgpLmdldEtleSgpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lc3RhbXBlZFZhbHVlc1w+</last-search>
+      <last-search encoding="base64">XDxXaW5kb3dJblZhbHVlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lc3RhbXBlZFZhbHVlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxXaW5kb3dJblZhbHVlXD4=</last-pattern>
       <last-replace>Strictly</last-replace>
       <last-substitute>In</last-substitute>
       <last-dir>-1</last-dir>
@@ -359,10 +361,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUcmFuc2Zvcm1cPg==</entry>
-        <entry encoding="base64">Pg==</entry>
-        <entry>In</entry>
-        <entry>Serializazble</entry>
         <entry>Serializable</entry>
         <entry encoding="base64">XDxTZXJpYWxpemFibGVcPg==</entry>
         <entry>m_</entry>
@@ -379,6 +377,10 @@
         <entry encoding="base64">XDxSZWNvcmRLdnNcPg==</entry>
         <entry encoding="base64">XDxSZWlmeVZhbHVlVGltZXN0YW1wRG9Gblw+</entry>
         <entry encoding="base64">XDx0aW1lc3RhbXBlZFZhbHVlc1w+</entry>
+        <entry encoding="base64">XDxXaW5kb3dzXD4=</entry>
+        <entry encoding="base64">XDx3aW5kb3dzSW5WYWx1ZVw+</entry>
+        <entry encoding="base64">XDxXaW5kb3dcPg==</entry>
+        <entry encoding="base64">XDxXaW5kb3dJblZhbHVlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFQ+LzxLVjxLLFY+Pi9nYw==</entry>
