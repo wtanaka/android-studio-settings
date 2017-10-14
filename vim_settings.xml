@@ -130,7 +130,11 @@
         <mark key="." line="52" column="14" />
         <mark key="^" line="52" column="14" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/DoFn.java" timestamp="1507568302858" />
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" timestamp="1507996412422">
+        <mark key="[" line="53" column="84" />
+        <mark key="]" line="53" column="84" />
+        <mark key="." line="53" column="84" />
+      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/PercentMatch.java" timestamp="1507432731020">
         <mark key="'" line="44" column="13" />
         <mark key="[" line="0" column="0" />
@@ -288,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ReifyTimestampsAndWindows</text>
+        <text>of</text>
       </register>
       <register name="-" type="4">
-        <text>ReifyTimestampsAndWindows</text>
+        <text>of</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRLdnNcPg==</text>
