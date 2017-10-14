@@ -65,6 +65,9 @@
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" timestamp="1507619651418">
         <mark key="'" line="120" column="2" />
       </file>
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" timestamp="1508004405352">
+        <mark key="'" line="126" column="40" />
+      </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/Wc.java" timestamp="1506233030775">
         <mark key="'" line="26" column="13" />
         <mark key="[" line="27" column="1" />
@@ -204,23 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="99" column="33" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="146" column="35" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="158" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="171" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="174" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="191" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="195" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="210" column="55" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="227" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="274" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="239" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="243" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="262" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="266" column="6" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/TriggerBehaviorTest.java" />
-      <jump line="45" column="5" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/behavior/TriggerBehaviorTest.java" />
       <jump line="45" column="5" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
       <jump line="50" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
       <jump line="47" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
@@ -304,6 +290,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="121" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="42" column="17" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="88" column="17" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="78" column="26" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="305" column="66" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="299" column="12" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="273" column="35" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="253" column="26" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="252" column="17" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="251" column="36" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="250" column="24" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="249" column="17" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="178" column="34" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="171" column="34" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="133" column="19" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="130" column="26" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="129" column="36" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="128" column="24" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="126" column="40" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -313,7 +316,7 @@
         <text>of</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXaW5kb3dJblZhbHVlXD4=</text>
+        <text encoding="base64">XDxBdnJvR2VuZXJhdGVkVXNlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBQcm9jZXNzRWxlbWVudAogICAgcHVibGljIHZvaWQgcHJvY2Vzc0VsZW1lbnQoUHJvY2Vzc0NvbnRleHQgYywgQm91bmRlZFdpbmRvdyB3aW5kb3cpIHsKICAgICAgYy5vdXRwdXRXaXRoVGltZXN0YW1wKFZhbHVlSW5TaW5nbGVXaW5kb3cub2YoYy5lbGVtZW50KCksIGMudGltZXN0YW1wKCksIHdpbmRvdywgYy5wYW5lKCkpLAogICAgICAgICAgYy50aW1lc3RhbXAoKSk7CiAgICB9Cg==</text>
@@ -351,9 +354,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXaW5kb3dJblZhbHVlXD4=</last-search>
+      <last-search encoding="base64">XDxBdnJvR2VuZXJhdGVkVXNlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXaW5kb3dJblZhbHVlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBdnJvR2VuZXJhdGVkVXNlclw+</last-pattern>
       <last-replace>Strictly</last-replace>
       <last-substitute>In</last-substitute>
       <last-dir>-1</last-dir>
@@ -361,7 +364,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Serializable</entry>
         <entry encoding="base64">XDxTZXJpYWxpemFibGVcPg==</entry>
         <entry>m_</entry>
         <entry>m_pipeline</entry>
@@ -381,6 +383,7 @@
         <entry encoding="base64">XDx3aW5kb3dzSW5WYWx1ZVw+</entry>
         <entry encoding="base64">XDxXaW5kb3dcPg==</entry>
         <entry encoding="base64">XDxXaW5kb3dJblZhbHVlXD4=</entry>
+        <entry encoding="base64">XDxBdnJvR2VuZXJhdGVkVXNlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFQ+LzxLVjxLLFY+Pi9nYw==</entry>
