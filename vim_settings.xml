@@ -146,12 +146,12 @@
         <mark key="." line="52" column="14" />
         <mark key="^" line="52" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" timestamp="1508003371325">
-        <mark key="'" line="42" column="17" />
-        <mark key="[" line="55" column="55" />
-        <mark key="]" line="55" column="55" />
-        <mark key="." line="55" column="55" />
-        <mark key="^" line="55" column="55" />
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" timestamp="1508390950769">
+        <mark key="'" line="104" column="98" />
+        <mark key="[" line="31" column="98" />
+        <mark key="]" line="104" column="98" />
+        <mark key="." line="104" column="98" />
+        <mark key="^" line="104" column="98" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/PercentMatch.java" timestamp="1507432731020">
         <mark key="'" line="44" column="13" />
@@ -177,7 +177,6 @@
         <mark key="^" line="138" column="60" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/runners/core-construction-java/src/main/java/org/apache/beam/runners/core/construction/GroupByKeyTranslation.java" timestamp="1508037281317" />
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/FlattenKVTest.java" timestamp="1507184165724">
         <mark key="'" line="109" column="46" />
         <mark key="[" line="52" column="21" />
@@ -208,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="5" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
       <jump line="50" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
       <jump line="47" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
       <jump line="52" column="0" filename="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/test/Recorder.java" />
@@ -276,7 +274,6 @@
       <jump line="106" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="90" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="103" column="2" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
-      <jump line="104" column="10" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="96" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="94" column="15" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="38" column="23" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
@@ -308,13 +305,15 @@
       <jump line="129" column="36" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
       <jump line="128" column="24" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
       <jump line="126" column="40" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
+      <jump line="104" column="98" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>of</text>
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>of</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdnJvR2VuZXJhdGVkVXNlclw+</text>
