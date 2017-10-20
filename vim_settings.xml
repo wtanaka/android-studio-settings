@@ -101,6 +101,7 @@
         <mark key="." line="34" column="18" />
         <mark key="^" line="41" column="3" />
       </file>
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/impl/interpreter/operator/date/BeamSqlExtractExpressionTest.java" timestamp="1508477320120" />
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/StringValueOf.java" timestamp="1506265881830">
         <mark key="[" line="37" column="73" />
         <mark key="]" line="37" column="73" />
