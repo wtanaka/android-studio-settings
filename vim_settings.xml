@@ -120,10 +120,6 @@
       </file>
       <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/ReifyTimestamps.java" timestamp="1507998970637">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="23" />
-        <mark key="." line="36" column="23" />
-        <mark key="^" line="36" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/transforms/ReifyTest.java" timestamp="1508478011322">
         <mark key="'" line="115" column="0" />
@@ -190,12 +186,6 @@
       </file>
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/security/Provider.java" timestamp="1507285014227">
         <mark key="'" line="337" column="31" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/testing/GatherAllPanes.java" timestamp="1508003550160">
-        <mark key="[" line="60" column="24" />
-        <mark key="]" line="60" column="24" />
-        <mark key="^" line="61" column="47" />
-        <mark key="." line="60" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" timestamp="1507568718774">
         <mark key="'" line="294" column="24" />
