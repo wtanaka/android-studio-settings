@@ -105,7 +105,7 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508006399272">
+      <file name="/Dummy.txt" timestamp="1508634297058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/MonotonicTest.java" timestamp="1507584808969">
@@ -118,13 +118,13 @@
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Hashtable.java" timestamp="1507284985936">
         <mark key="'" line="909" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/ReifyTimestamps.java" timestamp="1507998970637">
-        <mark key="'" line="32" column="0" />
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/ReifyTimestamps.java" timestamp="1508633910455">
+        <mark key="'" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/transforms/ReifyTest.java" timestamp="1508478011322">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="^" line="47" column="1" />
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/transforms/ReifyTest.java" timestamp="1508634265764">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="46" column="23" />
+        <mark key="^" line="49" column="1" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/BufferingTest.java" timestamp="1506232744258">
@@ -140,12 +140,12 @@
         <mark key="." line="52" column="14" />
         <mark key="^" line="52" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" timestamp="1508390950769">
-        <mark key="'" line="104" column="98" />
-        <mark key="[" line="31" column="98" />
-        <mark key="]" line="104" column="98" />
-        <mark key="." line="104" column="98" />
-        <mark key="^" line="104" column="98" />
+      <file name="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" timestamp="1508633934028">
+        <mark key="'" line="121" column="5" />
+        <mark key="[" line="126" column="6" />
+        <mark key="]" line="107" column="5" />
+        <mark key="." line="126" column="9" />
+        <mark key="^" line="107" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/streaming/beam/src/main/java/com/wtanaka/beam/transforms/PercentMatch.java" timestamp="1507432731020">
         <mark key="'" line="44" column="13" />
@@ -190,13 +190,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.0.0/79741fb8745766d64a74edb0b1a76ba564f05469/beam-sdks-java-core-2.0.0-sources.jar!/org/apache/beam/sdk/transforms/Top.java" timestamp="1507568718774">
         <mark key="'" line="294" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1508477867320">
+      <file name="/fragment.java" timestamp="1508634297206">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="18" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
-      <jump line="215" column="37" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="214" column="58" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="47" column="9" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
       <jump line="51" column="13" filename="$USER_HOME$/Dropbox/streaming/beam/src/test/java/com/wtanaka/beam/transforms/ReifyTimestampAndWindowTest.java" />
@@ -260,7 +258,6 @@
       <jump line="52" column="82" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="86" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
-      <jump line="121" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="42" column="17" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
       <jump line="88" column="17" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
       <jump line="78" column="26" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/io/AvroIOTransformTest.java" />
@@ -295,6 +292,9 @@
       <jump line="144" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/transforms/ReifyTest.java" />
       <jump line="129" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/transforms/ReifyTest.java" />
       <jump line="115" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/test/java/org/apache/beam/sdk/transforms/ReifyTest.java" />
+      <jump line="29" column="13" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/ReifyTimestamps.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/ReifyTimestamps.java" />
+      <jump line="121" column="5" filename="$USER_HOME$/Dropbox/beam/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Reify.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
